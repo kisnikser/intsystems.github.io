@@ -125,6 +125,7 @@ courses:
     rnd_in_ai: Creation of Intelligent Systems
     signal_processing: Signal Processing
     software_engineering_data_analysis: Software Engineering for Data Analysis
+    intellectual_data_analysis: Intellectual Data  Analysis
   title:
     automation_scientific_research: Automation of Scientific Research
     bayesian_model_selection: Bayesian Model Selection
@@ -145,7 +146,8 @@ courses:
     rnd_in_ai: Creation of Intelligent Systems
     signal_processing: Signal Processing
     software_engineering_data_analysis: Software Engineering for Data Analysis
-
+    intellectual_data_analysis: Intellectual Data  Analysis
+    
 titles:
   index: Intelligent Systems Phystech
   about: About

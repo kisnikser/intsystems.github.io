@@ -123,6 +123,8 @@ courses:
     rnd_in_ai: Создание интеллектуальных систем
     signal_processing: Обработка сигналов
     software_engineering_data_analysis: Программная инженерия для анализа данных
+    intellectual_data_analysis: Интеллектуальный анализ данных
+    
   title:
     automation_scientific_research: Автоматизация научных исследований
     bayesian_model_selection: Байесовский выбор моделей
@@ -143,7 +145,8 @@ courses:
     rnd_in_ai: Создание интеллектуальных систем
     signal_processing: Обработка сигналов и многомерных массивов данных
     software_engineering_data_analysis: Программная инженерия для анализа данных
-
+    intellectual_data_analysis: Интеллектуальный анализ данных
+    
 titles:
   index: Интеллектуальные системы
   about: О кафедре

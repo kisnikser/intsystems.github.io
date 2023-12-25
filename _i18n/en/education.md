@@ -32,7 +32,7 @@
 | Время | Предмет  | Преподаватели  | Форма отчетности | Зачетные единицы |
 |---|---|---|---|---|
 | 10:30-12:00 | [Обработка сигналов](/ru/course/signal_processing/index.html) | [Северилов П.А.](/ru/people/severilov_pa/index.html) | Экзамен | 3 |
-| 12:10-13:40 | Интеллектуальный анализ данных | [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) | Зачет | 2 |
+| 12:10-13:40 | [Интеллектуальный анализ данных](/ru/course/intellectual_data_analysis/index.html)  | [Стрижов В.В.](/ru/people/strijov_vv/index.html), [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) | Зачет | 2 |
 | 14:30-16:00 | [Вероятностные тематические модели](/ru/course/probabilistic_topic_models/index.html) | [Воронцов К.В.](/ru/people/vorontsov_kv/index.html) | Дифф. зачет | 2 |
 
 
