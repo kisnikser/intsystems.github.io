@@ -16,9 +16,9 @@
 | Время | Предмет  | Преподаватели  | Форма отчетности  | Зачетные единицы |
 |---|---|---|---|---|
 | 10:30-12:00 | [Рекомендательные системы](/ru/course/recommender_systems/index.html) | [Гришанов А.В.](/ru/people/grishanov_av/index.html), [Володкевич А.А.](/ru/people/volodkevich_aa/index.html) | Дифф. зачет | 1 |
-| 12:10-13:40 | [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html) | [Самохина А.М.](/ru/people/samokhina_am/index.html) | Экзамен | 2 |
+| 12:10-13:40 | Методы оптимизации | Безносиков А. | Дифф. зачет | 1 | 
 | 14:30-16:00 | [Байесовский выбор моделей](/ru/course/bayesian_model_selection/index.html) | [Адуенко А.А.](/ru/people/aduenko_aa/index.html) | Экзамен | 2 |
-| 16:10-17:40 | Методы оптимизации | Безносиков А. | Дифф. зачет | 1 |
+| 16:10-17:40 | [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html) | [Самохина А.М.](/ru/people/samokhina_am/index.html) | Экзамен | 2 |
 
 #### 5 курс, 10 семестр – вторник
 
