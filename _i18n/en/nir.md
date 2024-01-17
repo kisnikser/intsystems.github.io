@@ -23,6 +23,7 @@
 | Polina Barabanshchikova | 2 | Tverberg type theorems |  [Polyanskii A.A.](http://polyanskii.com/)| [Paper](https://www.sciencedirect.com/science/article/pii/S0012365X23003801?via%3Dihub), [Slides](https://github.com/pollinab/MasterThesis/blob/main/Slides_Tverberg.pdf)
 | Konstantin Yakovlev | 2 | Concordant Neural Architecture Search on Multidomain Data | Bakhteev O. Y. | [Paper](https://github.com/Konstantin-Iakovlev/HyperOpt/blob/main/paper/HPO.pdf), [Slides](https://github.com/Konstantin-Iakovlev/HyperOpt/blob/main/slides/main.pdf), [Code](https://github.com/Konstantin-Iakovlev/HyperOpt/tree/main)
 | Ksenofontov Gregory | 2 |  Adversarial Schrödinger Bridges | [Roman Isachenko]() | [Code](https://github.com/gregkseno/master-thesis), [Slides](https://github.com/gregkseno/master-thesis/blob/master/slides/3d/3d%20term.pdf), [Draft](https://github.com/gregkseno/master-thesis/blob/master/paper/main.tex) |
+| Alkin Emil | 2 | Expressive Power of Recurrent Neural Networks, II | [Ivan Oseledets](https://faculty.skoltech.ru/people/ivanoseledets) |[Draft](https://github.com/AlkinEmil/MasterThesisPublic/blob/main/tensors_strong_hyp_sketch.pdf), [Slides](https://github.com/AlkinEmil/MasterThesisPublic/blob/main/Slides(S11).pdf), [Code](https://github.com/AlkinEmil/MasterThesisPublic/blob/main/ExpressivePowerOfRNN(S11).ipynb) |
 
 #### First Year Master Students
 
