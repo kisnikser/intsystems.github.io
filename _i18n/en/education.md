@@ -7,7 +7,7 @@
 | Время | Предмет  | Преподаватели  | Форма отчетности  | Зачетные единицы |
 |---|---|---|---|---|
 | 12:10-13:40 | [Введение в машинное обучение](/ru/course/introduction_machine_learning/index.html) | [Грабовой А.В.](/ru/people/grabovoy_av/index.html), [Воронцов К.В.](/ru/people/vorontsov_kv/index.html) | Дифф. зачет | 1 |
-| 14:30-16:00 | [Практикум по программированию на языке Питон](https://github.com/MelLain/mipt-python) | [Апишев М.А.](people/apishev_ma/index.html) | Зачет | 2 |
+| 14:30-16:00 | [Практикум по программированию на языке Питон](https://github.com/MelLain/mipt-python) | [Апишев М.А.](people/apishev_ma/index.html) | Зачет | 1 |
 | 16:10-17:40 | [Создание интеллектуальных систем](/ru/course/rnd_in_ai/index.html) | [Грабовой А.В.](people/grabovoy_av/index.html) | Зачет | 1 |
 | 17:50-19:20 | [Автоматизация научных исследований (Моя первая научная статья)](/ru/course/automation_scientific_research/index.html) | [Грабовой А.В.](/ru/people/grabovoy_av/index.html), [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) | Дифф. зачет | 1 |
 
@@ -15,10 +15,10 @@
 
 | Время | Предмет  | Преподаватели  | Форма отчетности  | Зачетные единицы |
 |---|---|---|---|---|
-| 10:30-12:00 | [Рекомендательные системы](/ru/course/recommender_systems/index.html) | [Гришанов А.В.](/ru/people/grishanov_av/index.html), [Володкевич А.А.](/ru/people/volodkevich_aa/index.html) | Дифф. зачет | 1 |
+| 10:30-12:00 | [Рекомендательные системы](/ru/course/recommender_systems/index.html) | [Гришанов А.В.](/ru/people/grishanov_av/index.html), [Володкевич А.А.](/ru/people/volodkevich_aa/index.html) | Дифф. зачет | 2 |
 | 12:10-13:40 | Методы оптимизации | Безносиков А. | Дифф. зачет | 1 | 
 | 14:30-16:00 | [Байесовский выбор моделей](/ru/course/bayesian_model_selection/index.html) | [Адуенко А.А.](/ru/people/aduenko_aa/index.html) | Экзамен | 2 |
-| 16:10-17:40 | [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html) | [Самохина А.М.](/ru/people/samokhina_am/index.html) | Экзамен | 2 |
+| 16:10-17:40 | [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html) | [Самохина А.М.](/ru/people/samokhina_am/index.html) | Дифф. зачет | 3 |
 
 #### 5 курс, 10 семестр – вторник
 
@@ -27,7 +27,8 @@
 | 10:30-12:00 | [Создание интеллектуальных систем](/ru/course/rnd_in_ai/index.html) | [Грабовой А.А.](/ru/people/grabovoy_av/index.html) | Экзамен | 2 |
 | 12:10-13:40 | [Биоинформатика](/ru/course/bioinformatics/index.html) | [Торшин И.Ю.](/ru/people/torshin_iy/index.html) | Дифф. зачет | 1 |
 | 14:30-16:00 | [Байесовское мультимоделирование](/ru/course/bayesian_multimodeling/index.html) | [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) | Экзамен | 2 |
-| 16:10-17:40 | [Планирование проектов по созданию программного обеспечения](/ru/course/software_engineering_data_analysis/index.html) | [Хританков А.С.](/ru/people/khritankov_as/index.html) | Дифф. зачет | 1 |
+| 16:10-17:40 | [Планирование проектов по созданию программного обеспечения](/ru/course/software_engineering_data_analysis/index.html) | [Хританков А.С.](/ru/people/khritankov_as/index.html) | Дифф. зачет | 2 |
+| 16:10-17:40 | Математические методы анализа текстов | ??? | Дифф. зачет | 2 |
 
 ### Ключевые даты
 - **6 февраля** - начало занятий.
