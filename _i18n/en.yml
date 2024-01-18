@@ -16,6 +16,7 @@ site:
       admission: admission
       materials: materials
       nir: research reports
+      scholarship: scholarships
       thesis: theses
       education: timetable
       seminars: seminars
@@ -155,6 +156,7 @@ titles:
   people: Lecturers
   materials: Materials
   nir: Research Reports
+  scholarship: Scholarships
   thesis: Theses
   education: Educational program schedule
   paper_guidelines: Papers and theses writing guidelines

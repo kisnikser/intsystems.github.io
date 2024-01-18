@@ -16,6 +16,7 @@ site:
       materials: материалы
       admission: поступающим
       nir: отчеты нир
+      scholarship: стипендии
       thesis: дипломы
       education: расписание
       seminars: семинары
@@ -154,6 +155,7 @@ titles:
   people: Преподаватели
   materials: Материалы
   nir: Отчеты НИР
+  scholarship: Стипендии
   thesis: Дипломы
   education: Учебный процесс
   admission: Поступающим
