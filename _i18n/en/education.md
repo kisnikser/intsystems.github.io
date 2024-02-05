@@ -24,11 +24,11 @@
 
 | Время | Предмет  | Преподаватели  | Форма отчетности  | Зачетные единицы |
 |---|---|---|---|---|
-| 10:30-12:00 | [Создание интеллектуальных систем](/ru/course/rnd_in_ai/index.html) | [Грабовой А.А.](/ru/people/grabovoy_av/index.html) | Экзамен | 2 |
+| 10:30-12:00 | [Биоинформатика](/ru/course/bioinformatics/index.html) | [Торшин И.Ю.](/ru/people/torshin_iy/index.html) | Дифф. зачет | 1 |
 | 12:50-14:20 | Методы оптимизации в машинном обучении | Безносиков А.Н. | Дифф. зачет | 2 |
 | 14:30-16:00 | [Байесовское мультимоделирование](/ru/course/bayesian_multimodeling/index.html) | [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) | Экзамен | 2 |
 | 16:10-17:40 | [Планирование проектов по созданию программного обеспечения](/ru/course/software_engineering_data_analysis/index.html) | [Хританков А.С.](/ru/people/khritankov_as/index.html) | Дифф. зачет | 1 |
-| 17:50-19:20 | [Биоинформатика](/ru/course/bioinformatics/index.html) | [Торшин И.Ю.](/ru/people/torshin_iy/index.html) | Дифф. зачет | 1 |
+| 17:50-19:20 | [Создание интеллектуальных систем](/ru/course/rnd_in_ai/index.html) | [Грабовой А.А.](/ru/people/grabovoy_av/index.html) | Экзамен | 2 |
 
 ### Ключевые даты
 - **6 февраля** - начало занятий.
