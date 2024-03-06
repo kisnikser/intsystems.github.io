@@ -16,7 +16,7 @@
 | Время | Предмет  | Преподаватели  | Форма отчетности  | Зачетные единицы |
 |---|---|---|---|---|
 | 10:30-12:00 | [Рекомендательные системы](/ru/course/recommender_systems/index.html) | [Гришанов А.В.](/ru/people/grishanov_av/index.html), [Володкевич А.А.](/ru/people/volodkevich_aa/index.html) | Дифф. зачет | 2 |
-| 12:50-14:20 | Методы оптимизации в машинном обучении | Безносиков А.Н. | Дифф. зачет | 1 | 
+| 12:50-14:20 | [Методы оптимизации в машинном обучении](/ru/course/optimization_methods) | [Безносиков А.Н.](/ru/people/beznosikov_an) | Дифф. зачет | 1 | 
 | 14:30-16:00 | [Байесовский выбор моделей](/ru/course/bayesian_model_selection/index.html) | [Адуенко А.А.](/ru/people/aduenko_aa/index.html) | Экзамен | 2 |
 | 16:10-17:40 | [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html) | [Самохина А.М.](/ru/people/samokhina_am/index.html) | Дифф. зачет | 3 |
 
@@ -25,7 +25,7 @@
 | Время | Предмет  | Преподаватели  | Форма отчетности  | Зачетные единицы |
 |---|---|---|---|---|
 | 10:30-12:00 | [Биоинформатика](/ru/course/bioinformatics/index.html) | [Торшин И.Ю.](/ru/people/torshin_iy/index.html) | Дифф. зачет | 1 |
-| 12:50-14:20 | Методы оптимизации в машинном обучении | Безносиков А.Н. | Дифф. зачет | 2 |
+| 12:50-14:20 | [Методы оптимизации в машинном обучении](/ru/course/optimization_methods) | [Безносиков А.Н.](/ru/people/beznosikov_an) | Дифф. зачет | 2 |
 | 14:30-16:00 | [Байесовское мультимоделирование](/ru/course/bayesian_multimodeling/index.html) | [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) | Экзамен | 2 |
 | 16:10-17:40 | [Планирование проектов по созданию программного обеспечения](/ru/course/software_engineering_data_analysis/index.html) | [Хританков А.С.](/ru/people/khritankov_as/index.html) | Дифф. зачет | 1 |
 | 17:50-19:20 | [Создание интеллектуальных систем](/ru/course/rnd_in_ai/index.html) | [Грабовой А.А.](/ru/people/grabovoy_av/index.html) | Экзамен | 2 |
@@ -71,8 +71,8 @@
 
 | Время | Предмет  | Преподаватели  | Форма отчетности | Зачетные единицы |
 |---|---|---|---|---|
-| 10:30-12:00 | [Порождающие модели машинного обучения: лекция](/ru/course/deep_generative_models/index.html) | [Исаченко Р.В.](/ru/people/isachenko_rv/index.html), Мокров П. | Экзамен | 3 |
-| 12:10-13:40 | [Порождающие модели машинного обучения: семинар](/ru/course/deep_generative_models/index.html) | [Исаченко Р.В.](/ru/people/isachenko_rv/index.html), Мокров П. |  |  |
+| 10:30-12:00 | [Порождающие модели машинного обучения: лекция](/ru/course/deep_generative_models/index.html) | [Исаченко Р.В.](/ru/people/isachenko_rv/index.html), [Мокров П.](/ru/people/mokrov_pv) | Экзамен | 3 |
+| 12:10-13:40 | [Порождающие модели машинного обучения: семинар](/ru/course/deep_generative_models/index.html) | [Исаченко Р.В.](/ru/people/isachenko_rv/index.html), [Мокров П.](/ru/people/mokrov_pv) |  |  |
 | 14:30-16:00 | [Байесовское мультимоделирование](/ru/course/bayesian_multimodeling/index.html) | [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) | Дифф. зачет | 2 |
 | 16:10-17:40 | [Создание интеллектуальных систем](/ru/course/rnd_in_ai/index.html) | [Грабовой А.В.](/ru/people/grabovoy_av/index.html) | Дифф. зачет | 2 |
 

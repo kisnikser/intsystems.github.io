@@ -69,6 +69,8 @@ peoples:
     bishuk_ay: Бишук Антон Юрьевич
     grishanov_av: Гришанов Алексей Владимирович
     volodkevich_aa: Володкевич Анна Алексеевна
+    beznosikov_an: Александр Николаевич Безносиков
+    mokrov_pv: Петр Владимирович Мокров
 
   title:
     grabovoy_av: Грабовой Андрей Валериевич
@@ -102,6 +104,8 @@ peoples:
     bishuk_ay: Бишук Антон Юрьевич
     grishanov_av: Гришанов Алексей Владимирович
     volodkevich_aa: Володкевич Анна Алексеевна
+    beznosikov_an: Александр Николаевич Безносиков
+    mokrov_pv: Петр Владимирович Мокров
 
 courses:
   name:
@@ -125,6 +129,7 @@ courses:
     signal_processing: Обработка сигналов
     software_engineering_data_analysis: Программная инженерия для анализа данных
     intellectual_data_analysis: Интеллектуальный анализ данных
+    optimization_methods: Методы оптимизации в машинном обучении
     
   title:
     automation_scientific_research: Автоматизация научных исследований
@@ -147,6 +152,7 @@ courses:
     signal_processing: Обработка сигналов и многомерных массивов данных
     software_engineering_data_analysis: Программная инженерия для анализа данных
     intellectual_data_analysis: Интеллектуальный анализ данных
+    optimization_methods: Методы оптимизации в машинном обучении
     
 titles:
   index: Интеллектуальные системы

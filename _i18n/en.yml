@@ -71,6 +71,8 @@ peoples:
     bishuk_ay: Anton Bishuk
     grishanov_av: Alexey Grishanov
     volodkevich_aa: Anna Volodkevich
+    beznosikov_an: Aleksandr Beznosikov
+    mokrov_pv: Petr Mokrov
 
   title:
     grabovoy_av: Andrey Grabovoy
@@ -104,6 +106,8 @@ peoples:
     bishuk_ay: Anton Bishuk
     grishanov_av: Alexey Grishanov
     volodkevich_aa: Anna Volodkevich
+    beznosikov_an: Aleksandr Beznosikov
+    mokrov_pv: Petr Mokrov
 
 courses:
   name:
@@ -127,6 +131,8 @@ courses:
     signal_processing: Signal Processing
     software_engineering_data_analysis: Software Engineering for Data Analysis
     intellectual_data_analysis: Intellectual Data  Analysis
+    optimization_methods: Optimization methods in Machine Learning
+    
   title:
     automation_scientific_research: Automation of Scientific Research
     bayesian_model_selection: Bayesian Model Selection
@@ -148,6 +154,7 @@ courses:
     signal_processing: Signal Processing
     software_engineering_data_analysis: Software Engineering for Data Analysis
     intellectual_data_analysis: Intellectual Data  Analysis
+    optimization_methods: Optimization methods in Machine Learning
     
 titles:
   index: Intelligent Systems Phystech
