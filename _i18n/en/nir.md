@@ -39,6 +39,7 @@
 | Dmitry Protasov | 1 | Automatic Music Transcription | Ivan Matveev | [Slides](https://github.com/Vosatorp/MusicNIR/blob/main/docs/MusicNIR_Slides.pdf) [Code](https://github.com/Vosatorp/MusicNIR/blob/main/code) [Draft](https://github.com/Vosatorp/MusicNIR/blob/main/docs/MusicNIR_Paper.pdf) |
 | Parviz Karimov | 1 | Representation learning for data point groups | [Roman Isachenko](https://intsystems.github.io/ru/people/isachenko_rv/index.html) | [Slides](https://github.com/intsystems/Karimov_2023_NIR/tree/master/slides) [Draft](https://github.com/intsystems/Karimov_2023_NIR/tree/master/paper) |
 | Eduard Vladimirov | 1 | Adversarial attacks on neural networks for time series | [Zaytsev A.A](https://faculty.skoltech.ru/people/alexeizaitsev) | [Slides](https://github.com/intsystems/Vladimirov_2023_NIR/blob/master/slides/eavladimirov_2023_nir.pdf) [Code](https://github.com/intsystems/Vladimirov_2023_NIR/tree/master/code) [Draft](https://github.com/intsystems/Vladimirov_2023_NIR/blob/master/paper/Vladimirov_2023_paper.pdf) |
+| Zharov Georgiy | 1 | Search for an effective architecture for solving the problem of obtaining multimodal embeddings for three or more modalities | | [Slides](https://github.com/Egor-s-gor/Zharov_2023_NIR/tree/main/slides) [Code](https://github.com/Egor-s-gor/Zharov_2023_NIR/tree/main/code)|
 
 #### Fourth Year Bachelor Students
 
