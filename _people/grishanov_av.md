@@ -6,7 +6,7 @@ position: gs
 avatar: grishanov_av.jpeg
 mail: grishanov.av@phystech.edu
 site:
-scholar: https://scholar.google.com/citations?user=LLgj-U4AAAAJ&hl=en
+scholar: scholar.google.com/citations?user=LLgj-U4AAAAJ&hl=en
 orcid:
 mathnet:
 scopus:
