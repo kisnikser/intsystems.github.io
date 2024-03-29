@@ -5,9 +5,9 @@
 ### Объявления и информация
 - [Поступление на кафедру](/ru/admission/)
 - [Слушателям отдельных курсов](/ru/admission/)
-- [Телеграм студентов](https://t.me/IS_MIPT) и [аспирантов](https://t.me/+BpMhAW-gWlM5OThi)
 - [Учебные курсы](/ru/course/) и [преподаватели](/ru/people/)
 - [Научные и учебные проекты](https://m1p.org)
+- **Телеграм** [студентов](https://t.me/IS_MIPT) и [аспирантов](https://t.me/+BpMhAW-gWlM5OThi)
 - **Youtube:** [Machine learning – Intelligent Systems](https://www.youtube.com/@MachineLearningIS)
 
 **Занятия:**
