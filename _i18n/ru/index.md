@@ -8,7 +8,7 @@
 - [Учебные курсы](/ru/course/) и [преподаватели](/ru/people/)
 - [Научные и учебные проекты](https://m1p.org)
 - **Телеграм** [студентов](https://t.me/IS_MIPT) и [аспирантов](https://t.me/+BpMhAW-gWlM5OThi)
-- **Youtube:** [Machine learning – Intelligent Systems](https://www.youtube.com/@MachineLearningIS)
+- **Youtube** [Machine learning – Intelligent Systems](https://www.youtube.com/@MachineLearningIS)
 
 **Занятия:**
 - бакалавры [m1p.org/go_zoom](https://m1p.org/go_zoom)
