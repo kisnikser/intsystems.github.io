@@ -17,7 +17,7 @@
 
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-| Boeva Galina | 1 | Label Attention Network for Temporal Sets prediction | [Zaytsev A. A.](https://faculty.skoltech.ru/people/alexeizaitsev) | [Paper](https://github.com/Gaechka777/NIR_2024/blob/main/slides/Final_presentation_.pdf), [Slides](https://github.com/Gaechka777/NIR_2024/blob/main/slides/Final_presentation_.pdf), [Code](https://github.com/Gaechka777/NIR_2024/tree/main)|
+| Boeva Galina | 1 | Label Attention Network for Temporal Sets prediction | [Zaytsev A. A.](https://faculty.skoltech.ru/people/alexeizaitsev) | [Paper](https://github.com/Gaechka777/NIR_2024/blob/main/paper/Boeva2024LabelRelation.pdf), [Slides](https://github.com/Gaechka777/NIR_2024/blob/main/slides/Final_presentation_.pdf), [Code](https://github.com/Gaechka777/NIR_2024/tree/main)|
 
 #### Fourth Year Bachelor Students
 
