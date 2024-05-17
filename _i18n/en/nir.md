@@ -11,6 +11,7 @@
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Nikita Kiselev | 4 | Bayesian Sample Size Estimation | [Grabovoy A. V.](https://andriygav.github.io) | [Paper 1](https://github.com/kisnikser/Posterior-Distributions-Proximity/blob/main/paper/main.pdf), [Code 1](https://github.com/kisnikser/Posterior-Distributions-Proximity/tree/main/code), [Paper 2](https://github.com/kisnikser/Likelihood-Bootstrapping/blob/main/paper/main.pdf), [Code 2](https://github.com/kisnikser/Likelihood-Bootstrapping/tree/main/code), [Slides](https://www.overleaf.com/read/gvvjjvgqhmkb#211daf) |
+| Andrey Veprikov | 4 | A Mathematical Model of the Hidden Feedback Loop Effect in Machine Learning Systems  | [Khritankov A.S.](https://www.hse.ru/org/persons/501143261) | [Paper](https://github.com/intsystems/Veprikov-BS-Thesis/tree/master/paper), [Code](https://gitlab.com/repeated_ml/dynamic-systems-model), [Slides](https://github.com/intsystems/Veprikov-BS-Thesis/tree/master/slides) |
 
 ### 2023 FALL
 
