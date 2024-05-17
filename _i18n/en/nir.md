@@ -13,6 +13,11 @@
 | Kovaleva Maria | 2 | Addition of external information for enhancement of local embeddings for event sequences data models | [Zaytsev A. A.](https://faculty.skoltech.ru/people/alexeizaitsev) | [Paper](https://arxiv.org/pdf/2404.02047), [Thesis](https://github.com/MarKovka20/transactions_gen_models/blob/main/thesis.pdf), [Slides](https://github.com/MarKovka20/transactions_gen_models/blob/main/Kovaleva_Maria_predefence_for_MIPT.pdf), [Code](https://github.com/MarKovka20/transactions_gen_models/tree/main)|
 | Konstantin Yakovlev | 2 | Concordant Neural Architecture Search on Multidomain Data | Bakhteev O. Y. | [Paper](https://github.com/Konstantin-Iakovlev/HyperOpt/blob/main/paper/HPO.pdf), [Slides](https://github.com/Konstantin-Iakovlev/HyperOpt/blob/main/slides/main.pdf), [Code](https://github.com/Konstantin-Iakovlev/HyperOpt/tree/main)
 
+#### First Year Master Students
+
+| Student | Year | Thesis topic | Scientific adviser | Link to publication |
+|:---:|:---:|:---:|:---:|:---:|
+| Boeva Galina | 1 | Label attention for temporal sets prediction | [Zaytsev A. A.](https://faculty.skoltech.ru/people/alexeizaitsev) | [Paper](https://github.com/Gaechka777/NIR_2024/blob/main/slides/Final_presentation_.pdf), [Slides](https://github.com/Gaechka777/NIR_2024/blob/main/slides/Final_presentation_.pdf), [Code](https://github.com/Gaechka777/NIR_2024/tree/main)|
 
 #### Fourth Year Bachelor Students
 
