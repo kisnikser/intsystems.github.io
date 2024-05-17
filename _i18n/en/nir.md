@@ -5,6 +5,7 @@
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Klypa Roman | 2 | Generative modeling for protein structure and interactions | [Grudinin S.V.](https://team.inria.fr/nano-d/team-members/sergei-grudinin/) | [Paper](https://github.com/romanklypa/intsystems_thesis/blob/main/icml2024.pdf), [Slides](https://github.com/romanklypa/intsystems_thesis/blob/main/slides_nir2024spring.pdf), [Code](https://github.com/ljk-rk/MolBindDif)|
+| Kovaleva Maria | 2 | | [Zaytsev A. A.](https://faculty.skoltech.ru/people/alexeizaitsev) | [Paper](https://arxiv.org/pdf/2404.02047), [Thesis](https://github.com/MarKovka20/transactions_gen_models/blob/main/thesis.pdf) [Slides](https://github.com/MarKovka20/transactions_gen_models/blob/main/Kovaleva_Maria_predefence_for_MIPT.pdf), [Code](https://github.com/MarKovka20/transactions_gen_models/tree/main)|
 
 #### Fourth Year Bachelor Students
 
