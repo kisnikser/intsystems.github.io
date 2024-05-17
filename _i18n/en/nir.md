@@ -3,7 +3,7 @@
 
 | Postgraduate student | Year | PhD thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-| Pavel Severilov | 2 | Decoding of multimodal signals of brain activity | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper1](https://github.com/severilov/phd-thesis/blob/main/slides/NabievSeverilov2024SignalToAudio.pdf) [Paper2](https://github.com/severilov/phd-thesis/blob/main/slides/noether_lnn_severilov_eng.pdf) [Thesis](https://github.com/severilov/phd-thesis/blob/main/report/phd_thesis.pdf), [Code](https://github.com/severilov/phd-thesis), [Slides Paper1]([https://github.com/severilov/phd-thesis/tree/main/slides](https://github.com/severilov/phd-thesis/blob/main/slides/NabievSeverilov_EEG_audio2024.pdf))|
+| Pavel Severilov | 2 | Decoding of multimodal signals of brain activity | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper1](https://github.com/severilov/phd-thesis/blob/main/slides/NabievSeverilov2024SignalToAudio.pdf) [Paper2](https://github.com/severilov/phd-thesis/blob/main/slides/noether_lnn_severilov_eng.pdf) [Thesis](https://github.com/severilov/phd-thesis/blob/main/report/phd_thesis.pdf), [Code](https://github.com/severilov/phd-thesis), [Slides Paper1](https://github.com/severilov/phd-thesis/blob/main/slides/NabievSeverilov_EEG_audio2024.pdf)|
 
 #### Second Year Master Students
 
