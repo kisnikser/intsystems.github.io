@@ -30,6 +30,8 @@
 | Marat Khusainov | 1 | Adaptive sampling methods using diffusion models |  [Samsonov S.V.]() | [Paper](https://github.com/maratkhusainov/NIR2024-main/blob/master/paper/paper.pdf), [Slides](https://github.com/maratkhusainov/NIR2024-main/blob/master/slides/slides.pdf)  |
 | Kseniia Petrushina | 1 | Quantifying image realism via language model reasonings | [Alexander Panchenko](https://msc.skoltech.ru/alexanderpanchenko) | [Paper](https://github.com/intsystems/Petrushina_2024_NIR/blob/master/paper/Quantifying2024Petrushina.pdf), [Slides](https://github.com/intsystems/Petrushina_2024_NIR/blob/master/slides/Quantifying2024Slides.pdf) , [Code](https://github.com/intsystems/Petrushina_2024_NIR/tree/master/code) |
 | Parviz Karimov | 1 | Representation learning for collections of data | [Isachenko R.V.](https://intsystems.github.io/ru/people/isachenko_rv/index.html) | [Paper](https://github.com/IPPK93/Karimov_2024_NIR/blob/master/paper/paper.pdf), [Slides](https://github.com/IPPK93/Karimov_2024_NIR/blob/master/slides/slides.pdf), [Code](https://github.com/IPPK93/Karimov_2024_NIR/tree/master) |
+| Dmitry Protasov | 1 | Automatic Music Transcription | Ivan Matveev | [Paper](https://github.com/intsystems/2024-Project-165/blob/master/paper/paper_spring_2024.pdf), [Slides](), [Code](https://github.com/intsystems/2024-Project-165/tree/master/code) |
+
 
 
 
