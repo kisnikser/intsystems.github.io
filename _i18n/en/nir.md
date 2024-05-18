@@ -18,6 +18,7 @@
 | Konstantin Yakovlev | 2 | Concordant Neural Architecture Search on Multidomain Data | Bakhteev O. Y. | [Paper](https://github.com/Konstantin-Iakovlev/HyperOpt/blob/main/paper/HPO.pdf), [Slides](https://github.com/Konstantin-Iakovlev/HyperOpt/blob/main/slides/main.pdf), [Code](https://github.com/Konstantin-Iakovlev/HyperOpt/tree/main)|
 | Tolmachev Alexander | 2 | Information Bottleneck Analysis of Deep Neural Networks | [Alexey Frolov](https://faculty.skoltech.ru/people/alexeyfrolov) | [Paper](https://openreview.net/forum?id=huGECz8dPp), [Paper2](https://arxiv.org/pdf/2403.02187), [Slides](https://github.com/Alexandr-Tolmachev/Master-Thesis-public/blob/main/Report.pdf) |
 | Polina Barabanshchikova | 2 | Tverberg type theorems |  [Polyanskii A.A.](http://polyanskii.com/)| [Draft](https://github.com/pollinab/MasterThesis/blob/main/Tverberg_graphs_on_hyperboloid.pdf), [Slides](https://github.com/pollinab/MasterThesis/blob/main/Slides_Tverberg_SVM.pdf), [Code](https://github.com/pollinab/MasterThesis/blob/main/TverbergSVM.ipynb)
+| Alkin Emil | 2 | Expressive Power of Recurrent Neural Networks, II | [Ivan Oseledets](https://faculty.skoltech.ru/people/ivanoseledets) |[Draft](https://github.com/AlkinEmil/MasterThesisPublic/blob/main/tensors_strong_hyp_sketch.pdf), [Slides](https://github.com/AlkinEmil/MasterThesisPublic/blob/main/Slides(S12).pdf), [Code](https://github.com/AlkinEmil/MasterThesisPublic) 
 
 #### First Year Master Students
 
