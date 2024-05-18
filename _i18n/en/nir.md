@@ -23,6 +23,7 @@
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Boeva Galina | 1 | Label Attention Network for Temporal Sets prediction | [Zaytsev A. A.](https://faculty.skoltech.ru/people/alexeizaitsev) | [Paper](https://github.com/Gaechka777/NIR_2024/blob/main/paper/Boeva2024LabelRelation.pdf), [Slides](https://github.com/Gaechka777/NIR_2024/blob/main/slides/Final_presentation_.pdf), [Code](https://github.com/Gaechka777/NIR_2024/tree/main)|
+| Chumachenko Arina | 1 | Machine learning methods for functional brain mapping |  [Sharaev M. G.](https://faculty.skoltech.ru/people/msharaev) | [Paper](https://github.com/arina-chumachenko/NIR2024/tree/main/paper), [Slides](https://github.com/arina-chumachenko/NIR2024/blob/main/slides/ChumachenkoNIR2024.pdf), [Code](https://github.com/arina-chumachenko/NIR2024/tree/main) |
 
 #### Fourth Year Bachelor Students
 
