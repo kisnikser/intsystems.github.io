@@ -1,5 +1,5 @@
 # Шаблоны
-* [Шаблон слайдов докладов бакалавра и магистра](http://www.machinelearning.ru/wiki/images/3/38/Surname2021TitleSlides.zip)
+* [Шаблон слайдов доклада бакалавра и магистра](http://www.machinelearning.ru/wiki/images/3/38/Surname2021TitleSlides.zip)
 
 # Стандарты
 * [Положение о защите ВКР МФТИ](https://mipt.ru/docs/download.php?code=prikaz_ob_utverzhdenii_polozheniya_o_vypusknoy_kvalikafitsionnoy_rabote_studentov_mfti_49_1_ot_21_01)
