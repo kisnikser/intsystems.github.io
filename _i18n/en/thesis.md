@@ -1,3 +1,14 @@
+### 2024
+
+
+#### Master's Theses
+
+| Student | Thesis topic | Scientific adviser | Link to Project | Link to Paper | Link to Slides |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Maria Kovaleva|Addition of external information for enhancement of local embeddings for event sequences data models|[Zaytsev A. A.](https://faculty.skoltech.ru/people/alexeizaitsev) |[Project](https://github.com/MarKovka20/transactions_gen_models/tree/main)|[Paper](https://github.com/MarKovka20/transactions_gen_models/blob/main/thesis.pdf)|[Slides](https://github.com/MarKovka20/transactions_gen_models/blob/main/thesis_presentation_ru.pdf)|
+
+
+
 ### 2023
 
 
