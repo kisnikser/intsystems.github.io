@@ -6,8 +6,8 @@
 | Student | Thesis topic | Scientific adviser | Link to Project | Link to Paper | Link to Slides |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Maria Kovaleva|Addition of external information for enhancement of local embeddings for event sequences data models|[Zaytsev A. A.](https://faculty.skoltech.ru/people/alexeizaitsev) |[Project](https://github.com/MarKovka20/transactions_gen_models/tree/main)|[Paper](https://github.com/MarKovka20/transactions_gen_models/blob/main/thesis.pdf)|[Slides](https://github.com/MarKovka20/transactions_gen_models/blob/main/thesis_presentation_ru.pdf)|
-
-
+| Alexander Tolmachev | Information Bottleneck Analysis of Deep Neural Networks | [Alexey Frolov](https://faculty.skoltech.ru/people/alexeyfrolov) | [Project](https://github.com/Alexandr-Tolmachev/Master-Thesis-public/blob/main) | [Thesis](https://github.com/Alexandr-Tolmachev/Master-Thesis-public/blob/main/Thesis.pdf), [Paper](https://arxiv.org/pdf/2305.08013), [Paper2](https://arxiv.org/pdf/2403.02187) | [Slides](https://github.com/Alexandr-Tolmachev/Master-Thesis-public/blob/main/Report.pdf) |
+| Emil Alkin | Expressive Power of Tensor-Train Networks With Equal TT-cores | [Ivan Oseledets](https://faculty.skoltech.ru/people/ivanoseledets) | [Project](https://github.com/AlkinEmil/MasterThesisPublic) | [Thesis](https://github.com/AlkinEmil/MasterThesisPublic/blob/main/Thesis.pdf) | [Slides](https://github.com/AlkinEmil/MasterThesisPublic/blob/main/PredefenceSlides.pdf) |
 
 ### 2023
 
