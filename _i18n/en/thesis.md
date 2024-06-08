@@ -9,6 +9,7 @@
 | Alexander Tolmachev | Information Bottleneck Analysis of Deep Neural Networks | [Alexey Frolov](https://faculty.skoltech.ru/people/alexeyfrolov) | [Project](https://github.com/Alexandr-Tolmachev/Master-Thesis-public/blob/main) | [Thesis](https://github.com/Alexandr-Tolmachev/Master-Thesis-public/blob/main/Thesis.pdf), [Paper](https://arxiv.org/pdf/2305.08013), [Paper2](https://arxiv.org/pdf/2403.02187) | [Slides](https://github.com/Alexandr-Tolmachev/Master-Thesis-public/blob/main/Report.pdf) |
 | Emil Alkin | Expressive Power of Tensor-Train Networks With Equal TT-cores | [Ivan Oseledets](https://faculty.skoltech.ru/people/ivanoseledets) | [Project](https://github.com/AlkinEmil/MasterThesisPublic) | [Thesis](https://github.com/AlkinEmil/MasterThesisPublic/blob/main/Thesis.pdf) | [Slides](https://github.com/AlkinEmil/MasterThesisPublic/blob/main/PredefenceSlides.pdf) |
 | Klypa Roman | Generative modeling for protein structures | [Grudinin S.V.](https://team.inria.fr/nano-d/team-members/sergei-grudinin/) |[Project](https://github.com/ljk-rk/MolBindDif) | [Paper](https://github.com/romanklypa/intsystems_thesis/blob/main/icml2024.pdf) | [Slides](https://github.com/romanklypa/intsystems_thesis/blob/main/masters_diploma_slides.pdf)|
+| Barabanshchikova Polina | Tverberg type theorems| [Polyanskii A.A.](http://polyanskii.com/) |[Project](https://github.com/pollinab/MasterThesis) | [Paper](https://github.com/pollinab/MasterThesis/blob/main/Master_thesis.pdf) | [Slides](https://github.com/pollinab/MasterThesis/blob/main/Slides_thesis.pdf)|
 
 
 ### 2023
