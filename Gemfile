@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem 'ffi', '= 1.16.3'
 gem 'jekyll', '~> 3.9'
 gem 'coderay', '~> 1.1.3'
 gem 'jekyll-toc', '~> 0.17.1'
