@@ -13,7 +13,11 @@
 | Barabanshchikova Polina | Tverberg type theorems| [Polyanskii A.A.](http://polyanskii.com/) |[Project](https://github.com/pollinab/MasterThesis) | [Paper](https://github.com/pollinab/MasterThesis/blob/main/Master_thesis.pdf) | [Slides](https://github.com/pollinab/MasterThesis/blob/main/Slides_thesis.pdf)|
 | Yakovlev Konstantin | Generalized Greedy Gradient-Based Hyperparameter Optimization | [Bakhteev O.Y.](https://scholar.google.ru/citations?user=7eWNuFkAAAAJ&hl=en) |[Project](https://github.com/Konstantin-Iakovlev/HyperOpt) | [Paper](https://github.com/Konstantin-Iakovlev/HyperOpt/blob/main/paper/HPO.pdf) | [Slides](https://github.com/Konstantin-Iakovlev/HyperOpt/blob/main/slides/main.pdf)|
 
+#### Bachelor's Theses
 
+| Student | Thesis topic | Scientific adviser | Link to Project | Link to Paper | Link to Slides |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Nikita Kiselev | Bayesian Sample Size Estimation | [Grabovoy A.V.](https://andriygav.github.io) | [Project](https://github.com/intsystems/Kiselev-BS-Thesis) | [Thesis](https://github.com/intsystems/Kiselev-BS-Thesis/blob/master/paper/main.pdf) | [Slides](https://github.com/intsystems/Kiselev-BS-Thesis/blob/master/slides/main.pdf) |
 
 ### 2023
 
