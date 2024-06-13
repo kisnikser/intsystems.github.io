@@ -18,6 +18,7 @@
 | Student | Thesis topic | Scientific adviser | Link to Project | Link to Paper | Link to Slides |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Nikita Kiselev | Bayesian Sample Size Estimation | [Grabovoy A.V.](https://andriygav.github.io) | [Project](https://github.com/intsystems/Kiselev-BS-Thesis) | [Thesis](https://github.com/intsystems/Kiselev-BS-Thesis/blob/master/paper/main.pdf) | [Slides](https://github.com/intsystems/Kiselev-BS-Thesis/blob/master/slides/main.pdf) |
+| Daniil Dorin | Spatial-temporal characteristics in the time series decoding | [Grabovoy A.V.](https://andriygav.github.io) | [Project](https://github.com/intsystems/Dorin-BS-Thesis) | [Thesis](https://github.com/intsystems/Dorin-BS-Thesis/blob/master/paper/paper.pdf) | [Slides](https://github.com/intsystems/Dorin-BS-Thesis/blob/master/slides/slides.pdf) |
 
 ### 2023
 
