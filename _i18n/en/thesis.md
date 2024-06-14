@@ -19,6 +19,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Nikita Kiselev | Bayesian Sample Size Estimation | [Grabovoy A.V.](https://andriygav.github.io) | [Project](https://github.com/intsystems/Kiselev-BS-Thesis) | [Thesis](https://github.com/intsystems/Kiselev-BS-Thesis/blob/master/paper/main.pdf) | [Slides](https://github.com/intsystems/Kiselev-BS-Thesis/blob/master/slides/main.pdf) |
 | Daniil Dorin | Spatial-temporal characteristics in the time series decoding | [Grabovoy A.V.](https://andriygav.github.io) | [Project](https://github.com/intsystems/Dorin-BS-Thesis) | [Thesis](https://github.com/intsystems/Dorin-BS-Thesis/blob/master/paper/paper.pdf) | [Slides](https://github.com/intsystems/Dorin-BS-Thesis/blob/master/slides/slides.pdf) |
+| Andrey Veprikov | Mathematical model of the hidden feedback loop effect in machine learning systems  | [Khritankov A.S.](https://www.hse.ru/org/persons/501143261) | [Project](https://github.com/intsystems/Veprikov-BS-Thesis) | [Thesis](https://github.com/intsystems/Veprikov-BS-Thesis/blob/master/paper/Диплом.pdf) | [Slides](https://github.com/intsystems/Veprikov-BS-Thesis/blob/master/slides/Презентация%20Диплом.pdf) |
 
 ### 2023
 
