@@ -22,7 +22,7 @@
 | Andrey Veprikov | Mathematical model of the hidden feedback loop effect in machine learning systems  | [Khritankov A.S.](https://www.hse.ru/org/persons/501143261) | [Project](https://github.com/intsystems/Veprikov-BS-Thesis) | [Thesis](https://github.com/intsystems/Veprikov-BS-Thesis/blob/master/paper/Диплом.pdf) | [Slides](https://github.com/intsystems/Veprikov-BS-Thesis/blob/master/slides/Презентация%20Диплом.pdf) |
 | Maria Nikitina | Analysis of distribution bias in contrastive learning | [Isachenko R.V.](https://intsystems.github.io/ru/people/isachenko_rv/index.html) | [Project](https://github.com/intsystems/Nikitina-BS-Thesis) | [Thesis](https://github.com/intsystems/Nikitina-BS-Thesis/blob/master/paper/NikitinaPaper.pdf) | [Slides](https://github.com/intsystems/Nikitina-BS-Thesis/blob/master/slides/Slides.pdf) |
 | Anastasia Voznyuk | Detection of machine-generated fragments based on text style change analysis  | [Grabovoy A. V.](https://andriygav.github.io) | [Project](https://github.com/intsystems/Voznyuk-BS-Thesis) | [Thesis](https://github.com/intsystems/Voznyuk-BS-Thesis/blob/master/paper/thesis/Voznyuk_BS_Thesis.pdf) | [Slides](https://github.com/intsystems/Voznyuk-BS-Thesis/tree/master/slides/ThesisDefenseSlides.pdf) |
-
+|Okhotnikov Nikita | Interconnected latent representations for outfit generation task | [Isachenko R.V.](https://intsystems.github.io/ru/people/isachenko_rv/index.html) | [Project](https://github.com/intsystems/Okhotnikov-BS-Thesis) | [Thesis](https://github.com/intsystems/Okhotnikov-BS-Thesis/blob/main/paper/main.pdf) | [Slides](https://github.com/intsystems/Okhotnikov-BS-Thesis/blob/main/slides/slides.pdf) |
 ### 2023
 
 
