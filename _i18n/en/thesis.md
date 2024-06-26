@@ -31,6 +31,8 @@
 | Matvei Kreinin | On methods with preconditioning and weight decaying | [Beznosikov A.N.](https://anbeznosikov.github.io/) | [Project](https://github.com/intsystems/Kreinin-BS-Thesis/tree/master) | [Thesis](https://github.com/intsystems/Kreinin-BS-Thesis/blob/master/docs/Kreinin_BS_Thesis.pdf) | [Slides](https://github.com/intsystems/Kreinin-BS-Thesis/blob/master/slides/slides.pdf)  |
 | Petr Babkin | Differentiable algorithm for searching ensembles of deep learning models with diversity control | [Bakhteev O.Y.](https://scholar.google.ru/citations?user=7eWNuFkAAAAJ&hl=en) | [Project](https://github.com/intsystems/2023-Project-120/tree/master) | [Thesis](https://github.com/intsystems/2023-Project-120/blob/master/paper/EdgeNES_diploma-5.pdf) | [Slides](https://github.com/intsystems/2023-Project-120/blob/master/slides/EdgeNES_slides.pdf)  |
 | Bogdanov Alexander | Gradient approximations using a zero-order oracle and memorization technique | [Beznosikov A.N.](https://anbeznosikov.github.io/) | [Project](https://github.com/intsystems/Bogdanov-BS-Thesis) | [Thesis](https://github.com/intsystems/Bogdanov-BS-Thesis/blob/main/paper/BachelorThesis_paper.pdf) | [Slides](https://github.com/intsystems/Bogdanov-BS-Thesis/blob/main/slides/BachelorThesis_slides.pdf)  |
+| Oleinik Mikhail | Knowledge distillation in deep neural networks using model structure alignment methods | [Bakhteev O.Y.](https://scholar.google.ru/citations?user=7eWNuFkAAAAJ&hl=en) | [Project](https://github.com/intsystems/Oleinik-BS-Thesis) | [Thesis](https://github.com/intsystems/Oleinik-BS-Thesis/blob/master/paper/Oleinik_thesis.pdf) | [Slides](https://github.com/intsystems/Oleinik-BS-Thesis/blob/master/slides/main.pdf)  |
+
 
 ### 2023
 
