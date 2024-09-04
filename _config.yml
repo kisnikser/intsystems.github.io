@@ -76,6 +76,9 @@ nav:
     - id: "scholarship"
       href: "/materials/scholarship"
       name: site.nav.names.scholarship
+    - id: "conferences"
+      href: "/materials/conferences"
+      name: site.nav.names.conferences
     - id: "thesis"
       href: "/materials/thesis"
       name: site.nav.names.thesis

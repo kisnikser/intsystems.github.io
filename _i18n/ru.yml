@@ -17,10 +17,11 @@ site:
       admission: поступающим
       nir: отчеты нир
       scholarship: стипендии
+      conferences: список конференций
       thesis: дипломы
       education: расписание
       seminars: семинары
-      paper_guidelines: Как писать научные работы
+      paper_guidelines: как писать научные работы
 
   global:
     course:
@@ -162,6 +163,7 @@ titles:
   materials: Материалы
   nir: Отчеты НИР
   scholarship: Стипендии
+  conferences: Список конференций
   thesis: Дипломы
   education: Учебный процесс
   admission: Поступающим

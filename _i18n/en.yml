@@ -17,6 +17,7 @@ site:
       materials: materials
       nir: research reports
       scholarship: scholarships
+      conferences: conferences list
       thesis: theses
       education: timetable
       seminars: seminars
@@ -166,6 +167,7 @@ titles:
   materials: Materials
   nir: Research Reports
   scholarship: Scholarships
+  conferences: Conferences on scientific topics of the department
   thesis: Theses
   education: Educational program schedule
   paper_guidelines: Papers and theses writing guidelines
