@@ -11,7 +11,10 @@
 Представители компаний [«Антиплагиат»](https://antiplagiat.ru/), [«ПроКомплаенс»](https://www.forecsys.ru/%D0%BE-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8/), и [«Форексис»](https://forecsys.ru/)
 
 ### Прием заявок на стипендию
-[Заявку загрузить сюда](https://www.overleaf.com/2952223929srbyhvyfpbhx#b06fd2),  дедлайны:
+<!--[ --> 
+Заявку загрузить сюда (2024 завершен) (2025 ожидается)
+<!]-- (https://www.overleaf.com/2952223929srbyhvyfpbhx#b06fd2) --> 
+(2025 change to googe form),  дедлайны:
 * Осень 2 сентября
 * Весна 3 февраля
 
