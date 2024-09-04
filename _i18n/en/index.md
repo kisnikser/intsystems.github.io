@@ -9,6 +9,7 @@
 - [Scientific and educational projects](https://m1p.org)
 - **Telegram** for [students](https://t.me/IS_MIPT) and [graduates](https://t.me/+BpMhAW-gWlM5OThi)
 - **Youtube** [Machine Learning – Intelligent Sytstems](https://www.youtube.com/@MachineLearningIS)
+- **Rutube** [Machine learning – Intelligent Systems](https://rutube.ru/channel/40144363)
 
 **Online channels:** 
 * bachelors [m1p.org/go_zoom](https://m1p.org/go_zoom)
