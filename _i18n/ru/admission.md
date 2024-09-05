@@ -37,8 +37,8 @@
 1. [дипломные работы](https://is-mipt.site/ru/materials/thesis/), [отчеты НИР](https://is-mipt.site/ru/materials/nir/), 
 2. [презентации магистров](https://www.youtube.com/watch?v=f4C9U59krTE&t=39s), [презентации бакалавров](https://www.youtube.com/watch?v=mmAacGSUvPQ)
 
-### Пробные задачи осень 2022 и более ранние 
-[Ссылка](http://www.machinelearning.ru/wiki/index.php?title=%D0%9F%D1%80%D0%BE%D0%B1%D0%BD%D1%8B%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8) – осень 2023 будут тут же 
+### Пробные задачи осень 2024 и более ранние 
+[Ссылка](http://www.machinelearning.ru/wiki/index.php?title=%D0%9F%D1%80%D0%BE%D0%B1%D0%BD%D1%8B%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8) – осень 2024 будут тут же 
 
 ### Советы по решению задач (это просто советы, а не указания)
 - Теоретическое решение важнее практического.
@@ -50,6 +50,9 @@
 
 ### Список тем для обсуждения
 [Собран в разделе Список тем на этой странице](http://www.machinelearning.ru/wiki/index.php?title=%D0%98%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%28%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0_%D0%9C%D0%A4%D0%A2%D0%98%29/%D0%9F%D1%80%D0%B8%D0%B5%D0%BC_%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2#.D0.A1.D0.BF.D0.B8.D1.81.D0.BE.D0.BA_.D1.82.D0.B5.D0.BC_.D0.B4.D0.BB.D1.8F_.D0.BA.D1.80.D0.B0.D1.82.D0.BA.D0.B8.D1.85_.D0.B4.D0.BE.D0.BA.D0.BB.D0.B0.D0.B4.D0.BE.D0.B2) 
+
+### Результаты отбора 
+- Публикуются на следующий день после отбора в канале кафедры [@IS_MIPT](https://t.me/+35LKq2DkbXIwNjVi)
 
 ## Процедура приема в магистратуру
 1. студент заполняет [анкету](http://bit.ly/1lFrFha),
