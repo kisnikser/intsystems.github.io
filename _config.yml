@@ -3,7 +3,7 @@ image:
 og:
   image:            /images/main/main.jpg
 
-url:                http//intsystems.github.io
+url:                https://intsystems.github.io
 edit:               https://github.com/intsystems/intsystems.github.io/edit/main/
 baseurl:
 permalink:          /:year/:month/:day/:title.html
