@@ -1,3 +1,10 @@
+### 2024 FALL
+#### First Year Master Students
+
+| Student | Year | Topic | Scientific adviser | Link to publication |
+|:---:|:---:|:---:|:---:|:---:|
+| Nikita Kiselev | 1 | Unraveling the Hessian: A Key to Smooth Convergence in Loss Function Landscapes | [Grabovoy A.V.](https://andriygav.github.io) | [Paper](https://arxiv.org/abs/2409.11995), [Code](https://github.com/kisnikser/landscape-hessian), [Slides](https://github.com/kisnikser/landscape-hessian/blob/main/slides/main.pdf) |
+
 ### 2024 SPRING
 #### Postgraduate Students
 
