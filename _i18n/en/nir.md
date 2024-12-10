@@ -12,6 +12,12 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Nikita Kiselev | 1 | Unraveling the Hessian: A Key to Smooth Convergence in Loss Function Landscapes | [Grabovoy A.V.](https://andriygav.github.io) | [Paper](https://arxiv.org/abs/2409.11995), [Code](https://github.com/kisnikser/landscape-hessian), [Slides](https://github.com/kisnikser/landscape-hessian/blob/main/slides/main.pdf) |
 
+#### Fourth Year Bachelor Students
+
+| Student | Year | Thesis topic | Scientific adviser | Link to publication |
+|:---:|:---:|:---:|:---:|:---:|
+| Papay Ivan | 4 | Ordinal Classification Using Partially Ordered Feature Sets | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code](https://github.com/papayiv/Papay-BS-Thesis/blob/main/code/experiments/mixtures.ipynb) [Paper](https://github.com/papayiv/Papay-BS-Thesis/blob/main/paper/PartialOrders.pdf) [Slides]()|
+
 ### 2024 SPRING
 #### Postgraduate Students
 
