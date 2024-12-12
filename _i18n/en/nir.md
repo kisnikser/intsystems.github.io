@@ -4,7 +4,7 @@
 
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-| Galina Boeva | 2 | Efficient aggregation by labels for the problem of event sequences | [Zaytsev A. A.](https://faculty.skoltech.ru/people/alexeizaitsev) | [Publication](https://ebooks.iospress.nl/volumearticle/70171?_gl=1*1kzsn7p*_up*MQ..*_ga*MTE2NzcyNzQzLjE3MzM4MjMzNDE.*_ga_6N3Q0141SM*MTczMzgyMzM0MS4xLjAuMTczMzgyMzM0MS4wLjAuMA..), [Paper](https://arxiv.org/abs/2303.00280), [Slides], [Code](https://github.com/Gaechka777/NIR24_25)|
+| Galina Boeva | 2 | Efficient aggregation by labels for the problem of event sequences | [Zaytsev A. A.](https://faculty.skoltech.ru/people/alexeizaitsev) | [Publication](https://ebooks.iospress.nl/volumearticle/70171?_gl=1*1kzsn7p*_up*MQ..*_ga*MTE2NzcyNzQzLjE3MzM4MjMzNDE.*_ga_6N3Q0141SM*MTczMzgyMzM0MS4xLjAuMTczMzgyMzM0MS4wLjAuMA..), [Paper](https://arxiv.org/abs/2303.00280), [Slides](https://github.com/Gaechka777/NIR24_25/blob/master/slides/slides_nir_11sem.pdf), [Code](https://github.com/Gaechka777/NIR24_25)|
 
 #### First Year Master Students
 
