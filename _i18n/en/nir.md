@@ -19,6 +19,7 @@
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Papay Ivan | 4 | Ordinal Classification Using Partially Ordered Feature Sets | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code](https://github.com/papayiv/Papay-BS-Thesis/blob/main/code/experiments/mixtures.ipynb) [Paper](https://github.com/papayiv/Papay-BS-Thesis/blob/main/paper/PartialOrders.pdf) [Slides]()|
+| Meshkov Vladislav | 4 | ConvNets Landscape Convergence: Hessian-Based Analysis of Matricized Networks | [Grabovoy A.V.](https://andriygav.github.io    ) | [Paper](https://github.com/Drago160/Meshkov-paper/blob/master/paper/main.pdf), [Code](https://github.com/Drago160/Meshkov-paper/tree/master), [Slides](https://github.com/Drago160/Meshkov-paper/blob/master/slides/main.pdf)|
 
 ### 2024 SPRING
 #### Postgraduate Students
