@@ -5,6 +5,7 @@
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Galina Boeva | 2 | Efficient aggregation by labels for the problem of event sequences | [Zaytsev A. A.](https://faculty.skoltech.ru/people/alexeizaitsev) | [Publication](https://ebooks.iospress.nl/volumearticle/70171?_gl=1*1kzsn7p*_up*MQ..*_ga*MTE2NzcyNzQzLjE3MzM4MjMzNDE.*_ga_6N3Q0141SM*MTczMzgyMzM0MS4xLjAuMTczMzgyMzM0MS4wLjAuMA..), [Paper](https://arxiv.org/abs/2303.00280), [Slides](https://github.com/Gaechka777/NIR24_25/blob/master/slides/slides_nir_11sem.pdf), [Code](https://github.com/Gaechka777/NIR24_25)|
+| Nikita Kornilov | 2 | Optimal Flow Matching: Learning Straight Trajectroies in Just One Step | [Gasnikov A.V.](https://scholar.google.com/citations?user=AmeE8qkAAAAJ&hl=ru&oi=ao)| [Publication](https://openreview.net/forum?id=kqmucDKVcU), [Paper](https://github.com/Jhomanik/Optimal-Flow-Matching/blob/main/paper/Optimal_Flow_Matching_NIPS.pdf), [Slides](https://github.com/Jhomanik/Optimal-Flow-Matching/blob/main/slides/OFM_Research_Fall_2024.pdf), [Code](https://github.com/Jhomanik/Optimal-Flow-Matching/tree/main)|
 
 #### First Year Master Students
 
