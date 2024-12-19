@@ -1,5 +1,12 @@
 ### 2024 FALL
 
+#### Postgraduate Students
+
+| Postgraduate student | Year | PhD thesis topic | Scientific adviser | Link to publication |
+|:---:|:---:|:---:|:---:|:---:|
+|Konstantin Yakovlev | 1 | Tensor Methods in Federated Learning| [Gasnikov A.V.](https://scholar.google.com/citations?user=AmeE8qkAAAAJ&hl=ru&oi=ao) | [Publication 1](https://openreview.net/pdf?id=uvFDaeFR9X), [Publication 2](https://aclanthology.org/2024.findings-emnlp.345/) |
+
+
 #### Second Year Master Students
 
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
