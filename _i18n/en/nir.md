@@ -31,6 +31,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Papay Ivan | 4 | Ordinal Classification Using Partially Ordered Feature Sets | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code](https://github.com/papayiv/Papay-BS-Thesis/blob/main/code/experiments/mixtures.ipynb) [Paper](https://github.com/papayiv/Papay-BS-Thesis/blob/main/paper/PartialOrders.pdf) [Slides](https://github.com/papayiv/Papay-BS-Thesis/blob/main/slides/PartialOrders_slides.pdf)|
 | Meshkov Vladislav | 4 | ConvNets Landscape Convergence: Hessian-Based Analysis of Matricized Networks | [Grabovoy A.V.](https://andriygav.github.io    ) | [Paper](https://github.com/Drago160/Meshkov-paper/blob/master/paper/main.pdf), [Code](https://github.com/Drago160/Meshkov-paper/tree/master), [Slides](https://github.com/Drago160/Meshkov-paper/blob/master/slides/main.pdf)|
+| Stepanov Ilia | 4 | The use of synthetic data obtained using a generative neural network to improve the quality of detection models | [Grabovoy A.V.](https://andriygav.github.io    ) | [Paper](https://github.com/ILIAHHne63/Stepanov_Ilia_paper/tree/master/paper), [Code](https://github.com/ILIAHHne63/Stepanov_Ilia_paper/tree/master/code), [Slides](https://github.com/Drago160/Meshkov-paper/blob/master/slides/main.pdf)|
 
 ### 2024 SPRING
 #### Postgraduate Students
