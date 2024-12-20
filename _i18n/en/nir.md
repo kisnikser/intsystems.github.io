@@ -4,6 +4,7 @@
 
 | Postgraduate student | Year | PhD thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
+|Viktor Pankratov|2|Probabilistic topic modeling|[Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov)|[Paper](https://github.com/intsystems/PankratovPHD2024/tree/main/paper),[Code](https://github.com/intsystems/PankratovPHD2024/tree/main/code),[Slides](https://github.com/intsystems/PankratovPHD2024/tree/main/slides)|
 |Konstantin Yakovlev | 1 | Tensor Methods in Federated Learning| [Gasnikov A.V.](https://scholar.google.com/citations?user=AmeE8qkAAAAJ&hl=ru&oi=ao) | [Publication 1](https://openreview.net/pdf?id=uvFDaeFR9X), [Publication 2](https://aclanthology.org/2024.findings-emnlp.345/) |
 
 
