@@ -48,6 +48,8 @@
 | Firsov Sergey | 4 | Neural architecture search with target hardware control |  [Bakhteev O. Y.](https://bahleg.site/publications)  | [Paper](https://github.com/intsystems/Firsov_FBNet/blob/master/paper/Firsov_FBNet_0.pdf), [Code](https://github.com/intsystems/Firsov_FBNet/tree/master/src), [Slides](https://github.com/intsystems/Firsov_FBNet/blob/master/slides/slides.pdf)|
 | Khafizov Fanis | 4 | Adaptive Compression in Distributed Optimization |  [Beznosikov A.N.](https://anbeznosikov.github.io/)  | [Paper](https://github.com/intsystems/Khafizov-BS-Thesis/tree/master/paper), [Code](https://github.com/intsystems/Khafizov-BS-Thesis/tree/master/code), [Slides](https://github.com/intsystems/Khafizov-BS-Thesis/tree/master/slides)|
 | Eynullayev Altay | 4 | Forecasting models in riemannian phase space | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/intsystems/Eynullayev-BS-Thesis/blob/master/paper/paper.pdf), [Code](https://github.com/intsystems/Eynullayev-BS-Thesis/tree/master/code), [Slides](https://github.com/intsystems/Eynullayev-BS-Thesis/blob/master/slides/slides_.pdf)|
+| Rubtsov Denis | 4 | Сходимость с оценкой вероятностей больших отклонений для задач выпуклой оптимизации и седловых задач в условиях повышенной гладкости
+ | [Gasnikov A.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/intsystems/Rubtsov-BS-thesis/blob/master/paper/Сходимость_с_оценкой_вероятностей_больших_отклонений_для_задач_выпуклой_оптимизации_и_седловых_задач_в_условиях_повышенной_гладкости%20(1).pdf), [Code](https://github.com/intsystems/Rubtsov-BS-thesis/tree/master/code), [Slides](https://github.com/intsystems/Rubtsov-BS-thesis/blob/master/slides/Rubtsov_bachelor_diploma_slides.pdf)|
 
 ### 2024 SPRING
 #### Postgraduate Students
