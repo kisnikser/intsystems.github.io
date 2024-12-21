@@ -25,6 +25,7 @@
 | Andrey Veprikov | 1 | The optimal control problem in artificial intelligence systems with feedback loop | [Khritankov A.S.](https://www.hse.ru/org/persons/501143261)  | [Paper](https://arxiv.org/abs/2405.02726), [Code](https://gitlab.com/repeated_ml/2023-project-119),[Slides](https://github.com/Vepricov/Veprikov-BS-Thesis/blob/master/slides/_Ms_2024__presentation.pdf) |
 | Ilgam Latypov | 1 | γ-Competitiveness: An Approach to Multi-Objective Optimization with High Computation Costs in Lipschitz Functions | [Dorn Y.V.](https://labmmo.ru/team/dorn.html) | [Paper](https://arxiv.org/abs/2410.03023), [Code](https://github.com/xxamxam/paper1), [Slides](https://www.overleaf.com/read/kxtsrvbmqcxx#bd0852) |
 | Ignashin Igor | 1 | Stochastic Correspondences Frank-Wolfe | [Grabovoy A.V.](https://andriygav.github.io) | [Paper](), [Code](https://github.com/ThunderstormXX/mmo_tm), [Slides]() |
+| Babkin Petr | 1 | Position Informed Convolution for Multi-Agent Curve Detection | Shubin N.Y. | [Paper1](https://github.com/petr-parker/position-informed-convolution/blob/main/assets/PIC.pdf), [Code1](https://github.com/petr-parker/position-informed-convolution/tree/main/code), [Paper2](https://github.com/intsystems/2023-Project-120/blob/master/paper/main.pdf), [Code2](https://github.com/intsystems/2023-Project-120/tree/master/code), [Slides](https://github.com/petr-parker/position-informed-convolution/blob/main/assets/PIC_slides.pdf) |
 
 
 #### Fourth Year Bachelor Students
