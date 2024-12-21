@@ -26,7 +26,7 @@
 | Ilgam Latypov | 1 | γ-Competitiveness: An Approach to Multi-Objective Optimization with High Computation Costs in Lipschitz Functions | [Dorn Y.V.](https://labmmo.ru/team/dorn.html) | [Paper](https://arxiv.org/abs/2410.03023), [Code](https://github.com/xxamxam/paper1), [Slides](https://www.overleaf.com/read/kxtsrvbmqcxx#bd0852) |
 | Ignashin Igor | 1 | Stochastic Correspondences Frank-Wolfe | [Grabovoy A.V.](https://andriygav.github.io) | [Paper](), [Code](https://github.com/ThunderstormXX/mmo_tm), [Slides]() |
 | Babkin Petr | 1 | Position Informed Convolution for Multi-Agent Curve Detection | Shubin N.Y. | [Paper1](https://github.com/petr-parker/position-informed-convolution/blob/main/assets/PIC.pdf), [Code1](https://github.com/petr-parker/position-informed-convolution/tree/main/code), [Paper2](https://github.com/intsystems/2023-Project-120/blob/master/paper/main.pdf), [Code2](https://github.com/intsystems/2023-Project-120/tree/master/code), [Slides](https://github.com/petr-parker/position-informed-convolution/blob/main/assets/PIC_slides.pdf) |
-
+| Terentyev Alexander | 4 | Inverse problems in modeling neural partial differential equations | [Strijov V.V.](https://scholar.google.ru/citations?user=3TpENmIAAAAJ&hl=en) | [Paper](https://github.com/lopate/lagrange_classification/blob/master/paper/SNCS-D-24-08760.pdf), [Code](https://github.com/lopate/lagrange_classification/tree/master/code), [Slides](https://www.overleaf.com/read/mkcfnrjbkwbf#57f6b3) |
 
 #### Fourth Year Bachelor Students
 
