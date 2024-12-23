@@ -1,5 +1,9 @@
 # Встречи и семинары
 
+### Семинар В. В. Стрижова, Научная статья за семестр. Риски и результаты в машинном обучении
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eXiXxmz3lnA?si=TjzPp_7GrWeAOtRP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Встреча с Никитой Животовским, выпускником Кафедры интеллектуальных систем МФТИ, 2013
 
 **Дата:** 21.04.2022 
@@ -142,9 +146,30 @@
 <br>
 
 # Защиты бакалавров и магистров
+### Предзащита бакалавров, 2024
+
+**Студенты**: Бабкин Пётр, Богданов Александр, Веприков Андрей, Дорин Даниил, Игнашин Игорь, Киселев Никита, Крейнин Матвей, Никитина Мария, Охотников Никита, Семкин Кирилл, Терентьев Александр, Вознюк Анастасия, Ремизова Анна
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Aig0deinubI?si=vCuTEG901bgDimOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<hr>
+<br>
+
+### Предзащита магистров, 2024
+
+**Студенты**:  Константин Яковлев, Полина Барабанщикова, Роман  Клыпа, Григорий Ксенофонтов, Эмиль Алкин, Мария Ковалева, Александр Толмачев
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JSRD89P2nMc?si=MHPB5QGa7Qe4a1Nb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<hr>
+<br>
+
+
+
 ### Защита бакалавров, 2022
 
-**Студенты**: Константин Яковлев, Мария Горпинич, Антонина Курдюкова, Вячеслав Горчаков, Антон Пилькевич, Максима Христолюбов
+**Студенты**: Константин Яковлев, Мария Горпинич, Антонина Курдюкова, Вячеслав Горчаков, Антон Пилькевич, Максим Христолюбов
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mmAacGSUvPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>

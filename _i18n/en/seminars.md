@@ -1,5 +1,10 @@
 # Meetings and seminars
 
+### Vadim Strijov's seminar: research paper for the semester. Risks and results in machine learning
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eXiXxmz3lnA?si=TjzPp_7GrWeAOtRP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ### Meetinig with Nikita Zhivotovskiy, alumnus of the MIPT Department of Intelligent Systems, 2013 
 
 **Date:** 21.04.2022 
@@ -123,6 +128,25 @@ Maxim Panov (Associate Professor at Skoltech) will tell at the seminar what Unce
 <br>
 
 # Master's and Bachelor's defences
+### Bachelor's pre-defence, 2024
+
+**Students**: Petr Babkin,  Aleksandr Bogdanov, Andrey Veprikov, Daniil Dorin, Igor Ignashin, Nikita Kiselev, Matvei Kreinin, Andrey Veprikov, Maria Nikitina, Nikita Okhotnikov, Kirill Semkin, Aleksandr Terentiev, Anastasia Voznyuk, Anna Remizova
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Aig0deinubI?si=vCuTEG901bgDimOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<hr>
+<br>
+
+### Master's pre-defences, 2024
+
+**Студенты**: Konstantin Yakovlev, Polina Barabanschikova, Roman Klypa,  Grigoriy Ksenofontov, Emil Alkin, Maria Kovaleva, Aleksandr Tolmachev
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JSRD89P2nMc?si=MHPB5QGa7Qe4a1Nb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<hr>
+<br>
+
+
 ### Bachelor's defences, 2022
 **Students**: Konstantin Yakovlev, Maria Gorpinich, Antonina Kurdyukova, Vyacheslav Gorсhakov, Anton Pilkevich, Maxim Khristolybov 
 
