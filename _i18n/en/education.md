@@ -25,9 +25,9 @@
 |---|---|---|---|---|
 | 10:30-12:00 |  |   |  |  |
 | 12:10-13:40 | [Биоинформатика](/ru/course/bioinformatics/index.html) | [Торшин И.Ю.](/ru/people/torshin_iy/index.html) | Дифф. зачет | 1 |
-| 14:30-16:00 | [Байесовское мультимоделирование](/ru/course/bayesian_multimodeling/index.html) | [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) | Экзамен | 2 |
+| 14:30-16:00 | [Создание интеллектуальных систем](/ru/course/rnd_in_ai/index.html) | [Грабовой А.А.](/ru/people/grabovoy_av/index.html) | Экзамен | 2 |
 | 16:10-17:40 | [Планирование проектов по созданию программного обеспечения](/ru/course/software_engineering_data_analysis/index.html) | [Хританков А.С.](/ru/people/khritankov_as/index.html) | Дифф. зачет | 1 |
-| 17:50-19:20 | [Создание интеллектуальных систем](/ru/course/rnd_in_ai/index.html) | [Грабовой А.А.](/ru/people/grabovoy_av/index.html) | Экзамен | 2 |
+| 17:50-19:20 | [Байесовское мультимоделирование](/ru/course/bayesian_multimodeling/index.html) | [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) | Экзамен | 2 |
 
 <!-- весна 2026 Ксенофонтов вместо Хританкова, тк Хританков перешел на 4 курс -->
 
