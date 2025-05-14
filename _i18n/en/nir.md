@@ -11,7 +11,6 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Dorin Daniil | 1 | Enhancing fMRI Data Decoding with Spatiotemporal Characteristics in Limited Dataset | [Grabovoy A.V.](https://andriygav.github.io) | [Paper](https://drive.google.com/file/d/1lwVA3lI0CHYr8JWr9bBvvv9ZkaZdbNvf/view?usp=drive_link), [Slides](https://drive.google.com/file/d/1aTMGkRvo1RFinYyP8Fcs1TkQYPMiRe6u/view?usp=sharing), [Code](https://github.com/DorinDaniil/Spatial-and-Temporal-Characteristics/tree/main/code)|
 
-
 ### 2024 FALL
 
 #### Postgraduate Students
