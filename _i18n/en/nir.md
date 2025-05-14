@@ -7,6 +7,7 @@
 | Galina Boeva | 2 | Efficient aggregation by labels for the problem of event sequences | [Zaytsev A. A.](https://faculty.skoltech.ru/people/alexeizaitsev) | [Publication](https://ebooks.iospress.nl/volumearticle/70171?_gl=1*1kzsn7p*_up*MQ..*_ga*MTE2NzcyNzQzLjE3MzM4MjMzNDE.*_ga_6N3Q0141SM*MTczMzgyMzM0MS4xLjAuMTczMzgyMzM0MS4wLjAuMA..), [Paper](https://arxiv.org/abs/2303.00280), [Slides](https://github.com/Gaechka777/NIR24_25/blob/master/slides/slides_nir_11sem.pdf), [Code](https://github.com/Gaechka777/NIR24_25)|
 
 #### First Year Master Students
+
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Dorin Daniil | 1 | Enhancing fMRI Data Decoding with Spatiotemporal Characteristics in Limited Dataset | [Grabovoy A.V.](https://andriygav.github.io) | [Paper](https://drive.google.com/file/d/1lwVA3lI0CHYr8JWr9bBvvv9ZkaZdbNvf/view?usp=drive_link), [Slides](https://drive.google.com/file/d/1aTMGkRvo1RFinYyP8Fcs1TkQYPMiRe6u/view?usp=sharing), [Code](https://github.com/DorinDaniil/Spatial-and-Temporal-Characteristics/tree/main/code)|
