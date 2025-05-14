@@ -12,6 +12,7 @@
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Dorin Daniil | 1 | Enhancing fMRI Data Decoding with Spatiotemporal Characteristics in Limited Dataset | [Grabovoy A.V.](https://andriygav.github.io) | [Paper](https://drive.google.com/file/d/1lwVA3lI0CHYr8JWr9bBvvv9ZkaZdbNvf/view?usp=drive_link), [Slides](https://drive.google.com/file/d/1aTMGkRvo1RFinYyP8Fcs1TkQYPMiRe6u/view?usp=sharing), [Code](https://github.com/DorinDaniil/Spatial-and-Temporal-Characteristics/tree/main/code)|
+| Nikitina Maria | 1 | Методы векторного представления глубоких генеративных моделей | [Bakhteev O. Yu.](https://intsystems.github.io/people/bakhteev_oy/index.html) [Bishuk A. Yu.](https://intsystems.github.io/people/bishuk_ay/index.html) | [Paper](https://github.com/intsystems/Vector-space-of-generative-models/tree/master/paper), [Code](https://github.com/intsystems/Vector-space-of-generative-models/tree/master/code), [Slides](https://github.com/intsystems/Vector-space-of-generative-models/tree/master/slides) |
 
 ### 2024 FALL
 
