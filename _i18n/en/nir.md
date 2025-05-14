@@ -5,6 +5,7 @@
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Galina Boeva | 2 | Efficient aggregation by labels for the problem of event sequences | [Zaytsev A. A.](https://faculty.skoltech.ru/people/alexeizaitsev) | [Publication](https://ebooks.iospress.nl/volumearticle/70171?_gl=1*1kzsn7p*_up*MQ..*_ga*MTE2NzcyNzQzLjE3MzM4MjMzNDE.*_ga_6N3Q0141SM*MTczMzgyMzM0MS4xLjAuMTczMzgyMzM0MS4wLjAuMA..), [Paper](https://arxiv.org/abs/2303.00280), [Slides](https://github.com/Gaechka777/NIR24_25/blob/master/slides/slides_nir_11sem.pdf), [Code](https://github.com/Gaechka777/NIR24_25)|
+| Vladimirov Eduard | 2 | Generative causal inference for Brain-Computer Interfaces | Strijov V. V. | [Paper](https://github.com/intsystems/Vladimirov-MS-Thesis/blob/master/paper/Vladimirov2024GenerativeCIPaper.pdf), [Slides](https://github.com/intsystems/Vladimirov-MS-Thesis/blob/master/slides/Vladimirov2024GenerativeCISlides.pdf), [Code](https://github.com/intsystems/Vladimirov-MS-Thesis/tree/master/code)|
 
 #### First Year Master Students
 
