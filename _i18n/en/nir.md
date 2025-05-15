@@ -1,5 +1,11 @@
 ### 2025 SPRING
 
+#### Postgraduate Students
+
+| Postgraduate student | Year | PhD thesis topic | Scientific adviser | Link to publication |
+|:---:|:---:|:---:|:---:|:---:|
+|Konstantin Yakovlev | 1 | Tensor Methods in Federated Learning| [Gasnikov A.V.](https://scholar.google.com/citations?user=AmeE8qkAAAAJ&hl=ru&oi=ao) | [Publication 1](https://neurips.cc/virtual/2024/poster/93240), [Publication 2](https://arxiv.org/abs/2502.13662) |
+
 #### Second Year Master Students
 
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
