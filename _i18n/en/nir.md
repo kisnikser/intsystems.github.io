@@ -31,6 +31,7 @@
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Firsov Sergey | 4 | Neural architecture search with target hardware control |  [Bakhteev O. Y.](https://bahleg.site/publications)  | [Paper](https://github.com/intsystems/Firsov_FBNet/blob/master/paper/main_paper.pdf), [Code](https://github.com/intsystems/Firsov_FBNet/tree/master/code), [Slides](https://github.com/intsystems/Firsov_FBNet/blob/master/slides/slides.pdf)|
+| Meshkov Vladislav | 4 | ConvNets Landscape Convergence: Hessian-Based Analysis of Matricized Networks | [Grabovoy A.V.](https://andriygav.github.io    ) | [Paper](https://github.com/Drago160/Meshkov-paper/blob/master/paper/main.pdf), [Code](https://github.com/Drago160/Meshkov-paper/tree/master), [Slides](https://github.com/Drago160/Meshkov-paper/blob/master/slides/main.pdf)|
 
 ### 2024 FALL
 
