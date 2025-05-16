@@ -24,6 +24,12 @@
 | Nikita Kiselev | 1 | Unraveling the Hessian: A Key to Smooth Convergence in Loss Function Landscapes | [Grabovoy A.V.](https://andriygav.github.io) | [Paper](https://arxiv.org/abs/2409.11995), [Code](https://github.com/kisnikser/landscape-hessian/tree/validation/code), [Slides](https://github.com/kisnikser/landscape-hessian/blob/validation/slides/main.pdf) |
 | Andrey Veprikov | 1 | Оптимальное управление в системах машинного обучения с обратной связью: предотвращение деградации и оттока пользователей | [Khritankov A.S.](https://scholar.google.com/citations?user=OtxWKpMAAAAJ&hl=en) | [Paper](https://github.com/intsystems/Veprikov-MS-Thesis/blob/main/paper/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81%D1%8B%20%D0%92%D0%B5%D0%BF%D1%80%D0%B8%D0%BA%D0%BE%D0%B2.pdf), [Code](https://github.com/intsystems/Veprikov-MS-Thesis/tree/main/dynamic-systems-model), [Slides](https://github.com/intsystems/Veprikov-MS-Thesis/blob/main/slides/67_%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%9C%D0%A4%D0%A2%D0%98.pdf) |
 
+#### Fourth Year Bachelor Students
+
+| Student | Year | Thesis topic | Scientific adviser | Link to publication |
+|:---:|:---:|:---:|:---:|:---:|
+| Firsov Sergey | 4 | Neural architecture search with target hardware control |  [Bakhteev O. Y.](https://bahleg.site/publications)  | [Paper](https://github.com/intsystems/Firsov_FBNet/blob/master/paper/main_paper.pdf), [Code](https://github.com/intsystems/Firsov_FBNet/tree/master/code), [Slides](https://github.com/intsystems/Firsov_FBNet/blob/master/slides/slides.pdf)|
+
 ### 2024 FALL
 
 #### Postgraduate Students
