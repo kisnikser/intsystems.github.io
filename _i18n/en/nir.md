@@ -12,7 +12,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Galina Boeva | 2 | Efficient aggregation by labels for the problem of event sequences | [Zaytsev A. A.](https://faculty.skoltech.ru/people/alexeizaitsev) | [Publication](https://ebooks.iospress.nl/volumearticle/70171?_gl=1*1kzsn7p*_up*MQ..*_ga*MTE2NzcyNzQzLjE3MzM4MjMzNDE.*_ga_6N3Q0141SM*MTczMzgyMzM0MS4xLjAuMTczMzgyMzM0MS4wLjAuMA..), [Paper](https://arxiv.org/abs/2303.00280), [Code](https://github.com/Gaechka777/NIR24_25)|
 | Vladimirov Eduard | 2 | Generative causal inference for Brain-Computer Interfaces | Strijov V. V. | [Paper](https://github.com/intsystems/Vladimirov-MS-Thesis/blob/master/paper/Vladimirov2024GenerativeCIPaper.pdf), [Slides](https://github.com/intsystems/Vladimirov-MS-Thesis/blob/master/slides/Vladimirov2024GenerativeCISlides.pdf), [Code](https://github.com/intsystems/Vladimirov-MS-Thesis/tree/master/code)|
-| Bair Mikhailov | 2 | Сегментация и объяснимое машинное обучение в задачах радиологии|  [Dylov D.V](https://faculty.skoltech.ru/people/dmitrydylov) | [Paper](https://github.com/MikhailovBair/Mikhailov-MS-Thesis/blob/master/paper/main.pdf), [Slides](https://github.com/MikhailovBair/Mikhailov-MS-Thesis/blob/master/slides/slides.pdf), [Code](https://github.com/MikhailovBair/Mikhailov-MS-Thesis)|
+| Bair Mikhailov | 2 | Development of Machine Learning Methods for Radiology in Brain Evolution Research|  [Dylov D.V](https://faculty.skoltech.ru/people/dmitrydylov) | [Paper](https://github.com/MikhailovBair/Mikhailov-MS-Thesis/blob/master/paper/main.pdf), [Slides](https://github.com/MikhailovBair/Mikhailov-MS-Thesis/blob/master/slides/slides.pdf), [Code](https://github.com/MikhailovBair/Mikhailov-MS-Thesis)|
 
 #### First Year Master Students
 
