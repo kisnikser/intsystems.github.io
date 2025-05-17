@@ -48,6 +48,7 @@
 | Khafizov Fanis | 4 | Adaptive Compression in Distributed Optimization |  [Beznosikov A.N.](https://anbeznosikov.github.io/)  | [Paper](https://github.com/intsystems/Khafizov-BS-Thesis/tree/master/paper), [Code](https://github.com/intsystems/Khafizov-BS-Thesis/tree/master/code), [Slides](https://github.com/intsystems/Khafizov-BS-Thesis/tree/master/slides)|
 | Eynullayev Altay | 4 | Forecasting models in riemannian phase space | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/intsystems/Eynullayev-BS-Thesis/blob/master/paper/paper.pdf), [Code](https://github.com/intsystems/Eynullayev-BS-Thesis/tree/master/code), [Slides](https://github.com/intsystems/Eynullayev-BS-Thesis/blob/master/slides/slides_diplom(9).pdf)|
 | Karpeev Gleb | 4 | Порождающие модели для прогнозирования наборов временных рядов | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code](https://github.com/intsystems/2024-Project-152/blob/master/code), [Paper](https://github.com/intsystems/2024-Project-152/blob/master/paper/diploma.pdf), [Slides](https://github.com/intsystems/2024-Project-152/blob/master/slides/presentation%20Karpeev%20latest.pdf) |
+| Stepanov Ilya| 4 | Using Synthetic Data Obtained by Generative Neural Networks to Improve the Quality of Detection Models | [Grabovoy A.V.](https://andriygav.github.io    ) | [Paper](https://github.com/intsystems/Stepanov-BS-Thesis/tree/master/paper), [Code](https://github.com/ILIAHHne63/PaperFramework), [Slides](https://github.com/intsystems/Stepanov-BS-Thesis/blob/master/slides/main.pdf)|
 
 ### 2024 FALL
 
