@@ -5,6 +5,7 @@
 | Postgraduate student | Year | PhD thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 |Konstantin Yakovlev | 1 | Tensor Methods in Federated Learning| [Gasnikov A.V.](https://scholar.google.com/citations?user=AmeE8qkAAAAJ&hl=ru&oi=ao) | [Publication 1](https://neurips.cc/virtual/2024/poster/93240), [Publication 2](https://arxiv.org/abs/2502.13662) |
+|Gregory Ksenofontov | 1 | Discrete Schrödinger Bridges | [Korotin A.A.](https://scholar.google.ru/citations?user=1rIIvjAAAAAJ&hl=en) | [Publication](https://arxiv.org/abs/2502.01416), [Code](https://github.com/gregkseno/csbm) |
 
 #### Second Year Master Students
 
