@@ -40,6 +40,7 @@
 | Meshkov Vladislav | 4 | ConvNets Landscape Convergence: Hessian-Based Analysis of Matricized Networks | [Grabovoy A.V.](https://andriygav.github.io    ) | [Paper](https://github.com/Drago160/Meshkov-paper/blob/master/paper/main.pdf), [Code](https://github.com/Drago160/Meshkov-paper/tree/master), [Slides](https://github.com/Drago160/Meshkov-paper/blob/master/slides/main.pdf)|
 | Papay Ivan | 4 | Ordinal Classification Using Partially Ordered Feature Sets | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code](https://github.com/papayiv/Papay-BS-Thesis/blob/main/code/experiments/mixtures.ipynb) [Paper](https://github.com/papayiv/Papay-BS-Thesis/blob/main/paper/PartialOrders.pdf) [Slides](https://github.com/papayiv/Papay-BS-Thesis/blob/main/slides/PartialOrders_slides.pdf)|
 | Nabiev Muhammadsharif | 4 | Inductive Bias in Model Selection | [Bakhteev O. Y.](https://bahleg.site/publications) | [Paper](https://github.com/intsystems/Nabiev-BS-Thesis/blob/master/paper/IB_in_model_selection.pdf), [Code](https://github.com/intsystems/Nabiev-BS-Thesis/blob/master/analysis/symreg_circles.ipynb), [Slides](https://github.com/intsystems/Nabiev-BS-Thesis/blob/master/paper/slides.pdf)|
+| Anastasiia Linich | 4 | Топологический анализ математических доказательств, генерируемых большими языковыми моделями на формальном языке Lean4 | Barannikov S.A. | [Code](https://github.com/khilling/diploma/tree/main), [Paper](https://github.com/khilling/diploma/blob/main/srw_text.pdf), [Slides](https://github.com/khilling/diploma/blob/main/srw_presentation.pdf) |
 
 ### 2024 FALL
 
