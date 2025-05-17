@@ -18,6 +18,8 @@
 | German Gritsai | 2 | Verification of artificially generated text fragments | [Grabovoy A. V.](https://andriygav.github.io) | [Paper](https://github.com/intsystems/Gritsai-MS-Thesis/tree/master/paper), [Slides](https://github.com/intsystems/Gritsai-MS-Thesis/blob/master/slides/mipt_nir.pdf), [Code](https://github.com/intsystems/Gritsai-MS-Thesis/tree/master/src) |
 | Ildar Khabutdinov | 2 | Исправление грамматических ошибок в домене низкоресурсных языков | [Grabovoy A.V.](https://andriygav.github.io) | [Publication](https://github.com/depinwhite/masters-thesis/blob/main/SpellingCorrectionFinal.pdf), [Publication](https://github.com/depinwhite/masters-thesis/blob/main/PCS315-3%20(1).pdf), [Slides](https://github.com/depinwhite/masters-thesis/blob/main/presentation.pdf)|
 | Marat Khusainov | 2 | Understanding the Plasticity of Neural Networks Employed in GFlowNets| Samsonov S.V. | [Paper](https://github.com/maratkhusainov/NIR-main/tree/master/paper), [Slides](https://github.com/maratkhusainov/NIR-main/tree/master/slides), [Code](https://github.com/maratkhusainov/NIR-main/tree/master/code) |
+| Petrushina Kseniia | 2 | Detection of Multimodal Hallucinations Based on Internal Representations and Activations of Models | Panchenko A. I. | [Publication 1](https://aclanthology.org/2025.naacl-srw.28/) [Publication 2](https://arxiv.org/abs/2503.15948) | [Slides](https://github.com/intsystems/Petrushina-MS-Thesis/blob/master/slides/Slides2025Petrushina.pdf) | [Paper](https://github.com/intsystems/Petrushina-MS-Thesis/blob/master/paper/NIR2025Petrushina.pdf) | [Code](https://github.com/intsystems/Petrushina-MS-Thesis/tree/master/code) |
+
 #### First Year Master Students
 
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
