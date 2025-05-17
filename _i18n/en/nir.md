@@ -17,7 +17,7 @@
 | Arina Chumachenko | 2 | Preventing Overfitting in Subject-Driven Text-to-Image Diffusion: Regularization of Embedding and Attention Maps | [Oseledets I.V.](https://faculty.skoltech.ru/people/ivanoseledets) | [Paper](https://github.com/arina-chumachenko/Chumachenko-MS-Thesis/blob/main/paper/MSc_Thesis_Chumachenko.pdf), [Slides](https://github.com/arina-chumachenko/Chumachenko-MS-Thesis/blob/main/slides/MSc_Defense_Chumachenko.pdf), [Code](https://github.com/arina-chumachenko/Chumachenko-MS-Thesis) |
 | German Gritsai | 2 | Verification of artificially generated text fragments | [Grabovoy A. V.](https://andriygav.github.io) | [Paper](https://github.com/intsystems/Gritsai-MS-Thesis/tree/master/paper), [Slides](https://github.com/intsystems/Gritsai-MS-Thesis/blob/master/slides/mipt_nir.pdf), [Code](https://github.com/intsystems/Gritsai-MS-Thesis/tree/master/src) |
 | Ildar Khabutdinov | 2 | Исправление грамматических ошибок в домене низкоресурсных языков | [Grabovoy A.V.](https://andriygav.github.io) | [Publication](https://github.com/depinwhite/masters-thesis/blob/main/SpellingCorrectionFinal.pdf), [Publication](https://github.com/depinwhite/masters-thesis/blob/main/PCS315-3%20(1).pdf), [Slides](https://github.com/depinwhite/masters-thesis/blob/main/presentation.pdf)|
-
+| Marat Khusainov | 2 | Исправление грамматических ошибок в домене низкоресурсных языков | Samsonov S.V. | [Paper](https://github.com/maratkhusainov/NIR-main/tree/master/paper), [Slides](https://github.com/maratkhusainov/NIR-main/tree/master/slides), [Code](https://github.com/maratkhusainov/NIR-main/tree/master/code) |
 #### First Year Master Students
 
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
