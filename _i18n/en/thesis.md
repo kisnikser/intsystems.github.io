@@ -1,3 +1,12 @@
+### 2025
+
+
+#### Bachelor's Theses
+
+| Student | Thesis topic | Scientific adviser | Link to Project | Link to Paper | Link to Slides |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Firsov Sergey | Neural architecture search with target hardware control |  [Bakhteev O.Y.](https://bahleg.site/publications)  | [Project](https://github.com/intsystems/Firsov_KOT_DARTS)| [Thesis](https://github.com/intsystems/Firsov_FBNet/blob/master/paper/main_paper.pdf)|[Slides](https://github.com/intsystems/Firsov_FBNet/blob/master/slides/slides.pdf)|
+
 ### 2024
 
 
