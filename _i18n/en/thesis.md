@@ -7,8 +7,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Firsov Sergey | Neural architecture search with target hardware control |  [Bakhteev O.Y.](https://bahleg.site/publications)  | [Project](https://github.com/intsystems/Firsov_KOT_DARTS)| [Thesis](https://github.com/intsystems/Firsov_FBNet/blob/master/paper/main_paper.pdf)|[Slides](https://github.com/intsystems/Firsov_FBNet/blob/master/slides/slides.pdf)|
 | Ilya Stepanov | Using Synthetic Data Obtained by Generative Neural Networks to Improve the Quality of Detection Models |  [Grabovoy A.V.](https://andriygav.github.io)  | [Project](https://github.com/intsystems/Stepanov-BS-Thesis/tree/master)| [Thesis](https://github.com/intsystems/Stepanov-BS-Thesis/tree/master/paper/main.pdf)|[Slides](https://github.com/intsystems/Stepanov-BS-Thesis/tree/master/slides/main.pdf)|
-| Rebrikov Alexey | 4 | Variance Reduction Methods Do Not Need to Compute Full Gradients: Improved
-Efficiency through Shuffling |  [Beznosikov A.N.](https://anbeznosikov.github.io/)  | [Paper](https://github.com/intsystems/Rebrikov-BS-Thesis/blob/master/paper/main.pdf), [Code](https://github.com/NoblFriend/bachelor-thesis/tree/IDA), [Slides](https://github.com/intsystems/Rebrikov-BS-Thesis/blob/master/slides/main.pdf)|
+| Rebrikov Alexey | 4 | Variance Reduction Methods Do Not Need to Compute Full Gradients: Improved Efficiency through Shuffling |  [Beznosikov A.N.](https://anbeznosikov.github.io/)  | [Paper](https://github.com/intsystems/Rebrikov-BS-Thesis/blob/master/paper/main.pdf), [Code](https://github.com/NoblFriend/bachelor-thesis/tree/IDA), [Slides](https://github.com/intsystems/Rebrikov-BS-Thesis/blob/master/slides/main.pdf)|
 
 ### 2024
 
