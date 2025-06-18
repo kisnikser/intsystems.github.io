@@ -1,5 +1,10 @@
 ### 2025
 
+#### Master's Theses
+
+| Student | Thesis topic | Scientific adviser | Link to Project | Link to Paper | Link to Slides |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Vladimirov Eduard | Причинно-ориентированное снижение размерности для анализа данных нейроинтерфейсов | [Strijov V.V](http://www.ccas.ru/strijov/)  | [Project](https://github.com/intsystems/Vladimirov-MS-Thesis/tree/master) | [Thesis](https://github.com/intsystems/Vladimirov-MS-Thesis/blob/master/paper/Vladimirov2024GenerativeCIPaper.pdf) | [Slides](https://github.com/intsystems/Vladimirov-MS-Thesis/blob/master/slides/Vladimirov2024GenerativeCISlides.pdf)|
 
 #### Bachelor's Theses
 
