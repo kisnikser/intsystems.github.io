@@ -5,6 +5,7 @@
 | Student | Thesis topic | Scientific adviser | Link to Project | Link to Paper | Link to Slides |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Vladimirov Eduard | Причинно-ориентированное снижение размерности для анализа данных нейроинтерфейсов | [Strijov V.V](http://www.ccas.ru/strijov/)  | [Project](https://github.com/intsystems/Vladimirov-MS-Thesis/tree/master) | [Thesis](https://github.com/intsystems/Vladimirov-MS-Thesis/blob/master/paper/Vladimirov2024GenerativeCIPaper.pdf) | [Slides](https://github.com/intsystems/Vladimirov-MS-Thesis/blob/master/slides/Vladimirov2024GenerativeCISlides.pdf)|
+| Mikhailov Bair | Development of Machine Learning Methods for Radiology in Brain Evolution Research | [Dylov D.V](https://faculty.skoltech.ru/people/dmitrydylov)  | [Project](https://github.com/intsystems/Mikhailov-MS-Thesis) | [Thesis](https://github.com/intsystems/Mikhailov-MS-Thesis/blob/master/paper/main.pdf) | [Slides](https://github.com/intsystems/Mikhailov-MS-Thesis/blob/master/slides/slides.pdf)|
 
 #### Bachelor's Theses
 
