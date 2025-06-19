@@ -6,6 +6,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Vladimirov Eduard | Причинно-ориентированное снижение размерности для анализа данных нейроинтерфейсов | [Strijov V.V](http://www.ccas.ru/strijov/)  | [Project](https://github.com/intsystems/Vladimirov-MS-Thesis/tree/master) | [Thesis](https://github.com/intsystems/Vladimirov-MS-Thesis/blob/master/paper/Vladimirov2024GenerativeCIPaper.pdf) | [Slides](https://github.com/intsystems/Vladimirov-MS-Thesis/blob/master/slides/Vladimirov2024GenerativeCISlides.pdf)|
 | Mikhailov Bair | Development of Machine Learning Methods for Radiology in Brain Evolution Research | [Dylov D.V](https://faculty.skoltech.ru/people/dmitrydylov)  | [Project](https://github.com/intsystems/Mikhailov-MS-Thesis) | [Thesis](https://github.com/intsystems/Mikhailov-MS-Thesis/blob/master/paper/main.pdf) | [Slides](https://github.com/intsystems/Mikhailov-MS-Thesis/blob/master/slides/slides.pdf)|
+| Chumachenko Arina | Preventing Overfitting in Subject-Driven Text-to-Image Diffusion: Regularization of Embedding and Attention Maps | [Oseledets I.V.](https://faculty.skoltech.ru/people/ivanoseledets) | [Project](https://github.com/arina-chumachenko/Chumachenko-MS-Thesis) | [Paper](https://github.com/arina-chumachenko/Chumachenko-MS-Thesis/blob/main/paper/Thesis_Chumachenko_MIPT.pdf) | [Slides](https://github.com/arina-chumachenko/Chumachenko-MS-Thesis/blob/main/slides/Presentation_MIPT.pdf) |
 
 #### Bachelor's Theses
 
