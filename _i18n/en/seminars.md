@@ -128,18 +128,36 @@ Maxim Panov (Associate Professor at Skoltech) will tell at the seminar what Unce
 <br>
 
 # Master's and Bachelor's defences
-### Bachelor's pre-defence, 2024
+### Bachelor's pre-defence, 2025
 
-**Students**: Petr Babkin,  Aleksandr Bogdanov, Andrey Veprikov, Daniil Dorin, Igor Ignashin, Nikita Kiselev, Matvei Kreinin, Andrey Veprikov, Maria Nikitina, Nikita Okhotnikov, Kirill Semkin, Aleksandr Terentiev, Anastasia Voznyuk, Anna Remizova
+**Students**: Egor Zadvornov, Sergey Firsov, Ilya Stepanov, Alexey Rebrikov, Fanis Khafizov, Denis Rubtsov, Ivan Papay, Muhammadsharif Nabiev, Altay Eynullayev, Fedor Sobolevsky, Vadim Kasiuk, Vladislav Meshkov, Anastasia Linich, Gleb Karpeev
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Aig0deinubI?si=vCuTEG901bgDimOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 <br>
 
+### Master's pre-defences, 2025
+
+**Students**: Nikita Kornilov, Galina Boeva, Eduard Vladimirov, Arina Chumachenko, German Gritsai, Kseniia Petrushina, Ildar Khabutdinov, Marat Khusainov
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M6TfX_ZHhTA?si=trzOj_zw6_CmnFQb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<hr>
+<br>
+
+### Bachelor's pre-defence, 2024
+
+**Students**: Petr Babkin,  Aleksandr Bogdanov, Andrey Veprikov, Daniil Dorin, Igor Ignashin, Nikita Kiselev, Matvei Kreinin, Andrey Veprikov, Maria Nikitina, Nikita Okhotnikov, Kirill Semkin, Aleksandr Terentiev, Anastasia Voznyuk, Anna Remizova
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TADwppxHtIU?si=Mb8g-tlT0cswL05U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<hr>
+<br>
+
 ### Master's pre-defences, 2024
 
-**Студенты**: Konstantin Yakovlev, Polina Barabanschikova, Roman Klypa,  Grigoriy Ksenofontov, Emil Alkin, Maria Kovaleva, Aleksandr Tolmachev
+**Students**: Konstantin Yakovlev, Polina Barabanschikova, Roman Klypa,  Grigoriy Ksenofontov, Emil Alkin, Maria Kovaleva, Aleksandr Tolmachev
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JSRD89P2nMc?si=MHPB5QGa7Qe4a1Nb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
