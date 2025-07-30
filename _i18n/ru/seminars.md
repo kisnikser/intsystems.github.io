@@ -150,7 +150,7 @@
 
 **Студенты**: Егор Задворнов, Сергей Фирсов, Илья Степанов, Алексей Ребриков, Фанис Хафизов, Денис Рубцов, Иван Папай, Мухаммадшариф Набиев, Алтай Эйнуллаев, Федор Соболевский, Вадим Касюк, Владислав Мешков, Анастасия Линич, Глеб Карпеев
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Aig0deinubI?si=vCuTEG901bgDimOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TADwppxHtIU?si=eO1eORY_57Xt8dyP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 <br>
