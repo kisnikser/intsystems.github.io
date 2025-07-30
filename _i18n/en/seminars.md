@@ -132,7 +132,7 @@ Maxim Panov (Associate Professor at Skoltech) will tell at the seminar what Unce
 
 **Students**: Egor Zadvornov, Sergey Firsov, Ilya Stepanov, Alexey Rebrikov, Fanis Khafizov, Denis Rubtsov, Ivan Papay, Muhammadsharif Nabiev, Altay Eynullayev, Fedor Sobolevsky, Vadim Kasiuk, Vladislav Meshkov, Anastasia Linich, Gleb Karpeev
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Aig0deinubI?si=vCuTEG901bgDimOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TADwppxHtIU?si=eO1eORY_57Xt8dyP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 <br>
