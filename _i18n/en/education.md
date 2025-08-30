@@ -16,7 +16,7 @@
 | 10:30-12:00 | [Методы глубокого обучения: лекция](/ru/course/deep_learning/index.html) | [Филатов А.В.](/ru/people/filatov_av/index.html), [Яковлев К.Д.](/ru/people/yakovlev_kd) | Дифф. зачет | 2 |
 | 12:10-13:40 | [Методы глубокого обучения: семинар](/ru/course/deep_learning/index.html) | [Филатов А.В.](/ru/people/filatov_av/index.html), [Яковлев К.Д.](/ru/people/yakovlev_kd)|  |  |
 | 14:30-16:00 | [Байесовский выбор моделей](/ru/course/bayesian_model_selection/index.html) | [Адуенко А.А.](/ru/people/aduenko_aa/index.html), [Яковлев К.Д.](/ru/people/yakovlev_kd) | Дифф. зачет | 1 |
-| 16:10-17:40 | [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html) | [Самохина А.М.](/ru/people/samokhina_am/index.html), [Тихонов Д.М.](/ru/people/tikhonov_dm) | Дифф. зачет | 1 |
+| 16:10-17:40 | [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html) | [Тихонов Д.М.](/ru/people/tikhonov_dm) | Дифф. зачет | 1 |
 
 #### 5 курс, 9 семестр - вторник
 
@@ -63,7 +63,7 @@
 | Время | Предмет  | Преподаватели  | Форма отчетности  | Зачетные единицы |
 |---|---|---|---|---|
 | 10:30-12:00 | [Рекомендательные системы](/ru/course/recommender_systems/index.html) | [Гришанов А.В.](/ru/people/grishanov_av/index.html), [Володкевич А.А.](/ru/people/volodkevich_aa/index.html) | Дифф. зачет | 2 |
-| 12:10-13:40 | [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html) | [Самохина А.М.](/ru/people/samokhina_am/index.html) | Дифф. зачет | 3 |
+| 12:10-13:40 | [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html) | [Тихонов Д.М.](/ru/people/tikhonov_dm) | Дифф. зачет | 3 |
 | 14:30-16:00 | [Байесовский выбор моделей](/ru/course/bayesian_model_selection/index.html) | [Адуенко А.А.](/ru/people/aduenko_aa/index.html) | Экзамен | 2 |
 | 16:10-17:40 | [Планирование проектов по созданию программного обеспечения](/ru/course/software_engineering_data_analysis/index.html) | [Хританков А.С.](/ru/people/khritankov_as/index.html) | Дифф. зачет | 1 |
 
