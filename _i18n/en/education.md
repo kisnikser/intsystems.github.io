@@ -24,8 +24,8 @@
 |---|---|---|---|---|
 | 14:30-16:00 |  [Создание интеллектуальных систем](/ru/course/rnd_in_ai/index.html) | [Грабовой А.В.](/ru/people/grabovoy_av/index.html) | Дифф. зачет | 2 |
 | 16:10-17:40 |  [Байесовское мультимоделирование](/ru/course/bayesian_multimodeling/index.html) | [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html)| Дифф. зачет | 2 |
-| 18:00-19:30 | [Порождающие модели машинного обучения: лекция](/ru/course/deep_generative_models/index.html) | [Исаченко Р.В.](/ru/people/isachenko_rv/index.html), Кондратенко В. | Экзамен | 3 |
-| 19:30-21:00 | [Порождающие модели машинного обучения: семинар](/ru/course/deep_generative_models/index.html) | [Исаченко Р.В.](/ru/people/isachenko_rv/index.html), Кондратенко В. |  |  |
+| 18:00-19:30 | [Порождающие модели машинного обучения: лекция](/ru/course/deep_generative_models/index.html) | [Исаченко Р.В.](/ru/people/isachenko_rv/index.html), Морозов М. | Экзамен | 3 |
+| 19:30-21:00 | [Порождающие модели машинного обучения: семинар](/ru/course/deep_generative_models/index.html) | [Исаченко Р.В.](/ru/people/isachenko_rv/index.html), Морозов М. |  |  |
 
 #### 6 курс, 11 семестр - четверг
 
