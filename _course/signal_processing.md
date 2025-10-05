@@ -2,10 +2,10 @@
 edit: true
 title: courses.title.signal_processing
 name: courses.name
-type: master
+type: deprecated
 avatar:
 lecturers: strijov_vv
-site: 
+site:
 ---
 
 {% tf _course/signal_processing.md %}

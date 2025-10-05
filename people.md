@@ -1,18 +1,18 @@
 ---
 title: titles.people
 permalink: /people/
-meta_desc_en:  "Lecturers at the Department of Intelligent Systems: Founders of the Department, Doctors of Science, Ph.D, teachers, Graduate Students, Instructors"
+meta_desc_en: "Lecturers at the Department of Intelligent Systems: Founders of the Department, Doctors of Science, PhD, teachers, Graduate Students, Instructors"
 meta_desc_ru: "Преподаватели Кафедры интеллектуальных систем: Основатели кафедры, Доктора наук, Кандидаты наук, преподаватели, Аспиранты, семинаристы"
 ---
-{% for role in site.global.people.roles %}
 
+{% for role in site.global.people.roles %}
 
 {% if role != 'template' %}
 
 <div class="list-header">
-  <h3 id="{% t site.global.people.roles.{{ role }} %}">{% t site.global.people.roles.{{ role }} %}</h3>
+  <h2 id="{% t site.global.people.roles.{{ role }} %}">{% t site.global.people.roles.{{ role }} %}</h2>
 </div>
-<hr>
+
 <div class="list people">
   {% for profile in site.people %}
     {% if profile.position contains role %}

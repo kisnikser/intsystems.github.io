@@ -5,7 +5,7 @@ name: courses.name
 type: master
 avatar:
 lecturers: vorontsov_kv
-site: 
+site:
 ---
 
 {% tf _course/probabilistic_topic_models.md %}

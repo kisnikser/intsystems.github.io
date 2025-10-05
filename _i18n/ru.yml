@@ -9,19 +9,19 @@ site:
 
   nav:
     names:
-      home: главная
-      about: о кафедре
-      lecturers: преподаватели
-      courses: курсы
-      materials: материалы
-      admission: поступающим
-      nir: отчеты нир
-      scholarship: стипендии
-      conferences: список конференций
-      thesis: дипломы
-      education: расписание
-      seminars: семинары
-      paper_guidelines: как писать научные работы
+      home: Главная
+      education: Расписание
+      about: О кафедре
+      lecturers: Преподаватели
+      courses: Курсы
+      admission: Поступающим
+      materials: Материалы
+      nir: Отчеты НИР
+      thesis: Дипломы
+      seminars: Семинары
+      scholarship: Стипендии
+      paper_guidelines: Как писать научные работы
+      conferences: Список конференций
 
   global:
     course:
@@ -70,10 +70,16 @@ peoples:
     bishuk_ay: Бишук Антон Юрьевич
     grishanov_av: Гришанов Алексей Владимирович
     volodkevich_aa: Володкевич Анна Алексеевна
-    beznosikov_an: Безносиков Александр Николаевич 
-    mokrov_pv: Мокров Петр Владимирович 
+    mokrov_pv: Мокров Петр Владимирович
     tikhonov_dm: Тихонов Денис Максимович
     yakovlev_kd: Яковлев Константин Дмитриевич
+    panchenko_sk: Панченко Святослав Константинович
+    vladimirov_ea: Владимиров Эдуард Анатольевич
+    dorin_dd: Дорин Даниил Дмитриевич
+    kiselev_ns: Киселев Никита Сергеевич
+    firsov_sa: Фирсов Сергей Андреевич
+    kasiuk_va: Касюк Вадим Александрович
+    morozov_m: Морозов Михаил
 
   title:
     grabovoy_av: Грабовой Андрей Валериевич
@@ -107,10 +113,17 @@ peoples:
     bishuk_ay: Бишук Антон Юрьевич
     grishanov_av: Гришанов Алексей Владимирович
     volodkevich_aa: Володкевич Анна Алексеевна
-    beznosikov_an: Безносиков Александр Николаевич 
-    mokrov_pv: Мокров Петр Владимирович 
+    beznosikov_an: Безносиков Александр Николаевич
+    mokrov_pv: Мокров Петр Владимирович
     tikhonov_dm: Тихонов Денис Максимович
     yakovlev_kd: Яковлев Константин Дмитриевич
+    panchenko_sk: Панченко Святослав Константинович
+    vladimirov_ea: Владимиров Эдуард Анатольевич
+    dorin_dd: Дорин Даниил Дмитриевич
+    kiselev_ns: Киселев Никита Сергеевич
+    firsov_sa: Фирсов Сергей Андреевич
+    kasiuk_va: Касюк Вадим Александрович
+    morozov_m: Морозов Михаил
 
 courses:
   name:
@@ -134,8 +147,10 @@ courses:
     signal_processing: Обработка сигналов
     software_engineering_data_analysis: Программная инженерия для анализа данных
     intellectual_data_analysis: Интеллектуальный анализ данных
-    optimization_methods: Методы оптимизации в машинном обучении
-    
+    deep_learning_audio: Глубокое обучение для аудио
+    programming_practicum_python: Практикум по программированию на Python
+    functional_data_analysis: Функциональный анализ данных
+
   title:
     automation_scientific_research: Автоматизация научных исследований
     bayesian_model_selection: Байесовский выбор моделей
@@ -157,8 +172,10 @@ courses:
     signal_processing: Обработка сигналов и многомерных массивов данных
     software_engineering_data_analysis: Программная инженерия для анализа данных
     intellectual_data_analysis: Интеллектуальный анализ данных
-    optimization_methods: Методы оптимизации в машинном обучении
-    
+    deep_learning_audio: Глубокое обучение для аудио
+    programming_practicum_python: Практикум по программированию на Python
+    functional_data_analysis: Функциональный анализ данных
+
 titles:
   index: Интеллектуальные системы
   about: О кафедре
@@ -183,6 +200,6 @@ profile:
   teaches: Преподает
 
 metatags:
-    lecturer: Преподаватель Кафедры интеллектуальных систем МФТИ
-    bachelor_course: Курс бакалаврской программы Кафедры интеллектуальных систем МФТИ
-    master_course: Курс магистерской программы Кафедры интеллектуальных систем МФТИ
+  lecturer: Преподаватель Кафедры интеллектуальных систем МФТИ
+  bachelor_course: Курс бакалаврской программы Кафедры интеллектуальных систем МФТИ
+  master_course: Курс магистерской программы Кафедры интеллектуальных систем МФТИ

@@ -3,10 +3,10 @@ title: peoples.title.tikhonov_dm
 name: peoples.name
 edit: true
 position: gs
-avatar: 
+avatar:
 mail: tihonov.dm@phystech.edu
 site:
-scholar: 
+scholar:
 orcid:
 mathnet:
 scopus:

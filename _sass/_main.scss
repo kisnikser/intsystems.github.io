@@ -1,7 +1,7 @@
 * {
   -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html,
@@ -11,81 +11,85 @@ body {
 }
 
 html {
-  font-family: "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 18px;
-  font-weight: 300;
+  font-family: $font-primary;
+  font-size: $font-size-base;
+  font-weight: $font-weight-base;
   line-height: 1.6;
-
-  @media (min-width: 38em) {
-    font-size: 20px;
-  }
 }
 
 body {
   color: #515151;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
 }
 
-.MathJax_Display{
-  font-size: 80%;
+.MathJax_Display {
+  font-size: $font-size-math;
 }
 
 a {
-  color: #268bd2;
-  text-decoration: none;
+  // ссылки
+  color: inherit; // не менять цвет текста
+  text-decoration: underline; // подеркнутый текст
+  transition: color 0.2s ease; // плавный переход цвета
 
   &:hover,
   &:focus {
-    text-decoration: underline;
+    // при наведении и фокусе
+    color: $href-color;
   }
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin: auto;
   margin-bottom: 1em;
-  font-weight: 600;
-  font-family: "Open Sans", "Source Sans Pro";
+  font-family: $font-primary;
   line-height: 1.1;
   color: #333;
-  letter-spacing: -.025rem;
   scroll-margin-top: 50px;
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: $font-size-h1;
 }
 
 h2 {
-  font-size: 1.6rem;
+  font-size: $font-size-h2;
 }
 
 h3 {
-  font-size: 1.3rem;
+  font-size: $font-size-h3;
 }
 
-h4, h5, h6 {
-  font-size: 1rem;
+h4,
+h5,
+h6 {
+  font-size: $font-size-h4;
 }
 
 p {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica;
-  font-weight: 300;
+  font-family: $font-primary;
   margin: 0 0 1rem;
-  font-size: 0.8rem;
+  font-size: $font-size-body;
 }
 
-ul, ol, dl {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica;
-  font-weight: 300;
-  font-size: 0.8rem;
+ul,
+ol,
+dl {
+  font-family: $font-primary;
+  font-size: $font-size-body;
   margin-top: 0;
   margin-bottom: 1rem;
 }
 
 li > ul > li {
-    margin-left: 1rem;
+  margin-left: 1rem;
 }
 
 dt {
@@ -93,27 +97,25 @@ dt {
 }
 
 dd {
-  margin-bottom: .5rem;
+  margin-bottom: 0.5rem;
 }
 
 ul {
-  /*font-family: Helvetica, 'Ubuntu Mono';*/
-  font-size: 0.8rem;
   list-style: inside circle;
   padding-left: 0;
 
   li {
-    margin-bottom: .25rem;
+    margin-bottom: 0.25rem;
   }
 
   ul,
   ol {
-    margin-top: .25rem;
-    margin-bottom: .5rem;
+    margin-top: 0.25rem;
+    margin-bottom: 0.5rem;
   }
 }
 
-ul.share-buttons{
+ul.share-buttons {
   list-style: none;
   padding: 0;
 }
@@ -123,13 +125,13 @@ ol {
   padding-left: 0;
 
   li {
-    margin-bottom: .25rem;
+    margin-bottom: 0.25rem;
   }
 
   ul,
   ol {
-    margin-top: .25rem;
-    margin-bottom: .5rem;
+    margin-top: 0.25rem;
+    margin-bottom: 0.5rem;
   }
 }
 
@@ -147,19 +149,19 @@ ol + h3 {
 
 hr {
   border: 0;
-  border-top: .5px solid #eee;
-  border-bottom: .5px solid #eee;
+  border-top: 0.5px solid #eee;
+  border-bottom: 0.5px solid #eee;
   margin: 0px;
   padding: 0px;
 }
 
 strong {
   color: #333;
-  font-weight: 600;
+  font-weight: bolder;
 }
 
 abbr {
-  font-size: 80%;
+  font-size: $font-size-code;
   font-weight: bold;
   color: #555;
   text-transform: uppercase;
@@ -173,8 +175,7 @@ abbr[title] {
 blockquote {
   padding: 0 0 0 1.5rem;
   margin: 0 2rem 1rem 0;
-  //color: #999;
-  border-left: .5rem; //solid #e5e5e5
+  border-left: 0.5rem;
 
   p:last-child {
     margin-bottom: 0;
@@ -183,12 +184,12 @@ blockquote {
 
 code,
 pre {
-  font-family: Monaco, "Courier New", monospace;
+  font-family: $font-monospace;
 }
 
 code {
-  padding: .25em .5em;
-  font-size: 80%;
+  padding: 0.25em 0.5em;
+  font-size: $font-size-code;
   color: #bf616a;
   background-color: #f9f9f9;
   border-radius: 3px;
@@ -199,7 +200,7 @@ pre {
   margin-top: 0;
   margin-bottom: 1rem;
   padding: 0.5rem;
-  font-size: .8rem;
+  font-size: $font-size-body;
   line-height: 1.4;
   white-space: pre;
   white-space: pre-wrap;
@@ -210,7 +211,7 @@ pre {
 
 pre code {
   padding: 0;
-  font-size: 80%;
+  font-size: $font-size-code;
   color: inherit;
   background-color: transparent;
 }
@@ -227,38 +228,67 @@ pre code {
 
 img {
   display: block;
-  max-width: 200px;
+  // max-width: 200px;
   margin: 0 0 1rem;
   border-radius: 5px;
 }
 
 table {
-  margin-bottom: 1rem;
-  width: 100%;
-  font-size: 70%;
-  border: 1px solid #e5e5e5;
+  font-family: $font-primary;
+  line-height: 1.4;
   border-collapse: collapse;
-}
-
-td,
-th {
-  padding: .25rem .5rem;
+  width: 100%;
+  margin: 1.5em 0;
+  border-radius: 5px;
+  overflow: hidden;
+  font-size: $font-size-small;
+  font-weight: 300;
   border: 1px solid #e5e5e5;
-  font-size: 140%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
 }
 
-tbody tr:nth-child(odd) td,
-tbody tr:nth-child(odd) th {
-  background-color: #f9f9f9;
+table a {
+  text-decoration: none;
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+th {
+  background: #fafafa;
+  font-weight: 400;
+  text-align: left;
+  padding: 0.75em 1em;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+td {
+  padding: 0.75em 1em;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+tr:hover {
+  background: #f8f8f8;
+  transition: background 0.15s ease;
+}
+
+tr:nth-child(even) {
+  background: #fafafa;
+}
+
+tr:nth-child(even):hover {
+  background: #f5f5f5;
 }
 
 .list {
   &-post-title {
-    margin-bottom: .25rem;
+    margin-bottom: 0.25rem;
 
     a {
-      color: #333;
-
       &:hover,
       &:focus {
         text-decoration: none;
@@ -267,7 +297,7 @@ tbody tr:nth-child(odd) th {
   }
   &-post-date {
     margin-bottom: 1rem;
-    font-size: .75rem;
+    font-size: $font-size-small;
     text-transform: uppercase;
   }
 }
@@ -275,10 +305,18 @@ tbody tr:nth-child(odd) th {
 // customization
 .list-header {
   margin: auto;
-  padding: 5px;
+  padding: 1rem 0;
 }
 
-.list-header>h3 {
+.list-header > h1 {
+  margin: auto;
+}
+
+.list-header > h2 {
+  margin: auto;
+}
+
+.list-header > h3 {
   margin: auto;
 }
 
@@ -288,13 +326,12 @@ tbody tr:nth-child(odd) th {
 }
 
 .list-post-title .name {
-  font-size: 18px;
+  font-size: $font-size-name;
+  text-decoration: none;
 }
 
-.list-post-title {
-  color: black;
-}
-
-.list-item a:hover, .list-post-title:hover .name, .list-post-title .name:hover {
-  color: #c42929;
+.list-item a:hover,
+.list-post-title:hover .name,
+.list-post-title .name:hover {
+  color: $href-color;
 }

@@ -4,7 +4,7 @@ title: courses.title.deep_generative_models
 name: courses.name
 type: master
 avatar:
-lecturers: isachenko_rv,mokrov_pv
+lecturers: isachenko_rv,morozov_m
 site: https://github.com/r-isachenko/2023-DGM-MIPT-course
 ---
 

@@ -3,10 +3,10 @@ title: peoples.title.yakovlev_kd
 name: peoples.name
 edit: true
 position: gs
-avatar: noname.jpg
-mail: 
+avatar:
+mail:
 site:
-scholar: 
+scholar:
 orcid:
 mathnet:
 scopus:

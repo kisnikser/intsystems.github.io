@@ -1,34 +1,34 @@
 site:
   index:
     department: |-
-      Department of Intelligent Systems
+      Intelligent Systems Department
     address: |-
-      Earth
+      Long Lake City
 
-  name: Intelligent Systems Phystech
+  name: Intelligent Systems
 
   nav:
     names:
-      home: home
-      about: about
-      lecturers: lecturers
-      courses: courses
-      admission: admission
-      materials: materials
-      nir: research reports
-      scholarship: scholarships
-      conferences: conferences list
-      thesis: theses
-      education: timetable
-      seminars: seminars
-      paper_guidelines: scientific paper writing
+      home: Home
+      education: Schedule
+      about: About
+      lecturers: Staff
+      courses: Courses
+      admission: Admission
+      materials: Materials
+      nir: Research Reports
+      thesis: Theses
+      seminars: Meetings
+      scholarship: Scholarships
+      paper_guidelines: Paper Guidelines
+      conferences: Conferences & Journals
 
   global:
     course:
       types:
         bachelor: Bachelor
         master: Master
-        deprecated: No longer taught
+        deprecated: Archived
     people:
       roles:
         hotd: Founders of the Department
@@ -36,8 +36,6 @@ site:
         phd: PhD
         gs: Graduate Students
         template: TEMPLATE
-
-
 
 peoples:
   name:
@@ -73,10 +71,16 @@ peoples:
     bishuk_ay: Anton Bishuk
     grishanov_av: Alexey Grishanov
     volodkevich_aa: Anna Volodkevich
-    beznosikov_an: Aleksandr Beznosikov
     mokrov_pv: Petr Mokrov
     yakovlev_kd: Konstantin Yakovlev
-    
+    panchenko_sk: Sviatoslav Panchenko
+    vladimirov_ea: Eduard Vladimirov
+    dorin_dd: Daniil Dorin
+    kiselev_ns: Nikita Kiselev
+    firsov_sa: Sergey Firsov
+    kasiuk_va: Vadim Kasiuk
+    morozov_m: Mikhail Morozov
+
   title:
     grabovoy_av: Andrey Grabovoy
     aduenko_aa: Aleksander Aduenko
@@ -113,18 +117,24 @@ peoples:
     beznosikov_an: Aleksandr Beznosikov
     mokrov_pv: Petr Mokrov
     yakovlev_kd: Konstantin Yakovlev
-    
+    panchenko_sk: Sviatoslav Panchenko
+    vladimirov_ea: Eduard Vladimirov
+    dorin_dd: Daniil Dorin
+    kiselev_ns: Nikita Kiselev
+    firsov_sa: Sergey Firsov
+    kasiuk_va: Vadim Kasiuk
+    morozov_m: Mikhail Morozov
 
 courses:
   name:
-    automation_scientific_research: Automation of Scientific Research
+    automation_scientific_research: My First Scientific Paper
     bayesian_model_selection: Bayesian Model Selection
     bayesian_multimodeling: Bayesian Multimodeling
     bioinformatics: Bioinformatics
     computational_geometry: Computational Geometry
     deep_generative_models: Deep Generative Models
     deep_learning: Deep Learning
-    forecasting_methods: Forecasting Methods
+    forecasting_methods: Mathematical Forecasting Methods
     fundamental_ml_theorems: Fundamental Machine Learning Theorems
     image_processing_recognition: Image Processing and Recognition
     introduction_machine_learning: Introduction to Machine Learning
@@ -135,19 +145,21 @@ courses:
     recommender_systems: Recommender Systems
     rnd_in_ai: Creation of Intelligent Systems
     signal_processing: Signal Processing
-    software_engineering_data_analysis: Software Engineering for Data Analysis
-    intellectual_data_analysis: Intellectual Data  Analysis
-    optimization_methods: Optimization methods in Machine Learning
-    
+    software_engineering_data_analysis: Software Engineering for Machine Learning
+    intellectual_data_analysis: Intellectual Data Analysis
+    deep_learning_audio: Deep Learning for Audio
+    programming_practicum_python: Programming Practicum in Python
+    functional_data_analysis: Functional Data Analysis
+
   title:
-    automation_scientific_research: Automation of Scientific Research
+    automation_scientific_research: My First Scientific Paper
     bayesian_model_selection: Bayesian Model Selection
     bayesian_multimodeling: Bayesian Multimodeling
     bioinformatics: Bioinformatics
     computational_geometry: Computational Geometry Algorithms
     deep_generative_models: Deep Generative Models
     deep_learning: Deep Learning
-    forecasting_methods: Forecasting Methods
+    forecasting_methods: Mathematical Forecasting Methods
     fundamental_ml_theorems: Fundamental Machine Learning Theorems
     image_processing_recognition: Image Processing and Recognition
     introduction_machine_learning: Introduction to Machine Learning
@@ -158,15 +170,17 @@ courses:
     recommender_systems: Recommender Systems
     rnd_in_ai: Creation of Intelligent Systems
     signal_processing: Signal Processing
-    software_engineering_data_analysis: Software Engineering for Data Analysis
-    intellectual_data_analysis: Intellectual Data  Analysis
-    optimization_methods: Optimization methods in Machine Learning
-    
+    software_engineering_data_analysis: Software Engineering for Machine Learning
+    intellectual_data_analysis: Intellectual Data Analysis
+    deep_learning_audio: Deep Learning for Audio
+    programming_practicum_python: Programming Practicum in Python
+    functional_data_analysis: Functional Data Analysis
+
 titles:
-  index: Intelligent Systems Phystech
+  index: Intelligent Systems
   about: About
   course: Course
-  people: Lecturers
+  people: Staff
   materials: Materials
   nir: Research Reports
   scholarship: Scholarships
@@ -178,16 +192,14 @@ titles:
   seminars: Scientific seminars
 
 course:
-  teachers: Lecturers
+  teachers: Staff
   website: Course Website
 
 profile:
   website: Personal Website
-  teaches: Teaches
+  teaches: Courses
 
 metatags:
-    lecturer: Lecturer of the Department of Intelligent Systems at MIPT
-    bachelor_course: Course of the Bachelor program of Intelligent Systems at MIPT
-    master_course: Course of the Master program of Intelligent Systems at MIPT
-
-
+  lecturer: Lecturer of the Department of Intelligent Systems at MIPT
+  bachelor_course: Course of the Bachelor program of Intelligent Systems at MIPT
+  master_course: Course of the Master program of Intelligent Systems at MIPT
