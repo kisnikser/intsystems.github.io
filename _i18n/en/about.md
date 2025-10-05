@@ -51,7 +51,7 @@ Openness of ideas, projects, results at all stages of study and research; contin
 
 ### Scholarships
 
-- [Scientific academic scholarship to them. K.V. Rudakova](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/Stipendia_im_Rudakova.pdf) is awarded to undergraduate and graduate students for academic and research excellence. Sponsored by Forexis Group.
+- [Scientific academic scholarship to them. K.V. Rudakova](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/masterimages/Stipendia_im_Rudakova.pdf) is awarded to undergraduate and graduate students for academic and research excellence. Sponsored by Forexis Group.
 
 ### Collaborative training programs
 
@@ -65,12 +65,12 @@ In 2019, the department organized a double degree and joint master's program at 
 
 Since the beginning, the department has been actively cooperating with the base companies of the Forexis Group of Companies: Forexis, Antiplagiat, Antirutina, GoodfoCast, Labor Laboratory, Procompliance and participates in joint projects of Forexis Group with the companies MMFB, InterRAO, Yandex, Sberbank, Russian Railways, Samsung, LG.
 
-- Forexis: [time series analysis, financial analytics, news flow analysis](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/Forecsys_Intern.pdf)
+- Forexis: [time series analysis, financial analytics, news flow analysis](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/masterimages/Forecsys_Intern.pdf)
 - Antiplagiat: [text analysis](https://www.antiplagiat.ru/)
 - INRIA National Institute for Research in Digital Science and Technology: [Bioinformatics](https://team.inria.fr/nano-d/job-openings/)
 
 ### Come and study with us and do research on machine learning!
 
 - [About admission](/admission/)
-- [Download the page about the department](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/Intelligent_Systems_MIPT.pdf)
-- [Download the slides about the department](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/IS_Slides.pdf)
+- [Download the page about the department](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/masterimages/Intelligent_Systems_MIPT.pdf)
+- [Download the slides about the department](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/masterimages/IS_Slides.pdf)

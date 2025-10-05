@@ -47,7 +47,7 @@
 
 ### Стипендии
 
-- [Научная академическая стипендия им. К.В. Рудакова](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/Stipendia_im_Rudakova.pdf) присваивается студентам бакалавриата и магистратуры за успехи в учебе и исследовательской деятельности. Спонсор Форексис ГК.
+- [Научная академическая стипендия им. К.В. Рудакова](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/masterimages/Stipendia_im_Rudakova.pdf) присваивается студентам бакалавриата и магистратуры за успехи в учебе и исследовательской деятельности. Спонсор Форексис ГК.
 
 ### Совместные учебные программы
 
@@ -61,12 +61,12 @@
 
 Кафедра с момента своего основания активно сотрудничает с базовыми компаниями группы Форексис ГК: Форексис, Антиплагиат, Антирутина, Гудфокаст, Лаборатория труда, Прокомплаенс и участвует в совместных проектах Форексис ГК с компаниями ММФБ, ИнтерРАО, Яндекс, Сбер, РЖД, Samsung, LG.
 
-- Форексис: [анализ временных рядов, финансовая аналитика, анализ новостных потоков](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/Forecsys_Intern.pdf)
+- Форексис: [анализ временных рядов, финансовая аналитика, анализ новостных потоков](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/masterimages/Forecsys_Intern.pdf)
 - Антиплагиат: [анализ текстов](https://www.antiplagiat.ru/)
 - INRIA National Institute for Research in Digital Science and Technology: [Bioinformatics](https://team.inria.fr/nano-d/job-openings/)
 
 ### Приходите к нам учиться и заниматься научными исследованиями в области машинного обучения!
 
 - [О поступлении](/ru/admission/)
-- [Скачать страницу о кафедре](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/Intelligent_Systems_MIPT.pdf)
-- [Скачать презентацию о кафедре](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/IS_Slides.pdf)
+- [Скачать страницу о кафедре](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/masterimages/Intelligent_Systems_MIPT.pdf)
+- [Скачать презентацию о кафедре](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/masterimages/IS_Slides.pdf)

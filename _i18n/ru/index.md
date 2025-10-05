@@ -1,5 +1,5 @@
 <div style="position: relative; min-height: 60vh; display: flex; align-items: center; justify-content: center; text-align: center; margin: auto auto; width: 100vw; left: 50%; transform: translateX(-50%); overflow: hidden;">
-  <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; background: url('/images/main/вц_ран.jpg') center/cover no-repeat; filter: blur(5px); transform: scale(1.1); z-index: 0;"></div>
+  <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; background: url('{{ site.baseurl_root }}/images/main/вц_ран.jpg') center/cover no-repeat; filter: blur(5px); transform: scale(1.1); z-index: 0;"></div>
   <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #000; z-index: 1; opacity: 0.6"></div>
   <div style="position: relative; z-index: 2; color: #fff; width: 70%; min-width: 500px; max-width: 1000px; padding: 2rem;">
     <h1 class="fade-in-left" style="color: #fff; margin-bottom: 2rem; font-size: 2.5rem; font-weight: 600;">Кафедра интеллектуальных систем</h1>
@@ -102,9 +102,9 @@
                 <div class="list-item-people">
                     <p class="list-post-title">
                     {% if profile.avatar %}
-                        <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="/images/people/{{profile.avatar}}"></a>
+                        <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{ site.baseurl_root }}/images/people/{{profile.avatar}}"></a>
                     {% else %}
-                        <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="/images/people/default.jpg"></a>
+                        <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{ site.baseurl_root }}/images/people/default.jpg"></a>
                     {% endif %}
                     <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{% t peoples.name.{{ profile_id }} %}</a>
                     </p>
@@ -145,7 +145,7 @@
 
 <!-- Full-width Image Before Research Section -->
 <div style="width: 100vw; position: relative; left: 50%; transform: translateX(-50%); margin: 3.5rem 0;">
-<img src="/images/main/zhuravlev_rudakov_merged.png" style="width: 100vw; max-width: 100%; height: auto; object-fit: cover;  border-radius: 0px">
+<img src="{{ site.baseurl_root }}/images/main/zhuravlev_rudakov_merged.png" style="width: 100vw; max-width: 100%; height: auto; object-fit: cover;  border-radius: 0px">
 </div>
 
 <!-- Research Section -->
@@ -212,19 +212,19 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.3/dist/css/bulma-carousel.min.css">
         <div id="carousel-demo" class="carousel">
             <div class="carousel-item">
-                <img src="/images/life/bachelors-2025.jpeg">
+                <img src="{{ site.baseurl_root }}/images/life/bachelors-2025.jpeg">
                 <p>Бакалавриат, выпуск 2025</p>
             </div>
             <div class="carousel-item">
-                <img src="/images/life/masters-2025.jpeg">
+                <img src="{{ site.baseurl_root }}/images/life/masters-2025.jpeg">
                 <p>Магистратура, выпуск 2025</p>
             </div>
             <div class="carousel-item">
-                <img src="/images/life/bachelors-2024.jpeg">
+                <img src="{{ site.baseurl_root }}/images/life/bachelors-2024.jpeg">
                 <p>Бакалавриат, выпуск 2024</p>
             </div>
             <div class="carousel-item">
-                <img src="/images/life/masters-2024.jpeg">
+                <img src="{{ site.baseurl_root }}/images/life/masters-2024.jpeg">
                 <p>Магистратура, выпуск 2024</p>
             </div>
         </div>

@@ -19,9 +19,9 @@ meta_desc_ru: "Преподаватели Кафедры интеллектуа�
       <div class="list-item-people">
         <p class="list-post-title">
           {% if profile.avatar %}
-            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="/images/people/{{profile.avatar}}"></a>
+            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{ site.baseurl_root }}/images/people/{{profile.avatar}}"></a>
           {% else %}
-            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="/images/people/default.jpg"></a>
+            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{ site.baseurl_root }}/images/people/default.jpg"></a>
           {% endif %}
           <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{% t peoples.name.{{ profile.id | split: "/" | last }} %}</a>
         </p>
