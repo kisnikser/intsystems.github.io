@@ -80,10 +80,17 @@
 @media (max-width: $lt-width) {
   .navbar {
     min-height: auto;
+    padding: 0;
   }
 
   .navbar-header {
     min-height: auto;
+  }
+
+  .navbar-toggle {
+    padding: 6px 8px;
+    margin-top: 0px;
+    margin-bottom: 6px;
   }
 }
 
@@ -352,6 +359,16 @@ a.navbar-social {
 
 // Для мобильных
 @media (max-width: $lt-width) {
+  // Убираем ограничения для Bootstrap collapse
+  .collapse {
+    max-height: none !important;
+    overflow: visible !important;
+  }
+
+  .collapse.in {
+    overflow: visible !important;
+  }
+
   .navbar-container {
     grid-template-columns: 1fr;
     justify-content: center;
@@ -364,9 +381,9 @@ a.navbar-social {
       display: flex;
       justify-content: flex-end;
       align-items: center;
-      padding-right: 15px;
-      padding-top: 8px;
-      padding-bottom: 8px;
+      padding-right: 10px;
+      padding-top: 0px;
+      padding-bottom: 0px;
 
       // Скрываем логотип на мобильных
       .navbar-brand {
@@ -397,7 +414,7 @@ a.navbar-social {
           > a {
             display: block;
             width: 100%;
-            padding: 12px 20px;
+            padding: 10px 15px;
             border-bottom: 1px solid #f0f0f0;
           }
         }
@@ -412,9 +429,9 @@ a.navbar-social {
   // Показываем мобильную версию соц-блока только на мобильных
   .navbar-social-mobile {
     display: block !important;
-    padding: 15px 20px;
+    padding: 10px 15px;
     background-color: #fafafa;
-    margin-top: 10px;
+    margin-top: 5px;
 
     .navbar-social-mobile-divider {
       height: 1px;
@@ -423,7 +440,7 @@ a.navbar-social {
     }
 
     .navbar-social-mobile-item {
-      margin-bottom: 15px;
+      margin-bottom: 10px;
 
       &:last-child {
         margin-bottom: 0;
@@ -431,24 +448,24 @@ a.navbar-social {
 
       .navbar-social-mobile-label {
         display: block;
-        font-size: 0.85rem;
+        font-size: 0.8rem;
         font-weight: 600;
         color: #666;
-        margin-bottom: 8px;
+        margin-bottom: 6px;
         text-transform: uppercase;
         letter-spacing: 0.05em;
       }
 
       .navbar-social-mobile-links {
         display: flex;
-        gap: 15px;
+        gap: 12px;
 
         a {
           color: #444;
           text-decoration: none;
-          font-size: 1rem;
+          font-size: 0.95rem;
           font-weight: 400;
-          padding: 5px 10px;
+          padding: 4px 8px;
           border-radius: 4px;
           transition: all 0.2s ease;
 
@@ -471,11 +488,11 @@ a.navbar-social {
 
       .navbar-social-mobile-icons {
         display: flex;
-        gap: 20px;
+        gap: 15px;
 
         a {
           color: #444;
-          font-size: 1.5rem;
+          font-size: 1.3rem;
           transition: color 0.2s ease;
 
           &:hover {
