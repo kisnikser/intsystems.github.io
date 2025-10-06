@@ -9,6 +9,73 @@ References:
 1. https://tinyurl.com/bahleg-conf
 2. https://tinyurl.com/bahleg-journals
 
+<!-- Conferences Deadlines Section -->
+<section class="fade-in-section" style="margin: 3rem 0;">
+    <h2>Conference Deadlines</h2>
+    <p style="margin-top: 1rem;">Upcoming submission deadlines for top-tier machine learning conferences. Stay up-to-date with the most important events in the field!</p>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(360px, 1fr)); gap: 1.5rem; margin-top: 2rem;">
+    {% assign today = site.time | date: '%s' %}
+    {% assign sorted_conferences = site.data.conferences.conferences | where: "active", true | sort: "abstract_deadline" %}
+    {% assign upcoming_count = 0 %}
+    {% for conf in sorted_conferences %}
+        {% comment %} Determine which deadline to use and check {% endcomment %}
+        {% assign abstract_timestamp = conf.abstract_deadline | date: '%s' %}
+        {% assign submission_timestamp = conf.submission_deadline | date: '%s' %}
+        
+        {% comment %} Determine the primary deadline (abstract if exists and hasn't passed, otherwise submission) {% endcomment %}
+        {% if conf.abstract_deadline and abstract_timestamp >= today %}
+            {% assign primary_deadline = conf.abstract_deadline %}
+            {% assign primary_deadline_timestamp = abstract_timestamp %}
+            {% assign deadline_type = "Abstract" %}
+        {% else %}
+            {% assign primary_deadline = conf.submission_deadline %}
+            {% assign primary_deadline_timestamp = submission_timestamp %}
+            {% assign deadline_type = "Submission" %}
+        {% endif %}
+        
+        {% comment %} Only show conferences with upcoming deadlines {% endcomment %}
+        {% if primary_deadline_timestamp >= today %}
+            {% assign upcoming_count = upcoming_count | plus: 1 %}
+            {% assign days_until = primary_deadline_timestamp | minus: today | divided_by: 86400 | plus: 1 %}
+            <a href="{{ conf.website }}" target="_blank" class="conference-card">
+                <div class="conference-name">
+                    <h3>{{ conf.name }}</h3>
+                    <span class="conference-rank">{{ conf.rank }}</span>
+                </div>
+                <p class="conference-full-name">{{ conf.full_name }}</p>
+                <div class="conference-deadline-box">
+                    {% comment %} Show abstract deadline if it exists and hasn't passed {% endcomment %}
+                    {% if conf.abstract_deadline and abstract_timestamp >= today %}
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+                        <span class="deadline-label">Abstract Deadline</span>
+                        <span class="deadline-date">{{ conf.abstract_deadline | date: "%b %d, %Y" }}</span>
+                    </div>
+                    {% endif %}
+                    {% comment %} Show submission deadline if different from abstract or if abstract has passed {% endcomment %}
+                    {% if conf.submission_deadline != conf.abstract_deadline or abstract_timestamp < today %}
+                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <span class="deadline-label">Submission Deadline</span>
+                        <span class="deadline-date">{{ conf.submission_deadline | date: "%b %d, %Y" }}</span>
+                    </div>
+                    {% endif %}
+                    {% if days_until <= 30 %}
+                    <div class="deadline-warning">
+                        ⚠️ Only {{ days_until }} days left until {{ deadline_type | downcase }} deadline!
+                    </div>
+                    {% endif %}
+                </div>
+                <div class="conference-info">
+                    📅 Conference: {{ conf.conference_date | date: "%b %d, %Y" }}
+                </div>
+                <div class="conference-info">
+                    📍 {{ conf.location }}
+                </div>
+            </a>
+        {% endif %}
+    {% endfor %}
+    </div>
+</section>
+
 ### Conferences
 
 | Conference name                                                                                                                                                         | Category                    | Conference program                                                                  | URL                                                          | Rank | Rank system |
