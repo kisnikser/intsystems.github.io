@@ -379,7 +379,7 @@ a.navbar-social {
       display: flex;
       justify-content: flex-end;
       align-items: center;
-      padding: 10px 10px;
+      padding: 5px 15px;
 
       // Скрываем логотип на мобильных
       .navbar-brand {
@@ -389,7 +389,7 @@ a.navbar-social {
       // Кнопка toggle справа с симметричными отступами
       .navbar-toggle {
         margin: 0;
-        padding: 5px 8px;
+        padding: 8px 8px;
         float: none;
       }
     }
@@ -407,7 +407,7 @@ a.navbar-social {
         > li {
           display: block;
           width: 100%;
-          padding: 0;
+          padding: 0 5px;
           margin: 0;
 
           > a {
@@ -428,8 +428,8 @@ a.navbar-social {
   // Показываем мобильную версию соц-блока только на мобильных
   .navbar-social-mobile {
     display: block !important;
-    padding: 10px 15px;
-    background-color: #fafafa;
+    padding: 0;
+    margin-left: 0;
     margin-top: 0px;
 
     .navbar-social-mobile-divider {
@@ -440,10 +440,6 @@ a.navbar-social {
 
     .navbar-social-mobile-item {
       margin-bottom: 10px;
-
-      &:last-child {
-        margin-bottom: 0;
-      }
 
       .navbar-social-mobile-label {
         display: block;
@@ -484,6 +480,7 @@ a.navbar-social {
         gap: 15px;
 
         a {
+          text-decoration: none;
           color: #444;
           font-size: 1.3rem;
           transition: color 0.2s ease;
