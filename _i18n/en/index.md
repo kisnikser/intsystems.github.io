@@ -12,7 +12,7 @@
     <a href="https://github.com/{{site.github}}" target="_blank" style="font-size: clamp(1.2rem, 5vw, 1.5rem); padding: 0.5rem; min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; text-decoration: none;"><i class="fa fa-github"></i></a>
     {% endif %}
     {% if site.mail %}
-    <a href="mailto:{{site.mail}}" style="font-size: clamp(1.2rem, 5vw, 1.5rem); padding: 0.5rem; min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; text-decoration: none;"><i class="fa fa-envelope-o"></i></a>
+    <a href="#" onclick="copyEmailToClipboard(event, '{{site.mail}}')" style="font-size: clamp(1.2rem, 5vw, 1.5rem); padding: 0.5rem; min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; text-decoration: none;"><i class="fa fa-envelope-o"></i></a>
     {% endif %}
     {% if site.telegram %}
     <a href="{{site.telegram}}"  target="_blank" style="font-size: clamp(1.2rem, 5vw, 1.5rem); padding: 0.5rem; min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; text-decoration: none;"><i class="fa fa-telegram"></i></a>
@@ -79,7 +79,7 @@
         </div>
         <div class="fade-in-left" style="display: flex; flex-direction: column; align-items: center;">
             <p style="font-size: 2.8rem; font-weight: 600; line-height: 0.9; margin-bottom: 0.5rem;">every<br>semester</p>
-            <p style="max-width: 220px; font-size: 1rem;">students submit <a href="/materials/nir">research reports</a>: paper-code-presentation</p>
+            <p style="max-width: 220px; font-size: 1rem;">students submit <a href="{{ site.baseurl }}/materials/nir">research reports</a>: paper-code-presentation</p>
         </div>
         <div class="fade-in-right" style="display: flex; flex-direction: column; align-items: center;">
             <p style="font-size: 2.2rem; font-weight: 600; line-height: 1.1; margin-bottom: 0.5rem;">NeurIPS,<br>ICML, ICLR<br>AISTATS</p>
@@ -146,7 +146,7 @@
 
 <!-- Full-width Image Before Research Section -->
 <div style="width: 100vw; position: relative; left: 50%; transform: translateX(-50%); margin: 3.5rem 0;">
-<img src="images/main/zhuravlev_rudakov_merged.jpg" loading="lazy" style="width: 100vw; max-width: 100%; height: auto; object-fit: cover;  border-radius: 0px">
+<img src="{{ site.baseurl_root }}/images/main/zhuravlev_rudakov_merged.jpg" loading="lazy" style="width: 100vw; max-width: 100%; height: auto; object-fit: cover;  border-radius: 0px">
 </div>
 
 <!-- Research Section -->
@@ -158,7 +158,7 @@
         </p>
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(360px, 100%), 1fr)); gap: 2.5rem; margin: 2.5rem 0;">
             <div class="fade-in-left research-block" >
-                <a class="research-block-title" href="/materials/nir">Scientific Research</a>
+                <a class="research-block-title" href="{{ site.baseurl }}/materials/nir">Scientific Research</a>
                 <p style="margin: 1rem 0;">
                     Our department conducts fundamental and applied research in machine learning, data analysis, artificial intelligence, and related fields.
                     Results are published in open access and presented at international conferences. We welcome joint projects and new ideas!
@@ -168,7 +168,7 @@
                 </p>
             </div>
             <div class="fade-in-right research-block" >
-                <a class="research-block-title" href="/materials/thesis">Theses</a>
+                <a class="research-block-title" href="{{ site.baseurl }}/materials/thesis">Theses</a>
                 <p style="margin: 1rem 0;">
                     Students participate in real research, prepare diploma theses, and publish their results.
                     We support open publication of code and articles, and invite everyone to collaborate on thesis topics and research projects.
@@ -178,10 +178,10 @@
                 </p>
             </div>
             <div class="fade-in-left research-block" >
-                <a class="research-block-title" href="/materials/scholarship">Scholarships</a>
+                <a class="research-block-title" href="{{ site.baseurl }}/materials/scholarship">Scholarships</a>
                 <p style="margin: 1rem 0;">
                     We support the research of our students by awarding several scholarships each semester.
-                    The <a href="/materials/scholarship/" style=" font-weight: 400; text-decoration: none;">scientific academic scholarship named after K.V. Rudakov</a> is awarded to undergraduate and graduate students for academic and research excellence.
+                    The <a href="{{ site.baseurl }}/materials/scholarship/" style=" font-weight: 400; text-decoration: none;">scientific academic scholarship named after K.V. Rudakov</a> is awarded to undergraduate and graduate students for academic and research excellence.
                     <span style="font-weight: 400;">Sponsored by Forexis Group.</span>
                 </p>
             </div>
@@ -211,19 +211,19 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.3/dist/css/bulma-carousel.min.css">
         <div id="carousel-demo" class="carousel">
             <div class="carousel-item">
-                <img src="images/life/bachelors-2025.jpeg" loading="lazy" alt="Bachelors 2025">
+                <img src="{{ site.baseurl_root }}/images/life/bachelors-2025.jpeg" loading="lazy" alt="Bachelors 2025">
                 <p>Bachelors 2025'</p>
             </div>
             <div class="carousel-item">
-                <img src="images/life/masters-2025.jpeg" loading="lazy" alt="Masters 2025">
+                <img src="{{ site.baseurl_root }}/images/life/masters-2025.jpeg" loading="lazy" alt="Masters 2025">
                 <p>Masters 2025'</p>
             </div>
             <div class="carousel-item">
-                <img src="images/life/bachelors-2024.jpeg" loading="lazy" alt="Bachelors 2024">
+                <img src="{{ site.baseurl_root }}/images/life/bachelors-2024.jpeg" loading="lazy" alt="Bachelors 2024">
                 <p>Bachelors 2024'</p>
             </div>
             <div class="carousel-item">
-                <img src="images/life/masters-2024.jpeg" loading="lazy" alt="Masters 2024">
+                <img src="{{ site.baseurl_root }}/images/life/masters-2024.jpeg" loading="lazy" alt="Masters 2024">
                 <p>Masters 2024'</p>
             </div>
         </div>

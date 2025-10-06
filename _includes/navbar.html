@@ -79,7 +79,7 @@
                         </a>
                         {% endif %}
                         {% if site.mail %}
-                        <a href="mailto:{{site.mail}}" style="margin-right: 1rem;">
+                        <a href="#" onclick="copyEmailToClipboard(event, '{{site.mail}}')" style="margin-right: 1rem;">
                             <i class="fa fa-envelope-o"></i>
                         </a>
                         {% endif %}
@@ -136,7 +136,7 @@
             </a>
             {% endif %}
             {% if site.mail %}
-            <a href="mailto:{{site.mail}}" class="navbar-social">
+            <a href="#" onclick="copyEmailToClipboard(event, '{{site.mail}}')" class="navbar-social">
                 <i class="fa fa-envelope-o"></i>
             </a>
             {% endif %}

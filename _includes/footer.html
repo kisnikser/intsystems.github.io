@@ -7,7 +7,7 @@
         </a>
         {% endif %}
         {% if site.mail %}
-        <a href="mailto:{{site.mail}}" class="social">
+        <a href="#" onclick="copyEmailToClipboard(event, '{{site.mail}}')" class="social">
             <i class="fa fa-envelope-o"></i>
         </a>
         {% endif %}

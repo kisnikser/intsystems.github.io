@@ -1,23 +1,23 @@
 <div style="position: relative; min-height: 60vh; display: flex; align-items: center; justify-content: center; text-align: center; margin: auto auto; width: 100vw; left: 50%; transform: translateX(-50%); overflow: hidden;">
   <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; background: url('{{ site.baseurl_root }}/images/main/вц_ран.jpg') center/cover no-repeat; filter: blur(5px); transform: scale(1.1); z-index: 0;"></div>
   <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #000; z-index: 1; opacity: 0.6"></div>
-  <div style="position: relative; z-index: 2; color: #fff; width: 70%; min-width: 500px; max-width: 1000px; padding: 2rem;">
-    <h1 class="fade-in-left" style="color: #fff; margin-bottom: 2rem; font-size: 2.5rem; font-weight: 600;">Кафедра интеллектуальных систем</h1>
+  <div class="hero-content" style="position: relative; z-index: 2; color: #fff; width: 90%; max-width: 1200px; padding: 1.5rem;">
+    <h1 class="fade-in-left" style="color: #fff; margin-bottom: 1.5rem; font-size: clamp(1.8rem, 8vw, 2.5rem); font-weight: 600; line-height: 1.2;">Кафедра интеллектуальных систем</h1>
     <p class="fade-in-right">
         Мы готовим специалистов в области прикладной математики и физики — от бакалавриата до аспирантуры. Наши исследования охватывают теорию машинного обучения, интеллектуальные системы и практические приложения. Основываясь на базе ВЦ РАН, мы объединяем академическое превосходство и сотрудничество с индустрией.
     </p>
-    <div class="fade-in-right">
+    <div class="fade-in-right" style="display: flex; justify-content: center; align-items: center; gap: clamp(0.8rem, 4vw, 1.5rem); flex-wrap: wrap;">
     {% if site.github %}
-    <a href="https://github.com/{{site.github}}" target="_blank" style="font-size: 1.5rem; margin: 0 1rem"><i class="fa fa-github"></i></a>
+    <a href="https://github.com/{{site.github}}" target="_blank" style="font-size: clamp(1.2rem, 5vw, 1.5rem); padding: 0.5rem; min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; text-decoration: none;"><i class="fa fa-github"></i></a>
     {% endif %}
     {% if site.mail %}
-    <a href="mailto:{{site.mail}}" style="font-size: 1.5rem; margin: 0 1rem"><i class="fa fa-envelope-o"></i></a>
+    <a href="#" onclick="copyEmailToClipboard(event, '{{site.mail}}')" style="font-size: clamp(1.2rem, 5vw, 1.5rem); padding: 0.5rem; min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; text-decoration: none;"><i class="fa fa-envelope-o"></i></a>
     {% endif %}
     {% if site.telegram %}
-    <a href="{{site.telegram}}"  target="_blank" style="font-size: 1.5rem; margin: 0 1rem"><i class="fa fa-telegram"></i></a>
+    <a href="{{site.telegram}}"  target="_blank" style="font-size: clamp(1.2rem, 5vw, 1.5rem); padding: 0.5rem; min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; text-decoration: none;"><i class="fa fa-telegram"></i></a>
     {% endif %}
     {% if site.youtube %}
-    <a href="{{site.youtube}}"  target="_blank" style="font-size: 1.5rem; margin: 0 1rem"><i class="fa fa-youtube-play"></i></a>
+    <a href="{{site.youtube}}"  target="_blank" style="font-size: clamp(1.2rem, 5vw, 1.5rem); padding: 0.5rem; min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; text-decoration: none;"><i class="fa fa-youtube-play"></i></a>
     {% endif %}
     </div>
     </div>
@@ -78,7 +78,7 @@
         </div>
         <div class="fade-in-left" style="display: flex; flex-direction: column; align-items: center;">
             <p style="font-size: 2.8rem; font-weight: 600; line-height: 0.9; margin-bottom: 0.5rem;">каждый<br>семестр</p>
-            <p style="max-width: 220px; font-size: 1rem;">студенты представляют <a href="/materials/nir">научные отчеты</a>: paper-code-presentation</p>
+            <p style="max-width: 220px; font-size: 1rem;">студенты представляют <a href="{{ site.baseurl }}/materials/nir">научные отчеты</a>: paper-code-presentation</p>
         </div>
         <div class="fade-in-right" style="display: flex; flex-direction: column; align-items: center;">
             <p style="font-size: 2.2rem; font-weight: 600; line-height: 1.1; margin-bottom: 0.5rem;">NeurIPS,<br>ICML, ICLR<br>AISTATS</p>
@@ -157,7 +157,7 @@
         </p>
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(360px, 100%), 1fr)); gap: 2.5rem; margin: 2.5rem 0;">
             <div class="fade-in-left research-block" >
-                <a class="research-block-title" href="/materials/nir">Научные исследования</a>
+                <a class="research-block-title" href="{{ site.baseurl }}/materials/nir">Научные исследования</a>
                 <p style="margin: 1rem 0;">
                     Наша кафедра проводит фундаментальные и прикладные исследования в области машинного обучения, анализа данных, искусственного интеллекта и смежных областей.
                     Результаты публикуются в открытом доступе и представляются на международных конференциях. Мы приветствуем совместные проекты и новые идеи!
@@ -167,7 +167,7 @@
                 </p>
             </div>
             <div class="fade-in-right research-block" >
-                <a class="research-block-title" href="/materials/thesis">Дипломные работы</a>
+                <a class="research-block-title" href="{{ site.baseurl }}/materials/thesis">Дипломные работы</a>
                 <p style="margin: 1rem 0;">
                     Студенты участвуют в реальных исследованиях, готовят дипломные работы и публикуют свои результаты.
                     Мы поддерживаем открытое опубликование кода и статей и приглашаем всех к сотрудничеству по темам дипломных работ и исследовательским проектам.
@@ -177,10 +177,10 @@
                 </p>
             </div>
             <div class="fade-in-left research-block" >
-                <a class="research-block-title" href="/materials/scholarship">Стипендии</a>
+                <a class="research-block-title" href="{{ site.baseurl }}/materials/scholarship">Стипендии</a>
                 <p style="margin: 1rem 0;">
                     Мы поддерживаем исследования наших студентов, присуждая несколько стипендий каждый семестр.
-                    <a href="/materials/scholarship/" style="font-weight: 400;">Научная стипендия имени К.В. Рудакова</a> присуждается студентам бакалавриата и магистратуры за академические и исследовательские достижения.
+                    <a href="{{ site.baseurl }}/materials/scholarship/" style="font-weight: 400;">Научная стипендия имени К.В. Рудакова</a> присуждается студентам бакалавриата и магистратуры за академические и исследовательские достижения.
                     <span style="font-weight: 400;">Спонсор: Forexis Group.</span>
                 </p>
             </div>
