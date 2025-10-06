@@ -40,6 +40,8 @@
 @media (min-width: $md-width) {
   .navbar-container {
     width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
   }
 }
 
@@ -219,20 +221,24 @@
 
 .navbar-container {
   display: grid;
-  grid-template-columns: minmax(150px, 1fr) auto minmax(150px, 1fr);
+  grid-template-columns: 1fr auto 1fr;
   align-items: center;
   width: 100%;
+  max-width: 100%;
 
   .navbar-header {
     justify-self: start; // логотип слева
+    min-width: 0; // Позволяет сжиматься
   }
 
   .navbar-collapse {
     justify-self: center; // меню точно по центру
+    min-width: 0; // Позволяет сжиматься
   }
 
   .navbar-social-block {
     justify-self: end; // соцсети справа
+    min-width: fit-content; // Не позволяет сжиматься
   }
 }
 

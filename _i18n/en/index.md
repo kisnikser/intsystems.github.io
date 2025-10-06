@@ -2,8 +2,8 @@
   <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; background: url('{{ site.baseurl_root }}/images/main/вц_ран.jpg') center/cover no-repeat; filter: blur(5px); transform: scale(1.1); z-index: 0;"></div>
   <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #000; z-index: 1; opacity: 0.6"></div>
   <div class="hero-content" style="position: relative; z-index: 2; color: #fff; width: 90%; max-width: 1200px; padding: 1.5rem;">
-    <p class="fade-in-left" style="font-size: clamp(0.9rem, 3vw, 1rem); margin-bottom: 0.5rem;">Department of</p>
-    <h1 class="fade-in-left" style="color: #fff; margin-bottom: 1.5rem; font-size: clamp(1.8rem, 8vw, 3rem); font-weight: 600; line-height: 1.2;">Intelligent Systems</h1>
+    <p class="fade-in-left" style="font-size: clamp(0.9rem, 3vw, 1rem); margin-bottom: 0;">Department of</p>
+    <h1 class="fade-in-left" style="color: #fff; margin-bottom: 1.5rem; font-size: clamp(1.8rem, 8vw, 3rem); font-weight: 600; line-height: 1.2; margin-top: 0;">Intelligent Systems</h1>
     <p class="fade-in-right">
         We train specialists in applied mathematics and physics — from bachelor's to PhD. Our research spans machine learning theory, intelligent systems, and real-world applications. Based at the Dorodnicyn Computing Centre of RAS, we unite academic excellence with industry collaboration.
     </p>
