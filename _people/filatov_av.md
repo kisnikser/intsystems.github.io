@@ -2,14 +2,14 @@
 title: peoples.title.filatov_av
 name: peoples.name
 edit: true
-position: gs
+position: pgs
 avatar: filatov_av.jpg
 mail: filatovandreiv@gmail.com
-site: 
+site:
 scholar: scholar.google.com/citations?user=xRNTrdcAAAAJ
-orcid: 
-mathnet: 
-scopus: 
+orcid:
+mathnet:
+scopus:
 elib:
 ---
 

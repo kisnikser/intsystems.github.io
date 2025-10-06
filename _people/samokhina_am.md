@@ -2,7 +2,7 @@
 title: peoples.title.samokhina_am
 name: peoples.name
 edit: true
-position: gs
+position: pgs
 avatar: samokhina_am.jpg
 mail: alina.samokhina@phystech.edu
 site: https://github.com/Alina-Samokhina

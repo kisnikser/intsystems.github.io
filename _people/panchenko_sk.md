@@ -2,7 +2,7 @@
 title: peoples.title.panchenko_sk
 name: peoples.name
 edit: true
-position: gs
+position: pgs
 avatar:
 mail:
 site:

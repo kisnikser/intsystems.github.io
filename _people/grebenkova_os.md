@@ -2,15 +2,15 @@
 title: peoples.title.grebenkova_os
 name: peoples.name
 edit: true
-position: gs
+position: pgs
 avatar: grebenkova_os.jpg
 mail: grebenkova.os@phystech.edu
-site: 
-scholar: 
+site:
+scholar:
 orcid:
-mathnet: 
-scopus: 
-elib: 
+mathnet:
+scopus:
+elib:
 ---
 
 {% tf _people/grebenkova_os.md %}

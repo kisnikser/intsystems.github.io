@@ -2,7 +2,7 @@
 title: peoples.title.yakovlev_kd
 name: peoples.name
 edit: true
-position: gs
+position: pgs
 avatar:
 mail:
 site:

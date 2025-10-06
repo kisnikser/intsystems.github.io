@@ -2,11 +2,11 @@
 title: peoples.title.severilov_pa
 name: peoples.name
 edit: true
-position: gs
+position: pgs
 avatar: severilov_pa.jpg
 mail: severilov.pa@phystech.edu
 site:
-scholar: 
+scholar:
 orcid:
 mathnet:
 scopus:

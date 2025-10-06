@@ -15,7 +15,7 @@ meta_desc_ru: "Преподаватели Кафедры интеллектуа�
 
 <div class="list people">
   {% for profile in site.people %}
-    {% if profile.position contains role %}
+    {% if profile.position == role %}
       <div class="list-item-people">
         <p class="list-post-title">
           {% if profile.avatar %}

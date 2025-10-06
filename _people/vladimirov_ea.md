@@ -2,7 +2,7 @@
 title: peoples.title.vladimirov_ea
 name: peoples.name
 edit: true
-position: gs
+position: pgs
 avatar:
 mail:
 site:

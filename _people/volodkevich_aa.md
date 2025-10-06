@@ -2,15 +2,15 @@
 title: peoples.title.volodkevich_aa
 name: peoples.name
 edit: true
-position: gs
+position: pgs
 avatar: volodkevich_aa.jpg
 mail:
-site: 
-scholar: 
+site:
+scholar:
 orcid:
-mathnet: 
-scopus: 
-elib: 
+mathnet:
+scopus:
+elib:
 ---
 
 {% tf _people/volodkevich_aa.md %}

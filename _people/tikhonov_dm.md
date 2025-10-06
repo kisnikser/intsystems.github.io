@@ -2,7 +2,7 @@
 title: peoples.title.tikhonov_dm
 name: peoples.name
 edit: true
-position: gs
+position: pgs
 avatar:
 mail: tihonov.dm@phystech.edu
 site:

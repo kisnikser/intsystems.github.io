@@ -2,7 +2,7 @@
 title: peoples.title.grishanov_av
 name: peoples.name
 edit: true
-position: gs
+position: pgs
 avatar: grishanov_av.jpeg
 mail: grishanov.av@phystech.edu
 site:

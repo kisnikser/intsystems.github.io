@@ -2,7 +2,7 @@
 title: peoples.title.morozov_m
 name: peoples.name
 edit: true
-position: gs
+position: pgs
 avatar:
 mail:
 site:

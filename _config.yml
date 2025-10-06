@@ -146,5 +146,6 @@ global:
       - hotd
       - dos
       - phd
+      - pgs
       - gs
       - template

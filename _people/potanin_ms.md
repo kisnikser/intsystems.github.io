@@ -2,7 +2,7 @@
 title: peoples.title.potanin_ms
 name: peoples.name
 edit: true
-position: gs
+position: pgs
 avatar: potanin_ms.jpg
 mail:
 site:
