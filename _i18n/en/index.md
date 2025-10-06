@@ -1,24 +1,24 @@
 <div style="position: relative; min-height: 60vh; display: flex; align-items: center; justify-content: center; text-align: center; margin: auto auto; width: 100vw; left: 50%; transform: translateX(-50%); overflow: hidden;">
-  <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; background: url('images/main/вц_ран.jpg') center/cover no-repeat; filter: blur(5px); transform: scale(1.1); z-index: 0;"></div>
+  <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; background: url('{{ site.baseurl_root }}/images/main/вц_ран.jpg') center/cover no-repeat; filter: blur(5px); transform: scale(1.1); z-index: 0;"></div>
   <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #000; z-index: 1; opacity: 0.6"></div>
-  <div style="position: relative; z-index: 2; color: #fff; width: 70%; min-width: 500px; max-width: 1000px; padding: 2rem;">
-    <p class="fade-in-left">Department of</p>
-    <h1 class="fade-in-left" style="color: #fff; margin-bottom: 2rem; font-size: 3rem; font-weight: 600;">Intelligent Systems</h1>
+  <div class="hero-content" style="position: relative; z-index: 2; color: #fff; width: 90%; max-width: 1200px; padding: 1.5rem;">
+    <p class="fade-in-left" style="font-size: clamp(0.9rem, 3vw, 1rem); margin-bottom: 0.5rem;">Department of</p>
+    <h1 class="fade-in-left" style="color: #fff; margin-bottom: 1.5rem; font-size: clamp(1.8rem, 8vw, 3rem); font-weight: 600; line-height: 1.2;">Intelligent Systems</h1>
     <p class="fade-in-right">
         We train specialists in applied mathematics and physics — from bachelor's to PhD. Our research spans machine learning theory, intelligent systems, and real-world applications. Based at the Dorodnicyn Computing Centre of RAS, we unite academic excellence with industry collaboration.
     </p>
-    <div class="fade-in-right">
+    <div class="fade-in-right" style="display: flex; justify-content: center; align-items: center; gap: clamp(0.8rem, 4vw, 1.5rem); flex-wrap: wrap;">
     {% if site.github %}
-    <a href="https://github.com/{{site.github}}" target="_blank" style="font-size: 1.5rem; margin: 0 1rem"><i class="fa fa-github"></i></a>
+    <a href="https://github.com/{{site.github}}" target="_blank" style="font-size: clamp(1.2rem, 5vw, 1.5rem); padding: 0.5rem; min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; text-decoration: none;"><i class="fa fa-github"></i></a>
     {% endif %}
     {% if site.mail %}
-    <a href="mailto:{{site.mail}}" style="font-size: 1.5rem; margin: 0 1rem"><i class="fa fa-envelope-o"></i></a>
+    <a href="mailto:{{site.mail}}" style="font-size: clamp(1.2rem, 5vw, 1.5rem); padding: 0.5rem; min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; text-decoration: none;"><i class="fa fa-envelope-o"></i></a>
     {% endif %}
     {% if site.telegram %}
-    <a href="{{site.telegram}}"  target="_blank" style="font-size: 1.5rem; margin: 0 1rem"><i class="fa fa-telegram"></i></a>
+    <a href="{{site.telegram}}"  target="_blank" style="font-size: clamp(1.2rem, 5vw, 1.5rem); padding: 0.5rem; min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; text-decoration: none;"><i class="fa fa-telegram"></i></a>
     {% endif %}
     {% if site.youtube %}
-    <a href="{{site.youtube}}"  target="_blank" style="font-size: 1.5rem; margin: 0 1rem"><i class="fa fa-youtube-play"></i></a>
+    <a href="{{site.youtube}}"  target="_blank" style="font-size: clamp(1.2rem, 5vw, 1.5rem); padding: 0.5rem; min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; text-decoration: none;"><i class="fa fa-youtube-play"></i></a>
     {% endif %}
     </div>
     </div>
@@ -103,9 +103,9 @@
                 <div class="list-item-people">
                     <p class="list-post-title">
                     {% if profile.avatar %}
-                        <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="images/people/{{profile.avatar}}"></a>
+                        <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" loading="lazy" src="images/people/{{profile.avatar}}" alt="{% t peoples.name.{{ profile_id }} %}"></a>
                     {% else %}
-                        <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="images/people/default.jpg"></a>
+                        <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" loading="lazy" src="images/people/default.jpg" alt="{% t peoples.name.{{ profile_id }} %}"></a>
                     {% endif %}
                     <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{% t peoples.name.{{ profile_id }} %}</a>
                     </p>
@@ -146,7 +146,7 @@
 
 <!-- Full-width Image Before Research Section -->
 <div style="width: 100vw; position: relative; left: 50%; transform: translateX(-50%); margin: 3.5rem 0;">
-<img src="images/main/zhuravlev_rudakov_merged.png" style="width: 100vw; max-width: 100%; height: auto; object-fit: cover;  border-radius: 0px">
+<img src="images/main/zhuravlev_rudakov_merged.jpg" loading="lazy" style="width: 100vw; max-width: 100%; height: auto; object-fit: cover;  border-radius: 0px">
 </div>
 
 <!-- Research Section -->
@@ -213,19 +213,19 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.3/dist/css/bulma-carousel.min.css">
         <div id="carousel-demo" class="carousel">
             <div class="carousel-item">
-                <img src="images/life/bachelors-2025.jpeg">
+                <img src="images/life/bachelors-2025.jpeg" loading="lazy" alt="Bachelors 2025">
                 <p>Bachelors 2025'</p>
             </div>
             <div class="carousel-item">
-                <img src="images/life/masters-2025.jpeg">
+                <img src="images/life/masters-2025.jpeg" loading="lazy" alt="Masters 2025">
                 <p>Masters 2025'</p>
             </div>
             <div class="carousel-item">
-                <img src="images/life/bachelors-2024.jpeg">
+                <img src="images/life/bachelors-2024.jpeg" loading="lazy" alt="Bachelors 2024">
                 <p>Bachelors 2024'</p>
             </div>
             <div class="carousel-item">
-                <img src="images/life/masters-2024.jpeg">
+                <img src="images/life/masters-2024.jpeg" loading="lazy" alt="Masters 2024">
                 <p>Masters 2024'</p>
             </div>
         </div>

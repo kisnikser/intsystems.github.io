@@ -29,11 +29,21 @@ layout: default
         <p class="list-post-title">
             {% if profile.avatar %}
             <a href="{{ site.baseurl }}{{ profile.url }}">
-                <img class="profile-thumbnail" src="{{ site.baseurl_root }}/images/people/{{profile.avatar}}">
+                <img
+                    class="profile-thumbnail"
+                    loading="lazy"
+                    src="{{ site.baseurl_root }}/images/people/{{profile.avatar}}"
+                    alt="{% t peoples.name.{{ profile.id | split: '/' | last }} %}"
+                >
             </a>
             {% else %}
             <a href="{{ site.baseurl }}{{ profile.url }}">
-                <img class="profile-thumbnail" src="{{ site.baseurl_root }}/images/people/default.jpg">
+                <img
+                    class="profile-thumbnail"
+                    loading="lazy"
+                    src="{{ site.baseurl_root }}/images/people/default.jpg"
+                    alt="{% t peoples.name.{{ profile.id | split: '/' | last }} %}"
+                >
             </a>
             {% endif %}
             <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{% t peoples.name.{{ profile.id | split: "/" | last }} %}</a>
