@@ -47,29 +47,29 @@ timeline
 
 #### 4th year, 7th semester - Tuesday
 
-|    Time     | Subject                                                         | Instructors                                                                                                                                                                               |    Assessment Type    | Credits |
-| :---------: | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------: | :-----: |
-| 10:30-12:00 | [Deep Learning: Lecture](/course/deep_learning)                 | [Eduard Vladimirov](/people/vladimirov_ea), [Daniil Dorin](/people/dorin_dd), [Nikita Kiselev](/people/kiselev_ns), [Sergey Firsov](/people/firsov_sa), [Vadim Kasiuk](/people/kasiuk_va) | Differentiated credit |    2    |
-| 12:10-13:40 | [Deep Learning: Seminar](/course/deep_learning)                 | [Eduard Vladimirov](/people/vladimirov_ea), [Daniil Dorin](/people/dorin_dd), [Nikita Kiselev](/people/kiselev_ns), [Sergey Firsov](/people/firsov_sa), [Vadim Kasiuk](/people/kasiuk_va) |                       |         |
-| 14:30-16:00 | [Bayesian Model Selection](/course/bayesian_model_selection)    | [Alexander Aduenko](/people/aduenko_aa), [Konstantin Yakovlev](/people/yakovlev_kd)                                                                                                       | Differentiated credit |    1    |
-| 16:10-17:40 | [Mathematical Forecasting Methods](/course/forecasting_methods) | [Denis Tikhonov](/people/tikhonov_dm), [Sviatoslav Panchenko](/people/panchenko_sk)                                                                                                       | Differentiated credit |    1    |
+|    Time     | Subject                                                                           | Instructors                                                                                                                                                                                                                                                                         |    Assessment Type    | Credits |
+| :---------: | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------: | :-----: |
+| 10:30-12:00 | [Deep Learning: Lecture]({{ site.baseurl }}/course/deep_learning)                 | [Eduard Vladimirov]({{ site.baseurl }}/people/vladimirov_ea), [Daniil Dorin]({{ site.baseurl }}/people/dorin_dd), [Nikita Kiselev]({{ site.baseurl }}/people/kiselev_ns), [Sergey Firsov]({{ site.baseurl }}/people/firsov_sa), [Vadim Kasiuk]({{ site.baseurl }}/people/kasiuk_va) | Differentiated credit |    2    |
+| 12:10-13:40 | [Deep Learning: Seminar]({{ site.baseurl }}/course/deep_learning)                 | [Eduard Vladimirov]({{ site.baseurl }}/people/vladimirov_ea), [Daniil Dorin]({{ site.baseurl }}/people/dorin_dd), [Nikita Kiselev]({{ site.baseurl }}/people/kiselev_ns), [Sergey Firsov]({{ site.baseurl }}/people/firsov_sa), [Vadim Kasiuk]({{ site.baseurl }}/people/kasiuk_va) |                       |         |
+| 14:30-16:00 | [Bayesian Model Selection]({{ site.baseurl }}/course/bayesian_model_selection)    | [Alexander Aduenko]({{ site.baseurl }}/people/aduenko_aa), [Konstantin Yakovlev]({{ site.baseurl }}/people/yakovlev_kd)                                                                                                                                                             | Differentiated credit |    1    |
+| 16:10-17:40 | [Mathematical Forecasting Methods]({{ site.baseurl }}/course/forecasting_methods) | [Denis Tikhonov]({{ site.baseurl }}/people/tikhonov_dm), [Sviatoslav Panchenko]({{ site.baseurl }}/people/panchenko_sk)                                                                                                                                                             | Differentiated credit |    1    |
 
 #### 5th year, 9th semester - Tuesday
 
-|    Time     | Subject                                                           | Instructors                                                                   |    Assessment Type    | Credits |
-| :---------: | ----------------------------------------------------------------- | ----------------------------------------------------------------------------- | :-------------------: | :-----: |
-| 14:30-16:00 | [Bayesian Multimodeling](/course/bayesian_multimodeling)          | [Oleg Bakhteev](/people/bakhteev_oy)                                          | Differentiated credit |    2    |
-| 16:10-17:40 | [Creation of Intelligent Systems](/course/rnd_in_ai)              | [Andrey Grabovoy](/people/grabovoy_av)                                        | Differentiated credit |    2    |
-| 18:00-19:30 | [Deep Generative Models: Lecture](/course/deep_generative_models) | [Roman Isachenko](/people/isachenko_rv), [Mikhail Morozov](/people/morozov_m) |         Exam          |    3    |
-| 19:30-21:00 | [Deep Generative Models: Seminar](/course/deep_generative_models) | [Roman Isachenko](/people/isachenko_rv), [Mikhail Morozov](/people/morozov_m) |                       |         |
+|    Time     | Subject                                                                             | Instructors                                                                                                       |    Assessment Type    | Credits |
+| :---------: | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | :-------------------: | :-----: |
+| 14:30-16:00 | [Bayesian Multimodeling]({{ site.baseurl }}/course/bayesian_multimodeling)          | [Oleg Bakhteev]({{ site.baseurl }}/people/bakhteev_oy)                                                            | Differentiated credit |    2    |
+| 16:10-17:40 | [Creation of Intelligent Systems]({{ site.baseurl }}/course/rnd_in_ai)              | [Andrey Grabovoy]({{ site.baseurl }}/people/grabovoy_av)                                                          | Differentiated credit |    2    |
+| 18:00-19:30 | [Deep Generative Models: Lecture]({{ site.baseurl }}/course/deep_generative_models) | [Roman Isachenko]({{ site.baseurl }}/people/isachenko_rv), [Mikhail Morozov]({{ site.baseurl }}/people/morozov_m) |         Exam          |    3    |
+| 19:30-21:00 | [Deep Generative Models: Seminar]({{ site.baseurl }}/course/deep_generative_models) | [Roman Isachenko]({{ site.baseurl }}/people/isachenko_rv), [Mikhail Morozov]({{ site.baseurl }}/people/morozov_m) |                       |         |
 
 #### 6th year, 11th semester - Thursday
 
-|    Time     | Subject                                                          | Instructors                                  |    Assessment Type    | Credits |
-| :---------: | ---------------------------------------------------------------- | -------------------------------------------- | :-------------------: | :-----: |
-| 10:30-12:00 | [Functional Data Analysis](/course/functional_data_analysis)     | [Vadim Strijov](/people/strijov_vv)          |         Exam          |    3    |
-| 12:10-13:40 | [Intellectual Data Analysis](/course/intellectual_data_analysis) | [Vadim Strijov](/people/strijov_vv)          |        Credit         |    2    |
-| 14:30-16:00 | [Probabilistic Topic Models](/course/probabilistic_topic_models) | [Konstantin Vorontsov](/people/vorontsov_kv) | Differentiated credit |    2    |
+|    Time     | Subject                                                                            | Instructors                                                    |    Assessment Type    | Credits |
+| :---------: | ---------------------------------------------------------------------------------- | -------------------------------------------------------------- | :-------------------: | :-----: |
+| 10:30-12:00 | [Functional Data Analysis]({{ site.baseurl }}/course/functional_data_analysis)     | [Vadim Strijov]({{ site.baseurl }}/people/strijov_vv)          |         Exam          |    3    |
+| 12:10-13:40 | [Intellectual Data Analysis]({{ site.baseurl }}/course/intellectual_data_analysis) | [Vadim Strijov]({{ site.baseurl }}/people/strijov_vv)          |        Credit         |    2    |
+| 14:30-16:00 | [Probabilistic Topic Models]({{ site.baseurl }}/course/probabilistic_topic_models) | [Konstantin Vorontsov]({{ site.baseurl }}/people/vorontsov_kv) | Differentiated credit |    2    |
 
 <br>
 

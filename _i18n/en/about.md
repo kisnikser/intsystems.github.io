@@ -12,7 +12,7 @@ The base organization is the Computing Center of the Russian Academy of Sciences
 
 ### Teachers of the department
 
-[20 researchers](/people/): professor of the Russian Academy of Sciences, doctors and candidates of sciences. Teachers are young candidates of sciences, graduates of the department Ph.D. [Alexander Aduenko](/people/aduenko_aa/index.html), Ph.D. [Oleg Bakhteev](/people/bakhteev_oy/index.html), Ph.D. [Roman Isachenko](/people/isachenko_rv/index.html), graduate student [Andrey Grabovoy](/people/grabovoy_av/index.html). The average age of the teachers is 35 years.
+[20 researchers]({{ site.baseurl }}/people/): professor of the Russian Academy of Sciences, doctors and candidates of sciences. Teachers are young candidates of sciences, graduates of the department Ph.D. [Alexander Aduenko]({{ site.baseurl }}/people/aduenko_aa/index.html), Ph.D. [Oleg Bakhteev]({{ site.baseurl }}/people/bakhteev_oy/index.html), Ph.D. [Roman Isachenko]({{ site.baseurl }}/people/isachenko_rv/index.html), graduate student [Andrey Grabovoy]({{ site.baseurl }}/people/grabovoy_av/index.html). The average age of the teachers is 35 years.
 
 ### Areas of educational and scientific activities of the department
 
