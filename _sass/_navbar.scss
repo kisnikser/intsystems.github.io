@@ -76,24 +76,6 @@
   margin-bottom: 0px;
 }
 
-// Уменьшаем высоту navbar на мобильных
-@media (max-width: $lt-width) {
-  .navbar {
-    min-height: auto;
-    padding: 0;
-  }
-
-  .navbar-header {
-    min-height: auto;
-  }
-
-  .navbar-toggle {
-    padding: 6px 8px;
-    margin-top: 0px;
-    margin-bottom: 6px;
-  }
-}
-
 .navbar,
 .navbar-nav > li > a {
   text-decoration: none;
@@ -234,12 +216,6 @@
   }
 }
 
-@media (max-width: $lt-width) {
-  .navbar-social-block {
-    display: none;
-  }
-}
-
 .navbar-container {
   display: grid;
   grid-template-columns: minmax(150px, 1fr) auto minmax(150px, 1fr);
@@ -357,8 +333,24 @@ a.navbar-social {
   display: none;
 }
 
-// Для мобильных
+// Для мобильных - единый блок всех стилей
 @media (max-width: $lt-width) {
+  // Основные стили navbar
+  .navbar {
+    min-height: auto;
+    padding: 0;
+  }
+
+  .navbar-toggle {
+    padding: 10px 10px;
+    margin: 0;
+  }
+
+  // Скрываем десктопный соц-блок
+  .navbar-social-block {
+    display: none;
+  }
+
   // Убираем ограничения для Bootstrap collapse
   .collapse {
     max-height: none !important;
@@ -367,6 +359,12 @@ a.navbar-social {
 
   .collapse.in {
     overflow: visible !important;
+  }
+
+  // Отключаем анимацию для быстрого появления меню
+  .navbar-collapse.collapsing {
+    transition: none !important;
+    height: auto !important;
   }
 
   .navbar-container {
@@ -381,18 +379,17 @@ a.navbar-social {
       display: flex;
       justify-content: flex-end;
       align-items: center;
-      padding-right: 10px;
-      padding-top: 0px;
-      padding-bottom: 0px;
+      padding: 10px 10px;
 
       // Скрываем логотип на мобильных
       .navbar-brand {
         display: none;
       }
 
-      // Кнопка toggle справа
+      // Кнопка toggle справа с симметричными отступами
       .navbar-toggle {
         margin: 0;
+        padding: 5px 8px;
         float: none;
       }
     }
@@ -410,11 +407,13 @@ a.navbar-social {
         > li {
           display: block;
           width: 100%;
+          padding: 0;
+          margin: 0;
 
           > a {
             display: block;
             width: 100%;
-            padding: 10px 15px;
+            padding: 10px 10px;
             border-bottom: 1px solid #f0f0f0;
           }
         }
@@ -431,12 +430,12 @@ a.navbar-social {
     display: block !important;
     padding: 10px 15px;
     background-color: #fafafa;
-    margin-top: 5px;
+    margin-top: 0px;
 
     .navbar-social-mobile-divider {
       height: 1px;
-      background: #e0e0e0;
-      margin-bottom: 15px;
+      background: #fafafa;
+      margin-bottom: 10px;
     }
 
     .navbar-social-mobile-item {
@@ -448,12 +447,8 @@ a.navbar-social {
 
       .navbar-social-mobile-label {
         display: block;
-        font-size: 0.8rem;
-        font-weight: 600;
-        color: #666;
+        font-family: $font-primary;
         margin-bottom: 6px;
-        text-transform: uppercase;
-        letter-spacing: 0.05em;
       }
 
       .navbar-social-mobile-links {
@@ -466,7 +461,6 @@ a.navbar-social {
           font-size: 0.95rem;
           font-weight: 400;
           padding: 4px 8px;
-          border-radius: 4px;
           transition: all 0.2s ease;
 
           &.active {
@@ -487,7 +481,6 @@ a.navbar-social {
       }
 
       .navbar-social-mobile-icons {
-        display: flex;
         gap: 15px;
 
         a {
