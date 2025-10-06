@@ -3,7 +3,7 @@ id: vorontsov_kv
 title: peoples.title.vorontsov_kv
 name: peoples.name
 edit: true
-position: dos,hotd
+position: hotd
 avatar: vorontsov_kv.jpg
 mail:
 site: www.machinelearning.ru/wiki/index.php?title=%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Vokov
