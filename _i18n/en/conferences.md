@@ -10,7 +10,7 @@ References:
 2. https://tinyurl.com/bahleg-journals
 
 <!-- Conferences Deadlines Section -->
-<section class="fade-in-section" style="margin: 3rem 0;">
+<section style="margin: 3rem 0;">
     <h2>Conference Deadlines</h2>
     <p style="margin-top: 1rem;">Upcoming submission deadlines for top-tier machine learning conferences. Stay up-to-date with the most important events in the field!</p>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(360px, 100%), 1fr)); gap: 1.5rem; margin-top: 2rem;">
@@ -42,6 +42,12 @@ References:
     
     {% comment %} Sort by the timestamp (first part of string) {% endcomment %}
     {% assign sorted_data = conference_data | sort %}
+    
+    {% if sorted_data.size == 0 %}
+        <div style="grid-column: 1 / -1; text-align: center; padding: 2rem; background: #f9f9f9; border-radius: 1rem;">
+            <p style="font-size: 1.1rem; color: #666; margin: 0;">No upcoming conference deadlines at the moment. Check back later!</p>
+        </div>
+    {% endif %}
     
     {% assign upcoming_count = 0 %}
     {% for data_item in sorted_data %}

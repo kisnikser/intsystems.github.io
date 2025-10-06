@@ -76,6 +76,17 @@
   margin-bottom: 0px;
 }
 
+// Уменьшаем высоту navbar на мобильных
+@media (max-width: $lt-width) {
+  .navbar {
+    min-height: auto;
+  }
+
+  .navbar-header {
+    min-height: auto;
+  }
+}
+
 .navbar,
 .navbar-nav > li > a {
   text-decoration: none;
@@ -345,6 +356,7 @@ a.navbar-social {
     grid-template-columns: 1fr;
     justify-content: center;
     padding: 0;
+    min-height: auto;
 
     .navbar-header {
       justify-self: stretch;
@@ -353,6 +365,8 @@ a.navbar-social {
       justify-content: flex-end;
       align-items: center;
       padding-right: 15px;
+      padding-top: 8px;
+      padding-bottom: 8px;
 
       // Скрываем логотип на мобильных
       .navbar-brand {
@@ -369,6 +383,8 @@ a.navbar-social {
       grid-column: 1;
       justify-self: stretch;
       width: 100%;
+      max-height: none !important;
+      overflow: visible !important;
 
       // Меню по левому краю на мобильных
       .navbar-center {
