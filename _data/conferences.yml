@@ -1,7 +1,6 @@
 conferences:
   - name: "NeurIPS"
     full_name: "Neural Information Processing Systems"
-    abstract_deadline: "2025-05-21"
     submission_deadline: "2025-05-21"
     conference_date: "2025-12-09"
     location: "Vancouver, Canada"
@@ -11,7 +10,6 @@ conferences:
 
   - name: "ICML"
     full_name: "International Conference on Machine Learning"
-    abstract_deadline: "2026-01-30"
     submission_deadline: "2026-01-31"
     conference_date: "2026-07-12"
     location: "TBA"
@@ -21,7 +19,6 @@ conferences:
 
   - name: "ICLR"
     full_name: "International Conference on Learning Representations"
-    abstract_deadline: "2025-10-01"
     submission_deadline: "2025-10-01"
     conference_date: "2026-04-24"
     location: "Singapore"
@@ -31,7 +28,6 @@ conferences:
 
   - name: "CVPR"
     full_name: "Conference on Computer Vision and Pattern Recognition"
-    abstract_deadline: "2025-11-15"
     submission_deadline: "2025-11-15"
     conference_date: "2026-06-16"
     location: "Seattle, USA"
@@ -41,7 +37,7 @@ conferences:
 
   - name: "ICCV"
     full_name: "International Conference on Computer Vision"
-    abstract_deadline: "2026-03-15"
+    abstract_deadline: "2026-03-01"
     submission_deadline: "2026-03-15"
     conference_date: "2026-10-10"
     location: "TBA"
@@ -51,7 +47,6 @@ conferences:
 
   - name: "ECCV"
     full_name: "European Conference on Computer Vision"
-    abstract_deadline: "2026-03-07"
     submission_deadline: "2026-03-07"
     conference_date: "2026-09-30"
     location: "TBA"
@@ -61,7 +56,6 @@ conferences:
 
   - name: "AAAI"
     full_name: "AAAI Conference on Artificial Intelligence"
-    abstract_deadline: "2025-08-07"
     submission_deadline: "2025-08-07"
     conference_date: "2026-02-23"
     location: "Philadelphia, USA"
@@ -71,7 +65,6 @@ conferences:
 
   - name: "IJCAI"
     full_name: "International Joint Conference on Artificial Intelligence"
-    abstract_deadline: "2026-01-21"
     submission_deadline: "2026-01-21"
     conference_date: "2026-08-21"
     location: "TBA"
@@ -81,7 +74,6 @@ conferences:
 
   - name: "AISTATS"
     full_name: "International Conference on Artificial Intelligence and Statistics"
-    abstract_deadline: "2025-10-07"
     submission_deadline: "2025-10-14"
     conference_date: "2026-04-14"
     location: "Valencia, Spain"
@@ -91,7 +83,6 @@ conferences:
 
   - name: "KDD"
     full_name: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining"
-    abstract_deadline: "2026-02-06"
     submission_deadline: "2026-02-06"
     conference_date: "2026-08-23"
     location: "TBA"
@@ -101,7 +92,6 @@ conferences:
 
   - name: "ACL"
     full_name: "Annual Meeting of the Association for Computational Linguistics"
-    abstract_deadline: "2026-02-15"
     submission_deadline: "2026-02-15"
     conference_date: "2026-07-30"
     location: "TBA"
@@ -111,7 +101,6 @@ conferences:
 
   - name: "EMNLP"
     full_name: "Conference on Empirical Methods in Natural Language Processing"
-    abstract_deadline: "2025-06-15"
     submission_deadline: "2025-06-15"
     conference_date: "2025-11-12"
     location: "Miami, USA"

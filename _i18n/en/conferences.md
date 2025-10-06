@@ -15,9 +15,39 @@ References:
     <p style="margin-top: 1rem;">Upcoming submission deadlines for top-tier machine learning conferences. Stay up-to-date with the most important events in the field!</p>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(360px, 1fr)); gap: 1.5rem; margin-top: 2rem;">
     {% assign today = site.time | date: '%s' %}
-    {% assign sorted_conferences = site.data.conferences.conferences | where: "active", true | sort: "abstract_deadline" %}
+    
+    {% comment %} Collect conferences with their effective deadlines and timestamps {% endcomment %}
+    {% assign conference_data = "" | split: "" %}
+    
+    {% for conf in site.data.conferences.conferences %}
+        {% if conf.active == true %}
+            {% assign abstract_timestamp = conf.abstract_deadline | date: '%s' %}
+            {% assign submission_timestamp = conf.submission_deadline | date: '%s' %}
+            
+            {% comment %} Determine effective deadline for sorting {% endcomment %}
+            {% if conf.abstract_deadline and abstract_timestamp >= today %}
+                {% assign sort_timestamp = abstract_timestamp %}
+            {% else %}
+                {% assign sort_timestamp = submission_timestamp %}
+            {% endif %}
+            
+            {% comment %} Only include if has future deadline {% endcomment %}
+            {% if sort_timestamp >= today %}
+                {% comment %} Create a sortable string: "timestamp|conference_index" {% endcomment %}
+                {% assign conf_data = sort_timestamp | append: "|" | append: forloop.index0 %}
+                {% assign conference_data = conference_data | push: conf_data %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+    
+    {% comment %} Sort by the timestamp (first part of string) {% endcomment %}
+    {% assign sorted_data = conference_data | sort %}
+    
     {% assign upcoming_count = 0 %}
-    {% for conf in sorted_conferences %}
+    {% for data_item in sorted_data %}
+        {% assign data_parts = data_item | split: "|" %}
+        {% assign conf_index = data_parts[1] | plus: 0 %}
+        {% assign conf = site.data.conferences.conferences[conf_index] %}
         {% comment %} Determine which deadline to use and check {% endcomment %}
         {% assign abstract_timestamp = conf.abstract_deadline | date: '%s' %}
         {% assign submission_timestamp = conf.submission_deadline | date: '%s' %}

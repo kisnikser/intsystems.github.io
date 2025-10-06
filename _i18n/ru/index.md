@@ -29,9 +29,39 @@
     <p style="margin-top: 1rem;">Ближайшие дедлайны подачи работ на топовые конференции по машинному обучению. Будьте в курсе самых важных событий в области!</p>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.5rem; margin-top: 2rem;">
     {% assign today = site.time | date: '%s' %}
-    {% assign sorted_conferences = site.data.conferences.conferences | where: "active", true | sort: "abstract_deadline" %}
+    
+    {% comment %} Собираем конференции с их эффективными дедлайнами и временными метками {% endcomment %}
+    {% assign conference_data = "" | split: "" %}
+    
+    {% for conf in site.data.conferences.conferences %}
+        {% if conf.active == true %}
+            {% assign abstract_timestamp = conf.abstract_deadline | date: '%s' %}
+            {% assign submission_timestamp = conf.submission_deadline | date: '%s' %}
+            
+            {% comment %} Определяем эффективный дедлайн для сортировки {% endcomment %}
+            {% if conf.abstract_deadline and abstract_timestamp >= today %}
+                {% assign sort_timestamp = abstract_timestamp %}
+            {% else %}
+                {% assign sort_timestamp = submission_timestamp %}
+            {% endif %}
+            
+            {% comment %} Включаем только с будущими дедлайнами {% endcomment %}
+            {% if sort_timestamp >= today %}
+                {% comment %} Создаем сортируемую строку: "timestamp|conference_index" {% endcomment %}
+                {% assign conf_data = sort_timestamp | append: "|" | append: forloop.index0 %}
+                {% assign conference_data = conference_data | push: conf_data %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+    
+    {% comment %} Сортируем по временной метке (первая часть строки) {% endcomment %}
+    {% assign sorted_data = conference_data | sort %}
+    
     {% assign upcoming_count = 0 %}
-    {% for conf in sorted_conferences %}
+    {% for data_item in sorted_data %}
+        {% assign data_parts = data_item | split: "|" %}
+        {% assign conf_index = data_parts[1] | plus: 0 %}
+        {% assign conf = site.data.conferences.conferences[conf_index] %}
         {% comment %} Определяем, какой дедлайн использовать и проверяем {% endcomment %}
         {% assign abstract_timestamp = conf.abstract_deadline | date: '%s' %}
         {% assign submission_timestamp = conf.submission_deadline | date: '%s' %}
