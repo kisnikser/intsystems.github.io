@@ -27,7 +27,7 @@
 <section class="fade-in-section" style="margin: 3rem 0;">
     <h2>Дедлайны конференций</h2>
     <p style="margin-top: 1rem;">Ближайшие дедлайны подачи работ на топовые конференции по машинному обучению. Будьте в курсе самых важных событий в области!</p>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.5rem; margin-top: 2rem;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(320px, 100%), 1fr)); gap: 1.5rem; margin-top: 2rem;">
     {% assign today = site.time | date: '%s' %}
     
     {% comment %} Собираем конференции с их эффективными дедлайнами и временными метками {% endcomment %}
@@ -160,7 +160,7 @@
 
 <!-- Department Statistics -->
 <div style="margin: 3rem auto 2.5rem auto; max-width: 1200px; width: 95%;">
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 3rem 4rem; text-align: center; padding: 1.5rem 0;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(320px, 100%), 1fr)); gap: clamp(1.5rem, 3vw, 3rem) clamp(2rem, 4vw, 4rem); text-align: center; padding: 1.5rem 0;">
         <div class="fade-in-left" style="display: flex; flex-direction: column; align-items: center;">
             <p style="font-size: 4rem; font-weight: 600; line-height: 0.9; margin-bottom: 0.5rem;">2003</p>
             <p style="max-width: 220px;font-size: 1rem;">год основания кафедры</p>
@@ -256,7 +256,7 @@
         <p>
             Мы открыто публикуем результаты исследований и приглашаем к сотрудничеству студентов, исследователей и промышленные компании.
         </p>
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 2.5rem; margin: 2.5rem 0;">
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(360px, 100%), 1fr)); gap: 2.5rem; margin: 2.5rem 0;">
             <div class="fade-in-left research-block" >
                 <a class="research-block-title" href="/materials/nir">Научные исследования</a>
                 <p style="margin: 1rem 0;">
@@ -277,8 +277,6 @@
                     <strong>Работа студентов:</strong> публикации, дипломные работы бакалавров и магистров, кандидатские диссертации
                 </p>
             </div>
-        </div>
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 2.5rem;">
             <div class="fade-in-left research-block" >
                 <a class="research-block-title" href="/materials/scholarship">Стипендии</a>
                 <p style="margin: 1rem 0;">

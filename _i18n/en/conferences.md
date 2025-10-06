@@ -13,7 +13,7 @@ References:
 <section class="fade-in-section" style="margin: 3rem 0;">
     <h2>Conference Deadlines</h2>
     <p style="margin-top: 1rem;">Upcoming submission deadlines for top-tier machine learning conferences. Stay up-to-date with the most important events in the field!</p>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(360px, 1fr)); gap: 1.5rem; margin-top: 2rem;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(360px, 100%), 1fr)); gap: 1.5rem; margin-top: 2rem;">
     {% assign today = site.time | date: '%s' %}
     
     {% comment %} Collect conferences with their effective deadlines and timestamps {% endcomment %}

@@ -15,6 +15,7 @@ html {
   font-size: $font-size-base;
   font-weight: $font-weight-base;
   line-height: 1.6;
+  overflow-x: hidden;
 }
 
 body {
@@ -22,6 +23,8 @@ body {
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
+  overflow-x: hidden;
+  width: 100%;
 }
 
 .MathJax_Display {
