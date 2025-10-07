@@ -6,9 +6,9 @@ layout: default
 <div class="profile-header">
     <div class="profile-avatar">
         {% if page.avatar %}
-        <img width="300" src="{{ site.baseurl_root }}/images/people/{{page.avatar}}">
+        <img width="300" height="auto" src="{{ site.baseurl_root }}/images/people/{{page.avatar}}">
         {% else %}
-        <img width="300" src="{{ site.baseurl_root }}/images/people/default.jpg">
+        <img width="300" height="auto" src="{{ site.baseurl_root }}/images/people/default.jpg">
         {% endif %}
     </div>
     <div class="profile-info">
@@ -27,7 +27,7 @@ layout: default
             {% if page.mail %}
             <div class="profile-link-item">
                 <i class="fa fa-envelope-o"></i>
-                <a href="mailto:{{page.mail}}">{{ page.mail }}</a>
+                <a href="#" onclick="copyEmailToClipboard(event, '{{site.mail}}')">{{ page.mail }}</a>
             </div>
             {% endif %}
             
@@ -82,7 +82,7 @@ layout: default
   {% endfor %}
 
 {% if found %}
-<div class="course-section-divider"></div>
+<hr>
 <h3>{% t profile.teaches %}</h3>
 <div class="profile-courses-list">
     {% for course in site.course %}

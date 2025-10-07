@@ -14,12 +14,13 @@ html {
   font-family: $font-primary;
   font-size: $font-size-base;
   font-weight: $font-weight-base;
-  line-height: 1.6;
   overflow-x: hidden;
 }
 
 body {
-  color: #515151;
+  // color: black;
+  color: #333;
+  line-height: 1.6;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -54,7 +55,7 @@ h6 {
   margin-bottom: 1em;
   font-family: $font-primary;
   line-height: 1.1;
-  color: #333;
+  color: #111;
   scroll-margin-top: 50px;
 }
 
@@ -87,55 +88,38 @@ ol,
 dl {
   font-family: $font-primary;
   font-size: $font-size-body;
-  margin-top: 0;
-  margin-bottom: 1rem;
 }
 
-li > ul > li {
-  margin-left: 1rem;
-}
-
-dt {
-  font-weight: bold;
-}
-
-dd {
-  margin-bottom: 0.5rem;
-}
-
+/* нормальная типографика списков */
 ul {
-  list-style: inside circle;
-  padding-left: 0;
-
-  li {
-    margin-bottom: 0.25rem;
-  }
-
-  ul,
-  ol {
-    margin-top: 0.25rem;
-    margin-bottom: 0.5rem;
-  }
-}
-
-ul.share-buttons {
-  list-style: none;
-  padding: 0;
+  list-style-type: disc; /* или circle, если нужно */
+  list-style-position: outside; /* ключевая строка */
+  padding-left: 1.25rem; /* базовый отступ под маркер */
+  margin-left: 0;
 }
 
 ol {
-  list-style: inside decimal;
-  padding-left: 0;
+  list-style-position: outside;
+  padding-left: 1.5rem; /* цифрам обычно чуть больше */
+  margin-left: 0;
+}
 
-  li {
-    margin-bottom: 0.25rem;
-  }
+li {
+  text-indent: 0; /* на всякий случай */
+  margin-bottom: 0.4rem; /* межстрочный интервал между пунктами */
+}
 
-  ul,
-  ol {
-    margin-top: 0.25rem;
-    margin-bottom: 0.5rem;
-  }
+/* вложенные списки — чуть глубже */
+li > ul,
+li > ol {
+  margin-top: 0.25rem;
+  margin-bottom: 0.5rem;
+  padding-left: 1.25rem;
+}
+
+/* длинные DOI/URL не ломают разметку */
+li a {
+  overflow-wrap: anywhere;
 }
 
 p + h1,
@@ -152,15 +136,15 @@ ol + h3 {
 
 hr {
   border: 0;
-  border-top: 0.5px solid #eee;
-  border-bottom: 0.5px solid #eee;
-  margin: 0px;
-  padding: 0px;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #e0e0e0 20%, #e0e0e0 80%, transparent);
+  margin: 3em 0 2em 0;
+  padding: 0;
 }
 
 strong {
-  color: #333;
-  font-weight: bolder;
+  color: #111;
+  font-weight: 600;
 }
 
 abbr {
@@ -231,7 +215,6 @@ pre code {
 
 img {
   display: block;
-  // max-width: 200px;
   margin: 0 0 1rem;
   border-radius: 5px;
 }
@@ -242,24 +225,25 @@ table {
   border-collapse: collapse;
   width: 100%;
   margin: 1.5em 0;
-  border-radius: 5px;
+  border-radius: 0.25rem;
   overflow: hidden;
   font-size: $font-size-small;
-  font-weight: 300;
+  font-weight: 400;
   border: 1px solid #e5e5e5;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
 }
 
 table a {
   text-decoration: none;
-  &:hover {
+  &:hover,
+  &:focus {
     text-decoration: none;
   }
 }
 
 th {
-  background: #fafafa;
-  font-weight: 400;
+  background: #f5f5f5;
+  font-weight: 500;
   text-align: left;
   padding: 0.75em 1em;
   border-bottom: 1px solid #e5e5e5;
@@ -285,6 +269,23 @@ tr:nth-child(even) {
 
 tr:nth-child(even):hover {
   background: #f5f5f5;
+}
+
+/* запретить justify внутри таблиц */
+table,
+table th,
+table td {
+  text-align: left !important; // переопределяем возможный глобальный justify
+  text-align-last: auto; // чтобы последняя строка не дотягивалась
+  text-justify: auto; // отменяем межсловное выравнивание
+  hyphens: manual; // без агрессивных переносов
+  word-break: normal;
+  white-space: normal;
+}
+
+/* на случай, если в ячейках есть p/span/a с унаследованным justify */
+table :is(p, span, a, li) {
+  text-align: left !important;
 }
 
 .list {

@@ -181,8 +181,8 @@
                 <a class="research-block-title" href="{{ site.baseurl }}/materials/scholarship">Scholarships</a>
                 <p style="margin: 1rem 0;">
                     We support the research of our students by awarding several scholarships each semester.
-                    The <a href="{{ site.baseurl }}/materials/scholarship/" style=" font-weight: 400; text-decoration: none;">scientific academic scholarship named after K.V. Rudakov</a> is awarded to undergraduate and graduate students for academic and research excellence.
-                    <span style="font-weight: 400;">Sponsored by Forexis Group.</span>
+                    The <a href="{{ site.baseurl }}/materials/scholarship/" style=" font-weight: 600; text-decoration: none;">scientific academic scholarship named after K.V. Rudakov</a> is awarded to undergraduate and graduate students for academic and research excellence.
+                    <strong>Sponsored by Forexis Group.</strong>
                 </p>
             </div>
             <div class="fade-in-right research-block" >

@@ -4,7 +4,7 @@
   <div class="hero-content" style="position: relative; z-index: 2; color: #fff; width: 90%; max-width: 1200px; padding: 1.5rem;">
     <h1 class="fade-in-left" style="color: #fff; margin-bottom: 1.5rem; font-size: clamp(1.8rem, 8vw, 2.5rem); font-weight: 600; line-height: 1.2;">Кафедра интеллектуальных систем</h1>
     <p class="fade-in-right">
-        Мы готовим специалистов в области прикладной математики и физики — от бакалавриата до аспирантуры. Наши исследования охватывают теорию машинного обучения, интеллектуальные системы и практические приложения. Основываясь на базе ВЦ РАН, мы объединяем академическое превосходство и сотрудничество с индустрией.
+        Мы готовим специалистов в области прикладной математики и физики — от бакалавриата до аспирантуры. Наши исследования охватывают теорию машинного обучения, интеллектуальные системы и практические приложения. Основываясь на базе ВЦ РАН, мы объединяем академическое превосходство и сотрудничество с индустрией.
     </p>
     <div class="fade-in-right" style="display: flex; justify-content: center; align-items: center; gap: clamp(0.8rem, 4vw, 1.5rem); flex-wrap: wrap;">
     {% if site.github %}
@@ -180,8 +180,8 @@
                 <a class="research-block-title" href="{{ site.baseurl }}/materials/scholarship">Стипендии</a>
                 <p style="margin: 1rem 0;">
                     Мы поддерживаем исследования наших студентов, присуждая несколько стипендий каждый семестр.
-                    <a href="{{ site.baseurl }}/materials/scholarship/" style="font-weight: 400;">Научная стипендия имени К.В. Рудакова</a> присуждается студентам бакалавриата и магистратуры за академические и исследовательские достижения.
-                    <span style="font-weight: 400;">Спонсор: Forexis Group.</span>
+                    <a href="{{ site.baseurl }}/materials/scholarship/" style="font-weight: 600; text-decoration: none;">Научная стипендия имени К.В. Рудакова</a> присуждается студентам бакалавриата и магистратуры за академические и исследовательские достижения.
+                    <strong>Спонсор: Forexis Group.</strong>
                 </p>
             </div>
             <div class="fade-in-right research-block" >
