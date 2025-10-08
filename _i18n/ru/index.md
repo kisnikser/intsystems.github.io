@@ -59,7 +59,7 @@
 
 <!-- Department Statistics -->
 <div style="margin: 3rem auto 2.5rem auto; max-width: 1200px; width: 95%;">
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(320px, 100%), 1fr)); gap: clamp(1.5rem, 3vw, 3rem) clamp(2rem, 4vw, 4rem); text-align: center; padding: 1.5rem 0;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(240px, 100%), 1fr)); gap: clamp(1.5rem, 3vw, 2rem) clamp(2rem, 4vw, 4rem); text-align: center; padding: 1.5rem 0;">
         <div class="fade-in-left" style="display: flex; flex-direction: column; align-items: center;">
             <p style="font-size: 4rem; font-weight: 600; line-height: 0.9; margin-bottom: 0.5rem;">2003</p>
             <p style="max-width: 220px;font-size: 1rem;">год основания кафедры</p>
@@ -145,7 +145,7 @@
 
 <!-- Full-width Image Before Research Section -->
 <div style="width: 100vw; position: relative; left: 50%; transform: translateX(-50%); margin: 3.5rem 0;">
-<img src="{{ site.baseurl_root }}/images/main/zhuravlev_rudakov_merged.jpg" loading="lazy" style="width: 100vw; max-width: 100%; height: auto; object-fit: cover;  border-radius: 0px">
+<img src="{{ site.baseurl_root }}/images/main/zhuravlev_rudakov_merged.jpg" style="width: 100vw; max-width: 100%; height: auto; object-fit: cover;  border-radius: 0px">
 </div>
 
 <!-- Research Section -->
@@ -210,19 +210,19 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.3/dist/css/bulma-carousel.min.css">
         <div id="carousel-demo" class="carousel">
             <div class="carousel-item">
-                <img src="{{ site.baseurl_root }}/images/life/bachelors-2025.jpeg" loading="lazy" alt="Бакалавриат 2025">
+                <img src="{{ site.baseurl_root }}/images/life/bachelors-2025.jpeg" alt="Бакалавриат 2025">
                 <p>Бакалавриат, выпуск 2025</p>
             </div>
             <div class="carousel-item">
-                <img src="{{ site.baseurl_root }}/images/life/masters-2025.jpeg" loading="lazy" alt="Магистратура 2025">
+                <img src="{{ site.baseurl_root }}/images/life/masters-2025.jpeg" alt="Магистратура 2025">
                 <p>Магистратура, выпуск 2025</p>
             </div>
             <div class="carousel-item">
-                <img src="{{ site.baseurl_root }}/images/life/bachelors-2024.jpeg" loading="lazy" alt="Бакалавриат 2024">
+                <img src="{{ site.baseurl_root }}/images/life/bachelors-2024.jpeg" alt="Бакалавриат 2024">
                 <p>Бакалавриат, выпуск 2024</p>
             </div>
             <div class="carousel-item">
-                <img src="{{ site.baseurl_root }}/images/life/masters-2024.jpeg" loading="lazy" alt="Магистратура 2024">
+                <img src="{{ site.baseurl_root }}/images/life/masters-2024.jpeg" alt="Магистратура 2024">
                 <p>Магистратура, выпуск 2024</p>
             </div>
         </div>

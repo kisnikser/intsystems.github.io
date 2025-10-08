@@ -17,6 +17,12 @@ html {
   overflow-x: hidden;
 }
 
+@media (max-width: $sm-width) {
+  html {
+    font-size: 0.9rem;
+  }
+}
+
 body {
   // color: black;
   color: #333;
