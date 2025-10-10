@@ -24,7 +24,7 @@
 </div>
 
 <!-- News Section -->
-<section class="fade-in-section" style="margin: 3rem 0;">
+<section style="margin: 3rem 0;">
     <h2>Новости</h2>
     <div style="display: flex; align-items: center; position: relative;">
         <div class="news-scroll-container" style="overflow-x: auto; flex: 1; padding: 0.5rem 0;">

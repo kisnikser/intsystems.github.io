@@ -17,7 +17,7 @@ html {
   overflow-x: hidden;
 }
 
-@media (max-width: $sm-width) {
+@media (max-width: $lt-width) {
   html {
     font-size: 0.9rem;
   }
@@ -239,6 +239,43 @@ table {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
 }
 
+.table-scroll {
+  position: relative;
+  margin: 1.5em 0;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-radius: 0.25rem;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  background-color: #fff;
+}
+
+.table-scroll::after {
+  content: "";
+  position: sticky;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 1.5rem;
+  pointer-events: none;
+  background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.85));
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.table-scroll:hover::after,
+.table-scroll:focus-within::after {
+  opacity: 1;
+}
+
+.table-scroll > table {
+  margin: 0;
+  width: max-content;
+  min-width: 100%;
+  border: none;
+  box-shadow: none;
+}
+
 table a {
   text-decoration: none;
   &:hover,
@@ -258,6 +295,15 @@ th {
 td {
   padding: 0.75em 1em;
   border-bottom: 1px solid #f0f0f0;
+}
+
+th,
+td {
+  max-width: 12rem;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  white-space: normal;
+  vertical-align: top;
 }
 
 tr:last-child td {

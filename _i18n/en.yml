@@ -11,8 +11,7 @@ site:
     names:
       home: Home
       education: Schedule
-      about: About
-      lecturers: Staff
+      lecturers: People
       courses: Courses
       admission: Admission
       materials: Materials
@@ -179,9 +178,8 @@ courses:
 
 titles:
   index: Intelligent Systems
-  about: About
   course: Course
-  people: Staff
+  people: People
   materials: Materials
   nir: Research Reports
   scholarship: Scholarships
@@ -193,7 +191,7 @@ titles:
   seminars: Scientific seminars
 
 course:
-  teachers: Staff
+  teachers: People
   website: Course Website
 
 profile:

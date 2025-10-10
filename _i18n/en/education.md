@@ -1,7 +1,5 @@
 ## Schedule
 
-This page contains the schedule for courses offered by the Intelligent Systems Department at MIPT, including key dates, course details, instructors, and assessment types for both bachelor's and master's programs.
-
 **Online Classes:**
 
 - Bachelor's: [m1p.org/go_zoom](https://m1p.org/go_zoom)
@@ -16,34 +14,18 @@ This page contains the schedule for courses offered by the Intelligent Systems D
 
 ### Fall 2025
 
-```mermaid
----
-config:
-  theme: 'base'
-  themeVariables:
-    primaryColor: '#fafafa'
-    secondaryColor: '#fafafa'
-    primaryTextColor: '#000'
-    fontFamily: 'Open Sans'
-    fontSize: '20px'
-  timeline:
-    disableMulticolor: true
----
-timeline
-    September
-        : 2nd – Scholarship application deadline
-        : 6th – Classes start
-        : 11-12th – Organizational meeting
-    October
-        : 5th – Department presentation for 3rd year students
-    November
-        : 2nd – Interview for 3rd year students
-    December
-        : 15-21st – Exam week for 3rd-6th year students
-        : ❗️21st – Credit on Research (be ready with paper/code/slides)
-    January
-        : 17th – State exam for 6th year students
-```
+#### Key Dates
+
+- **September 2:** Deadline for scholarship applications
+- **September 6:** Start of classes at the department
+- **September 11-12:** Organizational meeting
+- **October 5:** Department presentation for 3rd year students
+- **November 2:** Interview for 3rd year students applying to the department
+- **December 15-21:** Exam week for 3rd to 6th year students
+- **December 21:** ❗️ Credit on Research (be ready with paper/code/slides)
+- **January 17:** State exam for 6th year students
+
+<br>
 
 #### 4th year, 7th semester - Tuesday
 

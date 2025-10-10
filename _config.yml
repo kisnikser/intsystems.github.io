@@ -34,10 +34,7 @@ exclude: ["LICENSE", "README.md", "Gemfile", "Gemfile.lock", "vendor", "_sass"]
 highlighter: rouge
 
 plugins:
-  - jekyll-feed
   - jekyll-multiple-languages-plugin
-  - jekyll-toc
-  - jekyll-sitemap
 
 languages: ["en", "ru"]
 
@@ -55,9 +52,6 @@ nav:
     - id: "education"
       href: "/education"
       name: site.nav.names.education
-    - id: "about"
-      href: "/about"
-      name: site.nav.names.about
     - id: "lecturers"
       href: "/people"
       name: site.nav.names.lecturers
@@ -94,11 +88,6 @@ nav:
 defaults:
   - scope:
       path: ""
-    values:
-      toc: true
-  - scope:
-      path: ""
-      type: "pages"
     values:
       layout: "page"
   - scope:

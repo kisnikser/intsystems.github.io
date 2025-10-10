@@ -13,6 +13,7 @@
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  border-bottom: 2px solid #f5f5f5;
 }
 
 @media (min-width: $lt-width) {
@@ -85,7 +86,7 @@
   background-color: $bg-default;
   font-weight: 400;
   font-size: $font-size-navbar;
-  padding: 15px;
+  // padding: 15px;
   color: #333;
   transition: color 0.3s ease;
 }
@@ -338,6 +339,15 @@ a.navbar-social {
 // Мобильный соц-блок - скрыт по умолчанию (для десктопа)
 .navbar-social-mobile {
   display: none;
+}
+
+@media (max-width: $md-width) {
+  .navbar-brand {
+    display: none;
+  }
+  .navbar-social-block {
+    display: none;
+  }
 }
 
 // Для мобильных - единый блок всех стилей
