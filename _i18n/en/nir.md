@@ -2,7 +2,7 @@
 
 This page contains information about the research projects of students at the Intelligent Systems Department. Here you can find the topics of theses, names of advisors, links to publications, presentations and code repositories.
 
-### 2025 SPRING
+### 2025 Spring
 
 #### PhD Students
 
