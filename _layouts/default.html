@@ -72,11 +72,16 @@
         <div class="navbar-page">
             {% include navbar.html %}
         </div>
-        {% assign is_home = page.home or page.url == '/' or page.url == '/en/' or page.url == '/ru/' %}
         <div class="container">
-            <div class="content{% if is_home %} content--home{% endif %}" data-toc-content>
+            {% if page.home or page.url == '/' or page.url == '/en/' or page.url == '/ru/' %}
+            <div class="content content--home" data-toc-content>
                 {{ content }}
             </div>
+            {% else %}
+            <div class="content" data-toc-content>
+                {{ content }}
+            </div>
+            {% endif %}
         </div>
         {% include footer.html %}
         {% if page.toc %}
