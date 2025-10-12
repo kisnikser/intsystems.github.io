@@ -80,6 +80,9 @@ nav:
         - id: "paper_guidelines"
           href: "/materials/paper_guidelines"
           name: site.nav.names.paper_guidelines
+        - id: "templates"
+          href: "/materials/templates"
+          name: site.nav.names.templates
         - id: "conferences"
           href: "/materials/conferences"
           name: site.nav.names.conferences

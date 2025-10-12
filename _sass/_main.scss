@@ -392,3 +392,32 @@ table :is(p, span, a, li) {
 .list-post-title .name:hover {
   color: $href-color;
 }
+
+.data-table > summary {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  list-style: none;
+  outline: none;
+}
+
+.data-table > summary::before {
+  content: "";
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-top: 0.5em solid transparent;
+  border-bottom: 0.5em solid transparent;
+  border-left: 0.6em solid #333;
+  margin-right: 0.7em;
+  transition: transform 0.2s;
+}
+
+.data-table[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+.data-table > summary h3 {
+  margin: 0.5rem 0;
+  font-size: $font-size-h3;
+}

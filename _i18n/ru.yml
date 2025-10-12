@@ -20,6 +20,7 @@ site:
       seminars: Семинары
       scholarship: Стипендии
       paper_guidelines: Как писать научные работы
+      templates: Шаблоны
       conferences: Список конференций
 
   toc:
@@ -193,6 +194,7 @@ titles:
   admission: Поступающим
   seminars: Научные семинары
   paper_guidelines: Рекомендации по написанию ВКР и научных работ
+  templates: Шаблоны
 
 course:
   teachers: Преподаватели

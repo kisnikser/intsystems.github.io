@@ -20,6 +20,7 @@ site:
       seminars: Meetings
       scholarship: Scholarships
       paper_guidelines: Paper Guidelines
+      templates: Templates
       conferences: Conferences & Journals
 
   toc:
@@ -193,6 +194,7 @@ titles:
   paper_guidelines: Papers and theses writing guidelines
   admission: Admission
   seminars: Scientific seminars
+  templates: Templates
 
 course:
   teachers: People
