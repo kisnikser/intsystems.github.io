@@ -22,6 +22,10 @@ site:
       paper_guidelines: Paper Guidelines
       conferences: Conferences & Journals
 
+  toc:
+    title: Contents
+    toggle: Toggle table of contents
+
   global:
     course:
       types:

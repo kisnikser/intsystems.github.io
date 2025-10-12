@@ -1,18 +1,10 @@
 ## Conferences & Journals
 
-The conferences mainly are retrieved from here http://www.guide2research.com/topconf/ (+ CORE2021: https://www.core.edu.au/conference-portal + some Russian and conferences well known by me).
+This page contains upcoming deadlines for top-tier machine learning conferences, and a comprehensive list of conferences and journals relevant to our department's research areas.
 
-The journals are retrieved from here https://www.scimagojr.com/journalrank.php.
-
-References:
-
-1. https://tinyurl.com/bahleg-conf
-2. https://tinyurl.com/bahleg-journals
-
-<!-- Conferences Deadlines Section -->
-<section style="margin: 3rem 0;">
-    <h2>Conference Deadlines</h2>
-    <p style="margin-top: 1rem;">Upcoming submission deadlines for top-tier machine learning conferences. Stay up-to-date with the most important events in the field!</p>
+<section style="margin: 1rem 0;">
+    <h3>Conference Deadlines</h3>
+    <p style="margin-top: 1rem;">Stay up-to-date with the most important events in the field!</p>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(360px, 100%), 1fr)); gap: 1.5rem; margin-top: 2rem;">
     {% assign today = site.time | date: '%s' %}
     
@@ -75,7 +67,7 @@ References:
             {% assign days_until = primary_deadline_timestamp | minus: today | divided_by: 86400 | plus: 1 %}
             <a href="{{ conf.website }}" target="_blank" class="conference-card">
                 <div class="conference-name">
-                    <h3>{{ conf.name }}</h3>
+                    <h4>{{ conf.name }}</h4>
                     <span class="conference-rank">{{ conf.rank }}</span>
                 </div>
                 <p class="conference-full-name">{{ conf.full_name }}</p>
@@ -112,7 +104,22 @@ References:
     </div>
 </section>
 
-### Conferences
+Here we collect and list conferences and journals relevant to our department's research areas. The conferences mainly are retrieved from here http://www.guide2research.com/topconf/ (+ CORE2021: https://www.core.edu.au/conference-portal + some Russian and conferences well known by me).
+
+The journals are retrieved from here https://www.scimagojr.com/journalrank.php.
+
+References:
+
+1. https://tinyurl.com/bahleg-conf
+2. https://tinyurl.com/bahleg-journals
+
+Tap to expand full lists:
+
+<details class="data-table">
+    <summary>
+        <h3>Conferences</h3>
+    </summary>
+    <div markdown="1">
 
 | Conference name                                                                                                                                                         | Category                    | Conference program                                                                  | URL                                                          | Rank | Rank system |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------ | ---- | ----------- |
@@ -324,7 +331,14 @@ References:
 | AIES : AAAI/ACM Conference on AI, Ethics, and Society                                                                                                                   | ML/CS, Specific             |                                                                                     |                                                              | -    | -           |
 | International Conference on Artificial Intelligence and Soft Computing                                                                                                  | ML/CS                       |                                                                                     | https://icaisc.eu/                                           | -    | -           |
 
-### Journals
+</div>
+</details>
+
+<details class="data-table">
+    <summary>
+        <h3>Journals</h3>
+    </summary>
+    <div markdown="1">
 
 | Journal name                                                                                                   | Category                 | Impact | URL                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------ | ------ | ------------------------------------------------------------------------------------------------------------- |
@@ -770,3 +784,7 @@ References:
 | Journal of Computational Methods in Sciences and Engineering                                                   | Comp. Math               | 0.48   | https://www.springer.com/journal/11766                                                                        |
 | Mathematical and Computational Forestry and Natural-Resource Sciences                                          | Comp. Math               | 0.47   | https://www.degruyter.com/view/journals/ijnsns/ijnsns-overview.xml                                            |
 | Journal of Applied Mathematics and Informatics                                                                 | Comp. Math               | 0.47   | https://www.iospress.nl/journal/journal-of-computational-methods-in-sciences-and-engineering/                 |
+
+    </div>
+
+</details>

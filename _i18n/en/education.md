@@ -27,7 +27,7 @@
 
 <br>
 
-#### 4th year, 7th semester - Tuesday
+#### 4th year, 7th semester (Tuesday)
 
 |    Time     | Subject                                                                           | Instructors                                                                                                                                                                                                                                                                         |    Assessment Type    | Credits |
 | :---------: | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------: | :-----: |
@@ -36,7 +36,7 @@
 | 14:30-16:00 | [Bayesian Model Selection]({{ site.baseurl }}/course/bayesian_model_selection)    | [Alexander Aduenko]({{ site.baseurl }}/people/aduenko_aa), [Konstantin Yakovlev]({{ site.baseurl }}/people/yakovlev_kd)                                                                                                                                                             | Differentiated credit |    1    |
 | 16:10-17:40 | [Mathematical Forecasting Methods]({{ site.baseurl }}/course/forecasting_methods) | [Denis Tikhonov]({{ site.baseurl }}/people/tikhonov_dm), [Sviatoslav Panchenko]({{ site.baseurl }}/people/panchenko_sk)                                                                                                                                                             | Differentiated credit |    1    |
 
-#### 5th year, 9th semester - Tuesday
+#### 5th year, 9th semester (Tuesday)
 
 |    Time     | Subject                                                                             | Instructors                                                                                                       |    Assessment Type    | Credits |
 | :---------: | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | :-------------------: | :-----: |
@@ -45,7 +45,7 @@
 | 18:00-19:30 | [Deep Generative Models: Lecture]({{ site.baseurl }}/course/deep_generative_models) | [Roman Isachenko]({{ site.baseurl }}/people/isachenko_rv), [Mikhail Morozov]({{ site.baseurl }}/people/morozov_m) |         Exam          |    3    |
 | 19:30-21:00 | [Deep Generative Models: Seminar]({{ site.baseurl }}/course/deep_generative_models) | [Roman Isachenko]({{ site.baseurl }}/people/isachenko_rv), [Mikhail Morozov]({{ site.baseurl }}/people/morozov_m) |                       |         |
 
-#### 6th year, 11th semester - Thursday
+#### 6th year, 11th semester (Thursday)
 
 |    Time     | Subject                                                                            | Instructors                                                    |    Assessment Type    | Credits |
 | :---------: | ---------------------------------------------------------------------------------- | -------------------------------------------------------------- | :-------------------: | :-----: |

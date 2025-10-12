@@ -33,7 +33,7 @@
   width: 220px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: $sm-width) {
   .list-item-people {
     width: 150px;
   }
@@ -70,6 +70,20 @@
   .profile-info {
     flex: 1;
     min-width: 300px;
+  }
+}
+
+@media (max-width: $sm-width) {
+  .profile-header {
+    gap: 0;
+  }
+  .profile-avatar {
+    flex-shrink: 0;
+
+    img {
+      width: 200px;
+      height: auto;
+    }
   }
 }
 

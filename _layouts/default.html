@@ -66,14 +66,21 @@
         <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
     </head>
     <body>
+        {% if page.toc %}
+        {% include toc.html %}
+        {% endif %}
         <div class="navbar-page">
             {% include navbar.html %}
         </div>
+        {% assign is_home = page.home or page.url == '/' or page.url == '/en/' or page.url == '/ru/' %}
         <div class="container">
-            <div class="content" style="margin: 3rem auto">
+            <div class="content{% if is_home %} content--home{% endif %}" data-toc-content>
                 {{ content }}
             </div>
         </div>
         {% include footer.html %}
+        {% if page.toc %}
+        <script type="module" src="{{ site.baseurl_root }}/javascript/toc.js"></script>
+        {% endif %}
     </body>
 </html>

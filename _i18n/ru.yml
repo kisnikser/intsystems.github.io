@@ -22,6 +22,10 @@ site:
       paper_guidelines: Как писать научные работы
       conferences: Список конференций
 
+  toc:
+    title: Содержание
+    toggle: Свернуть или развернуть содержание
+
   global:
     course:
       types:
