@@ -115,11 +115,7 @@ References:
 
 Tap to expand full lists:
 
-<details class="data-table">
-    <summary>
-        <h3>Conferences</h3>
-    </summary>
-    <div markdown="1">
+### Conferences
 
 | Conference name                                                                                                                                                         | Category                    | Conference program                                                                  | URL                                                          | Rank | Rank system |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------ | ---- | ----------- |
@@ -331,14 +327,7 @@ Tap to expand full lists:
 | AIES : AAAI/ACM Conference on AI, Ethics, and Society                                                                                                                   | ML/CS, Specific             |                                                                                     |                                                              | -    | -           |
 | International Conference on Artificial Intelligence and Soft Computing                                                                                                  | ML/CS                       |                                                                                     | https://icaisc.eu/                                           | -    | -           |
 
-</div>
-</details>
-
-<details class="data-table">
-    <summary>
-        <h3>Journals</h3>
-    </summary>
-    <div markdown="1">
+### Journals
 
 | Journal name                                                                                                   | Category                 | Impact | URL                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------ | ------ | ------------------------------------------------------------------------------------------------------------- |
@@ -784,7 +773,3 @@ Tap to expand full lists:
 | Journal of Computational Methods in Sciences and Engineering                                                   | Comp. Math               | 0.48   | https://www.springer.com/journal/11766                                                                        |
 | Mathematical and Computational Forestry and Natural-Resource Sciences                                          | Comp. Math               | 0.47   | https://www.degruyter.com/view/journals/ijnsns/ijnsns-overview.xml                                            |
 | Journal of Applied Mathematics and Informatics                                                                 | Comp. Math               | 0.47   | https://www.iospress.nl/journal/journal-of-computational-methods-in-sciences-and-engineering/                 |
-
-    </div>
-
-</details>

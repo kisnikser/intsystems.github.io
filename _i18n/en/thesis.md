@@ -37,11 +37,7 @@ This page contains links to recent theses of students of the Intelligent Systems
 | Линич Анастасия       | Оценка частичных доказательств в Lean 4 на основе анализа матриц внимания большой языковой модели       | Баранников С.А.                                                                 | [Project](https://github.com/khilling/diploma)                                                     | [Thesis](https://github.com/khilling/diploma/blob/main/%D0%92%D0%9A%D0%A0.pdf)                                              | [Slides](https://github.com/khilling/diploma/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%92%D0%9A%D0%A0.pdf)       |
 | Karpeev Gleb          | Generative models for forecasting time series sets                                                      | [Strijov V.V.](http://www.ccas.ru/strijov/)                                     | [Project](https://github.com/intsystems/2024-Project-152/tree/master)                              | [Thesis](https://github.com/intsystems/2024-Project-152/blob/master/paper/thesis%20latest.pdf)                              | [Slides](https://github.com/intsystems/2024-Project-152/blob/master/slides/slides%20latest.pdf)                                                         |
 
-<details class="data-table">
-    <summary>
-        <h3>2024</h3>
-    </summary>
-    <div markdown="1">
+### 2024
 
 #### Master's Theses
 
@@ -75,14 +71,7 @@ This page contains links to recent theses of students of the Intelligent Systems
 | Bogdanov Alexander  | Gradient approximations using a zero-order oracle and memorization technique                                                      | [Beznosikov A.N.](https://anbeznosikov.github.io/)                               | [Project](https://github.com/intsystems/Bogdanov-BS-Thesis)                  | [Thesis](https://github.com/intsystems/Bogdanov-BS-Thesis/blob/main/paper/BachelorThesis_paper.pdf)                                    | [Slides](https://github.com/intsystems/Bogdanov-BS-Thesis/blob/main/slides/BachelorThesis_slides.pdf)                                           |
 | Oleinik Mikhail     | Knowledge distillation in deep neural networks using model structure alignment methods                                            | [Bakhteev O.Y.](https://scholar.google.ru/citations?user=7eWNuFkAAAAJ&hl=en)     | [Project](https://github.com/intsystems/Oleinik-BS-Thesis)                   | [Thesis](https://github.com/intsystems/Oleinik-BS-Thesis/blob/master/paper/Oleinik_thesis.pdf)                                         | [Slides](https://github.com/intsystems/Oleinik-BS-Thesis/blob/master/slides/main.pdf)                                                           |
 
-</div>
-</details>
-
-<details class="data-table">
-    <summary>
-        <h3>2023</h3>
-    </summary>
-    <div markdown="1">
+### 2023
 
 #### Master's Theses
 
@@ -108,14 +97,7 @@ This page contains links to recent theses of students of the Intelligent Systems
 | Antyshev Tikhon        | Gradient Sliding for Composite Saddle Point Problems                                                   | Gasnikov A.V.                               | [Project](https://github.com/intsystems/Antyshev-BS-Thesis/tree/master)     | [Paper](https://github.com/intsystems/Antyshev-BS-Thesis/blob/master/paper/Antyshev_Sliding_Thesis.pdf)         | [Slides](https://github.com/intsystems/Antyshev-BS-Thesis/blob/master/slides/slides.pdf)                                  |
 | Kornilov Nikita        | Gradient Free Methods for Non-Smooth Convex Stochastic Optimization with Heavy Tails on Convex Compact | Gasnikov A.V.                               | [Project](https://github.com/intsystems/Kornilov-BS-Thesis)                 | [Paper](https://github.com/intsystems/Kornilov-BS-Thesis/blob/main/paper/Kornilov_Diploma_full.pdf)             | [Slides](https://github.com/intsystems/Kornilov-BS-Thesis/blob/main/slides/InfZero_Grad_Pres_RUS.pdf)                     |
 
-</div>
-</details>
-
-<details class="data-table">
-    <summary>
-        <h3>2022</h3>
-    </summary>
-    <div markdown="1">
+### 2022
 
 #### PhD Theses
 
@@ -145,6 +127,3 @@ This page contains links to recent theses of students of the Intelligent Systems
 | Gorсhakov Vyacheslav | Importance Sampling Approach to Chance-Constrained DC Optimal Power Flow                        | [Maximov Y.V.]()                                                                                                                    | [Project](https://github.com/Intelligent-Systems-Phystech/Gorchakov-BS-thesis)     | [Thesis](https://github.com/Intelligent-Systems-Phystech/Gorchakov-BS-thesis/blob/master/docs/Gorchakov_BS_Thesis_text.pdf)                  | [Slides](https://github.com/Intelligent-Systems-Phystech/Gorchakov-BS-thesis/blob/master/docs/BS_thesis_slides.pdf)                               |
 | Pilkevich Anton      | Optimization of the criterion given by the neural network model in the text detoxification task | [Strijov V.V.](http://www.ccas.ru/strijov/)                                                                                         | [Project](https://github.com/Intelligent-Systems-Phystech/Pilkevich-BS-Thesis)     | [Thesis](https://github.com/Intelligent-Systems-Phystech/Pilkevich-BS-Thesis/blob/master/docs/main.pdf)                                      | [Slides](https://github.com/Intelligent-Systems-Phystech/Pilkevich-BS-Thesis/blob/master/docs/pres.pdf)                                           |
 | Khristolybov Maxim   | Model parameter space for phase trajectory approximation                                        | [Strijov V.V.](http://www.ccas.ru/strijov/)                                                                                         | [Project](https://github.com/Intelligent-Systems-Phystech/Khristolyubov-BS-Thesis) | [Thesis](<https://github.com/Intelligent-Systems-Phystech/Khristolyubov-BS-Thesis/blob/main/paper/Khristolyubov_Bacalavr_Thesis%20(24).pdf>) | [Slides](https://github.com/Intelligent-Systems-Phystech/Khristolyubov-BS-Thesis/blob/main/slides/BS_slides_.pdf)                                 |
-
-</div>
-</details>
