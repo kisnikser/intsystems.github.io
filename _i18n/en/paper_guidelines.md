@@ -1,118 +1,112 @@
-## Шаблоны
+## Guidelines for Writing a Scientific Paper
 
-- [Шаблон слайдов доклада бакалавра и магистра](http://www.machinelearning.ru/wiki/images/3/38/Surname2021TitleSlides.zip)
+- [Course "My First Scientific Paper" (m1p)](https://m1p.org/index.php/My_first_scientific_paper)
+- [Writing Reports and Articles for Students and Postgraduates](http://www.machinelearning.ru/wiki/index.php?title=%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BE%D1%82%D1%87%D1%91%D1%82%D0%BE%D0%B2_%D0%B8_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9_%28%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8%29)
+- [ICML Guidelines for ML Papers](https://icml.cc/Conferences/2002/craft.html)
+- [Nature Recommendations for Any Type of Paper](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/#)
 
-## Стандарты
+## Choosing a Publication Venue and Submission Process
 
-- [Положение о защите ВКР МФТИ](https://mipt.ru/docs/download.php?code=prikaz_ob_utverzhdenii_polozheniya_o_vypusknoy_kvalikafitsionnoy_rabote_studentov_mfti_49_1_ot_21_01)
-- [Положение о присуждении ученой степени](http://www.consultant.ru/document/cons_doc_LAW_152458/3accc895434fd7ce6fd7d8f8a570ab064e960560/)
+- [Where and How to Submit Your Work from m1p](https://m1p.org/index.php/Week_10)
+- [SJR Journal Index](https://www.scimagojr.com/)
+- [International Conference Rankings](http://www.conferenceranks.com/)
+- [Major ML Conferences and Workshops (updated monthly)](https://tinyurl.com/bahleg-conf)
+- [Major ML Journals (updated semi-annually)](https://tinyurl.com/bahleg-journals)
 
-## Рекомендации
+## On Defending Thesis Work at the Department
 
-- [ML-wiki: рекомендации по написанию](http://www.machinelearning.ru/wiki/index.php?title=%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BE%D1%82%D1%87%D1%91%D1%82%D0%BE%D0%B2_%D0%B8_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9_%28%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8%29)
-- [ML-wiki: подача в русский журнал](http://www.machinelearning.ru/wiki/index.php?title=%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%B8_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9_%28%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%2C_%D0%92.%D0%92._%D0%A1%D1%82%D1%80%D0%B8%D0%B6%D0%BE%D0%B2%29#.D0.9A.D0.B0.D0.BA_.D0.BF.D0.BE.D0.B4.D0.B0.D1.82.D1.8C_.D1.81.D1.82.D0.B0.D1.82.D1.8C.D1.8E_.D0.B2_.D1.80.D1.83.D1.81.D1.81.D0.BA.D0.B8.D0.B9_.D0.B6.D1.83.D1.80.D0.BD.D0.B0.D0.BB)
-- [ML-wiki: подача в международный журнал](http://www.machinelearning.ru/wiki/index.php?title=%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%B8_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9_%28%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%2C_%D0%92.%D0%92._%D0%A1%D1%82%D1%80%D0%B8%D0%B6%D0%BE%D0%B2%29#.D0.9A.D0.B0.D0.BA_.D0.BF.D0.BE.D0.B4.D0.B0.D1.82.D1.8C_.D1.81.D1.82.D0.B0.D1.82.D1.8C.D1.8E_.D0.B2_.D0.BC.D0.B5.D0.B6.D0.B4.D1.83.D0.BD.D0.B0.D1.80.D0.BE.D0.B4.D0.BD.D1.8B.D0.B9_.D0.B6.D1.83.D1.80.D0.BD.D0.B0.D0.BB)
-- [Курс "моя первая научная статья"](../../course/automation_scientific_research/index.html)
-- [Инструкция как защитить диссертацию (актуальна на март 2022)](https://docs.google.com/document/d/1TzV5e7-7WhPwLzgyWidYykx2HlXYs0g4pBrr28dpbrk/edit?usp=sharing)
+#### (Pre-)Defense Checklist
 
-## Куда подать статью
+1.  Thesis, slides, and code are in your repository *under the* [*department organization*](https://github.com/intsystems/)
+2.  A link to your work is in the [thesis table](thesis.md)
 
-- [SJR индекс журналов](https://www.scimagojr.com/)
-- [ex-Guide2Research: список конференций и журналов со статистикой](https://research.com/)
-- [Ранги международных конференций](http://www.conferenceranks.com/)
-- [Основные конференции и воркшопы по ML (обновляется раз в месяц)](https://tinyurl.com/bahleg-conf)
-- [Основные журналы по ML (обновляется раз в полгода)](https://tinyurl.com/bahleg-journals)
+#### Documents Required for Defense
 
-## Объем и содержание ВКР
+1.  Supervisor's review
+2.  Antiplagiat check report
+3.  External reviewer's report (for Master's degrees)
 
-Рекомендованный объем – пожалуйста, прочтите Положение о ВКР https://intsystems.github.io/ru/materials/paper_guidelines/ Необходимого объема не определено.
+#### Scope and Content of the Final Qualifying Work (FQW)
 
-Важны ваши результаты, выносимые на защиту. Они должны быть оформлены в виде научной статьи (двух для магистров). Публикация этих статей в рецензируемом журнале означает принятие ваших результатов научным сообществом. Вместе с формальным введением они и составят рекомендованный объем.
+For the recommended scope, please read the [MIPT Regulations on FQW Defense](https://mipt.ru/docs/download.php?code=prikaz_ob_utverzhdenii_polozheniya_o_vypusknoy_kvalikafitsionnoy_rabote_studentov_mfti_49_1_ot_21_01). A mandatory volume is not defined.
 
-При изложении
+Your results, presented for defense, are important. They should be formatted as a scientific paper (two for Master's degrees). Publication of these papers in a peer-reviewed journal signifies the acceptance of your results by the scientific community. Together with a formal introduction, they will constitute the recommended volume.
 
-1. Опишите условия и ваши предположения относительно решаемой задачи: пространства, алгебраические структуры, статистические гипотезы.
-2. Обоснуйте решение задачи, укажите свойства решения.
-3. Сформулируйте ваши результаты в виде строгих утверждений.
-4. Проанализируйте полученное решение и результаты.
+When presenting:
 
-Избегайте описывать ваше решение в стиле “как я это делаю шаг за шагом”. Важнее описать “зачем я это делаю” и “какой вклад это вносит в решение задачи”.
+1.  Describe the conditions and your assumptions regarding the problem being solved: spaces, algebraic structures, statistical hypotheses.
+2.  Justify the solution to the problem, indicate the properties of the solution.
+3.  Formulate your results as strict statements.
+4.  Analyze the obtained solution and results.
 
-Не нужны
+Avoid describing your solution in the style of "how I do this step by step". It is more important to describe "why I am doing this" and "what contribution this makes to solving the problem".
 
-1. копипаста схем и иллюстраций из других статей,
-2. автоматически сгенерированный текст.
+Not needed:
 
-Чужой материал и материал соавторов
+1.  Copying diagrams and illustrations from other papers.
+2.  Automatically generated text.
 
-1. Подавайте со ссылками, ровно в том объеме, в каком это требуется для пояснения ваших личных результатов.
-2. Перерабатывайте и улучшайте чужой текст и диаграммы.
+Others' material and co-authors' material:
 
-## Защита дипломных работ
+1.  Present it with citations, exactly to the extent required to explain your personal results.
+2.  Rephrase and improve others' text and diagrams.
 
-#### Документы на предзащиту
+#### Defense FAQ
 
-1. Дипломная работа, слайды, код – загрузить [в репозиторий](https://github.com/intsystems/) и поставить [ссылку в таблицу](https://intsystems.github.io/ru/materials/thesis/)
-2. Проследите, чтобы сам репозиторий был в огранизации /intsystems/
+1.  **Can I edit the thesis text after the pre-defense?** – Yes, and you should, even after the defense. The thesis results will be used primarily by you. But if the version presented at the pre-defense requires significant revision, it raises questions about the quality of the work and the assessment.
+2.  **Where can I find the formal requirements for the FQW?** – Be sure to read the [Defense Regulations](https://mipt.ru/docs/download.php?code=prikaz_ob_utverzhdenii_polozheniya_o_vkr).
+3.  **What time are the pre-defense and defense?** – Pre-defenses at 10:00, defenses at 13:00.
+4.  **Online or offline?** – Pre-defenses online, defenses offline at Vavilova st., 42, room 355. Access control by list, check this separately.
+5.  **Do I need to print the FQW for the defense?** – Yes. It is polite towards the committee to provide a paper copy of the thesis text.
+6.  **What is the defense format?** – 7-minute presentation + 5 minutes for questions. Keep track of time!
+7.  **When do I need to upload the FQW?** – The department does not know when you need to upload the FQW to your personal account. But you must upload the thesis and all other links to the [department page](https://intsystems.github.io/materials/thesis/) by the pre-defense.
+8.  **When is the supervisor's review needed?** By the defense. Bring it with you. Master's students – same with the reviewer's report.
+9.  **When is the plagiarism report needed?** By the defense. Bring it with you. In case of a high percentage of borrowings, the report must be signed by the supervisor.
+10. **Is a reviewer's report needed?** – No for Bachelors, yes for Masters.
+11. **When do I need to upload the reviewer's report?** By the defense. Bring it with you (if the reviewer is not from MIPT, their signature must be certified at their place of work).
+12. **What are the requirements for the reviewer?** – See clause 5 of the Regulations.
+13. **Are scanned documents sufficient?** – No, originals are needed.
+14. **Do I need to upload all papers to my MIPT personal account?** – Only the thesis text with a Russian abstract.
+    - Upload the text to Personal Account > Academic Process > FQW Upload,
+    - Check it with the Plagiarism system,
+    - Since your work was previously published by you, the Plagiarism system should find it (and that's great, as it indicates the scientific community is familiar with it),
+    - Ask your supervisor to mark that your work was previously published,
+    - For the same reason, do not add generated text to the thesis (it's unnecessary – we have no volume requirements, but we do have quality requirements),
+    - After that, upload the Russian abstract and thesis text to the EBS (button below),
+    - It is important to do this no later than two days before the defense (if defense is on the 25th, upload on the 22nd).
+15. **Language of the text** – We have not found any language requirements in the FQW Defense Regulations. Therefore, given that your work is published in a journal, the decision is left to you.
 
-#### Документы на защиту
+## Standards
 
-1. Отзыв научрука
-2. Справка антиплагиата
-3. Рецензия внешнего рецензента (для магистров)
+- [MIPT FQW Defense Regulations](https://mipt.ru/docs/download.php?code=prikaz_ob_utverzhdenii_polozheniya_o_vypusknoy_kvalikafitsionnoy_rabote_studentov_mfti_49_1_ot_21_01)
+- [Regulations on Awarding Academic Degrees in the Russian Federation](http://www.consultant.ru/document/cons_doc_LAW_152458/3accc895434fd7ce6fd7d8f8a570ab064e960560/)
 
-#### FAQ по защите
+## The Function of the Department of Intelligent Systems
 
-1. Можно ли править текст диплома после предзащиты? – Можно и нужно, и даже после защиты. Результаты диплома будут использованы презде всего вами. Но если на предзащите представлена версия, которая требует существенной правки, это поднимает вопрос о качестве работы и об оценке.
-2. Где можно найти формальные требования к ВКР? – Обязательно прочтите [Положения о защите](https://mipt.ru/docs/download.php?code=prikaz_ob_utverzhdenii_polozheniya_o_vkr)
-3. Во сколько предзащита и защита? – Предзащиты в 10:00, защиты в 13:00.
-4. Онлайн или оффлайн? – Предзащиты онлайн, защиты оффлайн ул. Вавилова, 42, каб. 355. Пропускной режим по спискам, уточняйте это отдельно.
-5. Нужно ли печатать ВКР на защиту? – Да. Это вежливо по отношению к комиссии, дать почитать бумажный вариант текста дипломной работы.
-6. Какой формат защиты? – Доклад на 7 минут + 5 минут на вопросы. Следите за временем!
-7. Когда нужно загрузить ВКР? – Кафедра не знает, когда вам нужно загрузить ВКР в личный кабинет. Но вы должны к предзащите загрузить диплом и все остальные ссылки на [страницу кафедры](https://intsystems.github.io/materials/thesis/)
-8. Когда нужен отзыв научника? К защите. Приносите его с собой. Магистры – с резензентом то же.
-9. Когда нужен отчёт антиплагиата? – К защите. Приносите его с собой. В случае высокого процента заимствований на отчете должна быть подпись научного руководителя.
-10. Нужен ли отзыв рецензента? – Для бакалавров нет, для магистров да.
-11. Когда нужно загрузить отзыв рецензента? – К защите. Приносите его с собой (если рецензент не с физтеха, то нужно заверение его подписи с места работы).
-12. Какие требования к рецензенту? – См. пункт 5 положений.
-13. Достаточно ли сканов документов? – Нет, нужны оригиналы.
-14. Нужно ли мне все бумаги загружать в личный кабинет мфти? – Только текст дипломной работы с русскоязычной аннотацией.
-    - загружаете текст в ЛК > Учебный процесс > Загрузка ВКР,
-    - проверяете на Антиплагиате,
-    - так как ваша работа ранее опубликована вами же, Антиплагиат должен ее найти (и это прекрасно, так как говорит о том, что научное сообщество с ней знакомо),
-    - попросите вашего научрука поставить отметку о том, что ваша работа опубликована ранее,
-    - по этой же причине не добавляйте в диплом сгенерированных текстов (ни к чему это – у нас нет требований к объему, но зато есть требования к качеству работы),
-    - после этого загрузите русскоязычную аннотацию и текст работы в ЭБС (кнопка ниже),
-    - важно это сделать позднее чем за два дня до защиты (если защита 25, загрузите 22).
-15. Язык текста – мы не нашли в Положении о защите ВКР требований к языку. Поэтому, с учетом того что ваша работа опубликована журнале, оставляем решение за вами.
+#### Main Goals
 
-## Функция Кафедры интеллектуальных систем
+1.  The department's goal is the quality of student research.
+2.  Research is the exchange of ideas, knowledge, and the joint obtaining of scientific results.
+3.  Therefore, the department helps with ideas, work organization, and presentation of results.
 
-#### Главное
+#### Advice
 
-1. Цель кафедры – качество студенческих исследований.
-2. Исследования – это обмен идеями, знаниями, совместное получение научных результатов.
-3. Поэтому кафедра помогает с идеями, организацией работ, с изложением результатов.
+1.  Do everything on time. This saves effort and improves quality. Exam and defense dates are known in advance.
+2.  Act in your own interests. Decide what result you want to achieve, what grade you are aiming for.
+3.  Reports are copied from previously obtained results; if it's the other way around, you are not acting in your own interests.
+4.  If you think you are studying courses unnecessary for you – change them. It is more beneficial to work with those who know advanced mathematics well.
+5.  Act together. Work in teams, create joint projects and discussions. This increases productivity.
+6.  Standards and libraries are a blessing. Use them and produce them yourself.
+7.  Avoid working in a vacuum. Publish.
 
-#### Советы
+#### On Politeness
 
-1.  Делайте всё вовремя. Это экономит усилия и повышает качество. Даты экзаменов и защит известны заранее.
-2.  Действуйте в своих интересах. Решите, какой результат вы хотите получить, на какую оценку претендуете.
-3.  Отчеты копируются из полученных ранее результатов; если наоборот, значит вы действуете не в своих интересах.
-4.  Если вы считаете, что изучаете ненужные вам курсы – смените их. Выгоднее работать с теми, кто хорошо знает матан.
-5.  Действуйте сообща. Работайте в командах, создавайте совместные проекты и обсуждения. Это повышает производительность.
-6.  Стандарты и библиотеки – благо. Пользуйтесь и производите их сами.
-7.  Избегайте работы в стол. Публикуйте.
+1.  If you make a decision that affects many – consult with them.
+2.  If you ask a question – suggest a possible answer.
+3.  If you think the department is acting inappropriately – say so.
 
-#### О вежливости
+#### On Bureaucracy
 
-1.  Если вы принимаете решение, которое касается многих – посоветуйтесь с ними.
-2.  Если вы задаёте вопрос – представьте возможный ответ.
-3.  Если вы считаете, что кафедра действует неадекватно – скажите об этом.
-
-#### О бюрократии
-
-1.  Бюрократия важна. Бумаги оформляет деканат, от кафедры требуется согласование.
-2.  Составляйте отчеты в точности так, как это ожидается. Если что-то можно не делать, то этого делать не нужно (принцип Оккама).
-3.  Ведите свою бюрократию так, чтобы это заняло минимум времени (принцип Гамильтона). Если у вас нет результатов для отчетности, то отчетность и зявки на гранты занимает избыточно много времени.
-4.  Проверяйте свой ЛК и начале семестра на предмет несоответствий и просматривайте регулярно.
+1.  Bureaucracy is important. Paperwork is handled by the Dean's Office, the department's approval is required.
+2.  Prepare reports exactly as expected. If something can be omitted, then it is not necessary to do it (Occam's razor).
+3.  Manage your bureaucracy so that it takes minimal time (Hamilton's principle). If you have no results to report, then reporting and grant applications take excessively long.
