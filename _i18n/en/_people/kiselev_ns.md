@@ -1,5 +1,3 @@
-Master’s student in Computer Science in the Intelligent Systems Department at Moscow Institute of Physics and Technology. Prior to that, received his bachelor’s degree in Applied Mathematics and Physics there.
+He graduated with honors from MIPT in 2024 and is currently a master's student at the Intelligent Systems Department. He has authored over 6 research papers in computer vision and optimization.
 
-Currently, he is a Deep Learning Researcher at Sber AI.
-
-**Research interests:** Generative AI, Computer Vision, and Optimization.
+**Professional interests:** Generative AI, Computer Vision, Optimization.

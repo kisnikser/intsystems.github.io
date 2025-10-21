@@ -3,9 +3,9 @@ title: peoples.title.firsov_sa
 name: peoples.name
 edit: true
 position: gs
-avatar:
-mail:
-site:
+avatar: firsov_sa.jpg
+mail: firsov.sa@phystech.edu
+site: https://t.me/schafts
 scholar:
 orcid:
 mathnet:
