@@ -4,12 +4,12 @@ name: peoples.name
 edit: true
 position: phd
 avatar: isachenko_rv.jpg
-mail: roman.isachenko(at)phystech.edu
+mail: roman.isachenko@phystech.edu
 site:
-scholar: scholar.google.com/citations?hl=ru&user=Y5W_zrEAAAAJ
-orcid:
+scholar:
+orcid: https://orcid.org/0000-0002-6361-0784
 mathnet:
-scopus: www.scopus.com/authid/detail.uri?authorId=57193081948
+scopus: https://www.scopus.com/authid/detail.uri?authorId=57193081948
 ---
 
 {% tf _people/isachenko_rv.md %}

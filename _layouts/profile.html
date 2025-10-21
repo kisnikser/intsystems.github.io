@@ -27,42 +27,42 @@ layout: default
             {% if page.mail %}
             <div class="profile-link-item">
                 <i class="fa fa-envelope-o"></i>
-                <a href="#" onclick="copyEmailToClipboard(event, '{{site.mail}}')">{{ page.mail }}</a>
+                <a href="#" onclick="copyEmailToClipboard(event, '{{page.mail}}')">{{ page.mail }}</a>
             </div>
             {% endif %}
             
             {% if page.scholar %}
             <div class="profile-link-item">
                 <i class="ai ai-google-scholar"></i>
-                <a href="https://{{page.scholar}}" target="_blank">Google Scholar</a>
+                <a href="{{page.scholar}}" target="_blank">Google Scholar</a>
             </div>
             {% endif %}
             
             {% if page.orcid %}
             <div class="profile-link-item">
                 <i class="ai ai-orcid"></i>
-                <a href="https://{{page.orcid}}" target="_blank">ORCID</a>
+                <a href="{{page.orcid}}" target="_blank">ORCID</a>
             </div>
             {% endif %}
             
             {% if page.scopus %}
             <div class="profile-link-item">
                 <i class="ai ai-scopus"></i>
-                <a href="http://{{page.scopus}}" target="_blank">Scopus</a>
+                <a href="{{page.scopus}}" target="_blank">Scopus</a>
             </div>
             {% endif %}
             
             {% if page.elib %}
             <div class="profile-link-item">
                 <i class="fa fa-bar-chart"></i>
-                <a href="http://{{page.elib}}" target="_blank">eLibrary</a>
+                <a href="{{page.elib}}" target="_blank">eLibrary</a>
             </div>
             {% endif %}
             
             {% if page.mathnet %}
             <div class="profile-link-item">
                 <i class="fa fa-bar-chart"></i>
-                <a href="http://{{page.mathnet}}" target="_blank">Math-Net</a>
+                <a href="{{page.mathnet}}" target="_blank">Math-Net</a>
             </div>
             {% endif %}
         </div>

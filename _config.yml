@@ -132,6 +132,7 @@ global:
       - bachelor
       - master
       - deprecated
+      - draft
 
   people:
     roles:

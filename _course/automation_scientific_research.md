@@ -4,7 +4,7 @@ title: courses.title.automation_scientific_research
 name: courses.name
 type: bachelor
 avatar: m1p.jpg
-lecturers: grabovoy_av,bakhteev_oy,strijov_vv
+lecturers: dorin_dd,grabovoy_av,bakhteev_oy,strijov_vv
 site:
 ---
 

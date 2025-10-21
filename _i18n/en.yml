@@ -33,6 +33,7 @@ site:
         bachelor: Bachelor
         master: Master
         deprecated: Archived
+        draft: Draft
     people:
       roles:
         hotd: Founders of the Department
@@ -85,6 +86,8 @@ peoples:
     firsov_sa: Sergey Firsov
     kasiuk_va: Vadim Kasiuk
     morozov_ma: Matvey Morozov
+    kreinin_mv: Matvei Kreinin
+    nikitina_ma: Maria Nikitina
 
   title:
     grabovoy_av: Andrey Grabovoy
@@ -129,6 +132,8 @@ peoples:
     firsov_sa: Sergey Firsov
     kasiuk_va: Vadim Kasiuk
     morozov_ma: Matvey Morozov
+    kreinin_mv: Matvei Kreinin
+    nikitina_ma: Maria Nikitina
 
 courses:
   name:
@@ -155,6 +160,7 @@ courses:
     deep_learning_audio: Deep Learning for Audio
     programming_practicum_python: Programming Practicum in Python
     functional_data_analysis: Functional Data Analysis
+    computer_vision: Computer Vision
 
   title:
     automation_scientific_research: My First Scientific Paper
@@ -180,6 +186,7 @@ courses:
     deep_learning_audio: Deep Learning for Audio
     programming_practicum_python: Programming Practicum in Python
     functional_data_analysis: Functional Data Analysis
+    computer_vision: Computer Vision
 
 titles:
   index: Intelligent Systems

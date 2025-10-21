@@ -9,8 +9,8 @@ site: http://www.machinelearning.ru/wiki/index.php?title=%D0%A3%D1%87%D0%B0%D1%8
 scholar:
 orcid:
 mathnet:
-scopus: www.scopus.com/authid/detail.uri?authorId=25825277100
-elib: www.elibrary.ru/author_profile.asp?id=8008
+scopus: https://www.scopus.com/authid/detail.uri?authorId=25825277100
+elib: https://www.elibrary.ru/author_profile.asp?id=8008
 ---
 
 {% tf _people/mestetskiy_lm.md %}

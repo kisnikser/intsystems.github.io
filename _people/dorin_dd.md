@@ -3,14 +3,14 @@ title: peoples.title.dorin_dd
 name: peoples.name
 edit: true
 position: gs
-avatar:
-mail:
+avatar: dorin_dd.jpeg
+mail: dorin.dd@phystech.edu
 site:
-scholar:
+scholar: https://scholar.google.com/citations?user=LbVyeRgAAAAJ
 orcid:
 mathnet:
 scopus:
-elib:
+elib: https://www.elibrary.ru/author_items.asp?authorid=1305582
 ---
 
 {% tf _people/dorin_dd.md %}

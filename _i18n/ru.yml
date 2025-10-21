@@ -33,6 +33,7 @@ site:
         bachelor: Бакалавриат
         master: Магистратура
         deprecated: Больше не преподаются
+        draft: В разработке
     people:
       roles:
         hotd: Основатели кафедры
@@ -85,6 +86,8 @@ peoples:
     firsov_sa: Фирсов Сергей Андреевич
     kasiuk_va: Касюк Вадим Александрович
     morozov_ma: Морозов Матвей Алексеевич
+    kreinin_mv: Крейнин Матвей Вадимович
+    nikitina_ma: Никитина Мария Александровна
 
   title:
     grabovoy_av: Грабовой Андрей Валериевич
@@ -129,6 +132,8 @@ peoples:
     firsov_sa: Фирсов Сергей Андреевич
     kasiuk_va: Касюк Вадим Александрович
     morozov_ma: Морозов Матвей Алексеевич
+    kreinin_mv: Крейнин Матвей Вадимович
+    nikitina_ma: Никитина Мария Александровна
 
 courses:
   name:
@@ -155,6 +160,7 @@ courses:
     deep_learning_audio: Глубокое обучение для аудио
     programming_practicum_python: Практикум по программированию на Python
     functional_data_analysis: Функциональный анализ данных
+    computer_vision: Компьютерное зрение
 
   title:
     automation_scientific_research: Автоматизация научных исследований
@@ -180,6 +186,7 @@ courses:
     deep_learning_audio: Глубокое обучение для аудио
     programming_practicum_python: Практикум по программированию на Python
     functional_data_analysis: Функциональный анализ данных
+    computer_vision: Компьютерное зрение
 
 titles:
   index: Интеллектуальные системы
