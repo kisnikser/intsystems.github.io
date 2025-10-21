@@ -3,7 +3,7 @@
 This page contains upcoming deadlines for top-tier machine learning conferences, and a comprehensive list of conferences and journals relevant to our department's research areas.
 
 <section style="margin: 1rem 0;">
-    <h3>Conference Deadlines</h3>
+    <h3>Conferences Deadlines</h3>
     <p style="margin-top: 1rem;">Stay up-to-date with the most important events in the field!</p>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(360px, 100%), 1fr)); gap: 1.5rem; margin-top: 2rem;">
     {% assign today = site.time | date: '%s' %}

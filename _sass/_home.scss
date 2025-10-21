@@ -60,6 +60,22 @@
     margin-bottom: 0px;
 }
 
+.news-important-badge {
+    position: absolute;
+    top: 0rem;
+    right: -1rem;
+    background: $href-bg-color;
+    color: $href-color;
+    font-weight: 600;
+    padding: 0.4rem 1.2rem;
+    border-radius: 0.5rem;
+    box-shadow:
+        0px 1px 3px rgba(0, 0, 0, 0.05),
+        1px 0px 3px rgba(0, 0, 0, 0.05);
+    transform: rotate(15deg);
+    pointer-events: none;
+}
+
 .research-block {
     display: block;
     font-family: $font-primary;

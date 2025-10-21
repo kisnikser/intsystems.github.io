@@ -1,6 +1,6 @@
 // Навигация по сайт (сверху)
 .navbar-page {
-  height: 50px;
+  height: 48px;
   margin: auto auto;
   width: 100%;
 }
@@ -35,6 +35,12 @@
 
   .navbar-container {
     width: 100%;
+  }
+}
+
+@media (max-width: $md-width) {
+  .navbar-page {
+    height: 30px;
   }
 }
 
@@ -343,10 +349,10 @@ a.navbar-social {
 
 @media (max-width: $md-width) {
   .navbar-brand {
-    display: none;
+    display: none !important;
   }
   .navbar-social-block {
-    display: none;
+    display: none !important;
   }
 }
 
@@ -510,5 +516,11 @@ a.navbar-social {
         }
       }
     }
+  }
+}
+
+@media (max-width: 1365px) {
+  .navbar-logo-ru {
+    display: none !important;
   }
 }

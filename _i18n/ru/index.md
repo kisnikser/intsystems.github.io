@@ -24,15 +24,20 @@
 </div>
 
 <!-- News Section -->
-<section style="margin: 3rem 0;">
+<section style="margin: 2rem 0;">
     <h2>Новости</h2>
     <div style="display: flex; align-items: center; position: relative;">
-        <div class="news-scroll-container" style="overflow-x: auto; flex: 1; padding: 0.5rem 0;">
-            <div style="display: flex; gap: 1.5rem; min-width: 0; padding: 0 0.5rem;">
+        <div class="news-scroll-container" style="overflow-x: auto; flex: 1;">
+            <div style="display: flex; gap: 1.5rem; min-width: 0; padding: 1rem 0.5rem;">
             {% if site.posts and site.posts.size > 0 %}
                 {% assign news_sorted = site.posts | where: "lang", "ru" | sort: 'date' | reverse %}
                 {% for post in news_sorted limit:10 %}
                     <a class="news-block" href="{{ site.baseurl }}{{ post.url }}">
+                        <div style="display: flex; justify-content: flex-end; align-items: flex-start;">
+                            {% if post.important %}
+                                <span class="news-important-badge">ВАЖНОЕ</span>
+                            {% endif %}
+                        </div>
                         <p class="news-title">{{ post.title }}</p>
                         <p class="news-date">{{ post.date | date: "%d.%m.%Y" }}</p>
                         <p class="news-excerpt">{{ post.excerpt }}</p>
@@ -181,13 +186,13 @@
                 <p style="margin: 1rem 0;">
                     Мы поддерживаем исследования наших студентов, присуждая несколько стипендий каждый семестр.
                     <a href="{{ site.baseurl }}/materials/scholarship/" style="font-weight: 600; text-decoration: none;">Научная стипендия имени К.В. Рудакова</a> присуждается студентам бакалавриата и магистратуры за академические и исследовательские достижения.
-                    <strong>Спонсор: Forexis Group.</strong>
+                    <strong>Спонсор: Forecsys Group.</strong>
                 </p>
             </div>
             <div class="fade-in-right research-block" >
                 <div class="research-block-title">Стажировки</div>
                 <p style="margin: 1rem 0;">
-                    С самого начала кафедра активно сотрудничает с базовыми организациями группы компаний Forexis и участвует в совместных проектах с ведущими технологическими компаниями.
+                    С самого начала кафедра активно сотрудничает с базовыми организациями группы компаний Forecsys и участвует в совместных проектах с ведущими технологическими компаниями.
                 </p>
                 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
                     <p style="background: #f0f0f0; padding: 0.3rem 0.8rem; border-radius: 1rem;">Форексис</p>

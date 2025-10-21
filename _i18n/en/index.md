@@ -25,15 +25,20 @@
 </div>
 
 <!-- News Section -->
-<section style="margin: 3rem 0;">
+<section style="margin: 2rem 0;">
     <h2>News</h2>
     <div style="display: flex; align-items: center; position: relative;">
-        <div class="news-scroll-container" style="overflow-x: auto; flex: 1; padding: 0.5rem 0;">
-            <div style="display: flex; gap: 1.5rem; min-width: 0; padding: 0 0.5rem;">
+        <div class="news-scroll-container" style="overflow-x: auto; flex: 1;">
+            <div style="display: flex; gap: 1.5rem; min-width: 0; padding: 1rem 0.5rem;">
             {% if site.posts and site.posts.size > 0 %}
                 {% assign news_sorted = site.posts | where: "lang", "en" | sort: 'date' | reverse %}
                 {% for post in news_sorted limit:10 %}
                     <a class="news-block" href="{{ site.baseurl }}{{ post.url }}">
+                        <div style="display: flex; justify-content: flex-end; align-items: flex-start;">
+                            {% if post.important %}
+                                <span class="news-important-badge">IMPORTANT</span>
+                            {% endif %}
+                        </div>
                         <p class="news-title">{{ post.title }}</p>
                         <p class="news-date">{{ post.date | date: "%d.%m.%Y" }}</p>
                         <p class="news-excerpt">{{ post.excerpt }}</p>
