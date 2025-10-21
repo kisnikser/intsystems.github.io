@@ -42,8 +42,8 @@
 | :---------: | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | :-------------------: | :-----: |
 | 14:30-16:00 | [Bayesian Multimodeling]({{ site.baseurl }}/course/bayesian_multimodeling)          | [Oleg Bakhteev]({{ site.baseurl }}/people/bakhteev_oy)                                                            | Differentiated credit |    2    |
 | 16:10-17:40 | [Creation of Intelligent Systems]({{ site.baseurl }}/course/rnd_in_ai)              | [Andrey Grabovoy]({{ site.baseurl }}/people/grabovoy_av)                                                          | Differentiated credit |    2    |
-| 18:00-19:30 | [Deep Generative Models: Lecture]({{ site.baseurl }}/course/deep_generative_models) | [Roman Isachenko]({{ site.baseurl }}/people/isachenko_rv), [Mikhail Morozov]({{ site.baseurl }}/people/morozov_m) |         Exam          |    3    |
-| 19:30-21:00 | [Deep Generative Models: Seminar]({{ site.baseurl }}/course/deep_generative_models) | [Roman Isachenko]({{ site.baseurl }}/people/isachenko_rv), [Mikhail Morozov]({{ site.baseurl }}/people/morozov_m) |                       |         |
+| 18:00-19:30 | [Deep Generative Models: Lecture]({{ site.baseurl }}/course/deep_generative_models) | [Roman Isachenko]({{ site.baseurl }}/people/isachenko_rv), [Matvey Morozov]({{ site.baseurl }}/people/morozov_ma) |         Exam          |    3    |
+| 19:30-21:00 | [Deep Generative Models: Seminar]({{ site.baseurl }}/course/deep_generative_models) | [Roman Isachenko]({{ site.baseurl }}/people/isachenko_rv), [Matvey Morozov]({{ site.baseurl }}/people/morozov_ma) |                       |         |
 
 #### 6th year, 11th semester (Thursday)
 
