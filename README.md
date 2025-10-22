@@ -7,6 +7,28 @@ This repository contains the source code for the Intelligent Systems Department 
 
 If you want to make a large contribution, please do it in a pull request, and ask [@kisnikser](https://github.com/kisnikser) for a review. Else if your changes are small (typos, small content edits), you can directly edit the files in GitHub web interface as follows.
 
+## Research Report
+
+1. Go to the file [`_i18n/en/nir.md`](_i18n/en/nir.md).
+2. If you add new semester, create a new section, e.g., `### 2025 Fall`, and create a table for your course (see previous semesters for examples).
+3. Add your report information in the format:
+   ```markdown
+   | Student      | Topic      | Advisor               | Links                                    |
+   | :----------- | :--------- | :-------------------- | :--------------------------------------- |
+   | Name Surname | Topic name | Name Surname, PhD/DSc | [Paper](URL), [Code](URL), [Slides](URL) |
+   ```
+
+## Thesis
+
+1. Go to the file [`_i18n/en/thesis.md`](_i18n/en/thesis.md).
+2. If you add new year, create a new section, e.g., `### 2025`, and create a table for your course (see previous years for examples).
+3. Add your report information in the format:
+   ```markdown
+   | Student      | Topic       | Advisor               | Link to Project | Link to Paper | Link to Slides |
+   | :----------- | :---------- | :-------------------- | :-------------- | ------------- | -------------- |
+   | Name Surname | Thesis name | Name Surname, PhD/DSc | [Project](URL)  | [Thesis](URL) | [Slides](URL)  |
+   ```
+
 ## People
 
 1. Create or edit a file in the [`_people`](_people/) folder. Use the existing files as a reference for the structure and required fields. Each file should be named using the format `lastname_firstname.md`.
