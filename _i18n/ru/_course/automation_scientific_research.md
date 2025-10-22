@@ -5,7 +5,8 @@
 ### Страница курса
 
 - Материалы и домашние задания: [m1p.org](https://m1p.org/)
-- Страница 2022 года: [Project m1p_2022](https://github.com/Intelligent-Systems-Phystech/m1p_2022)
+- Текущий репозиторий: [Project m1p](https://github.com/intsystems/m1p)
+- Репозиторий 2022 года: [Project m1p_2022](https://github.com/Intelligent-Systems-Phystech/m1p_2022)
 
 ### Тематический план
 

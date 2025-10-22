@@ -5,6 +5,10 @@ Course objective is to provide comprehensive introduction to the field of Recomm
 - next, we will discuss practical aspects of recommender system training and evaluation 
 - finally we will briefly cover counterfactual evaluation from logged feedback
 
+### Link ko course page
+
+- Repository: [RecSys](https://github.com/shashist/recsys-course)
+
 ### Syllabus
 1. Introduction
 2. Neighborhood-Based models

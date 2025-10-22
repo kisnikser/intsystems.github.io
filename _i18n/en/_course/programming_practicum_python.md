@@ -2,6 +2,10 @@
 
 The course is devoted to practical programming skills in Python with emphasis on data science and machine learning applications. Special attention is paid to Python fundamentals, data analysis tools, neural networks, and industrial development practices. The aim of the course is to provide students with comprehensive Python programming skills essential for modern data science and ML engineering.
 
+### Link ko course page
+
+- Repository: [Python](https://github.com/MelLain/mipt-python)
+
 ### Syllabus
 
 The course is structured into three logical blocks covering progression from basic Python to industrial applications:

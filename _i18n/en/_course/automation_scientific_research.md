@@ -5,7 +5,8 @@ This course produces student research papers. It gathers research teams in a soc
 ### Link ko course page
 
 - Course materials: [m1p.org](https://m1p.org/)
-- Schedule 2022: [Project m1p_2022](https://github.com/Intelligent-Systems-Phystech/m1p_2022)
+- Current repository: [Project m1p](https://github.com/intsystems/m1p)
+- Repository 2022: [Project m1p_2022](https://github.com/Intelligent-Systems-Phystech/m1p_2022)
 
 ### Syllabus
 

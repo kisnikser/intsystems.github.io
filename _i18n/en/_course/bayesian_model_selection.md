@@ -1,6 +1,10 @@
 ### About
 The course is dedicated to the basis of Bayesian Methods in Machine Learning, Bayesian Models’ construction and inference. The notion of optimal bayesian forecast is introduced, and the methods for constructing the one are studied. The methods for handling non-linearities and inhomogeneities in data are discussed. Handling of missing data and optimal model evolution with time are considered from a Bayesian perspective.
 
+### Link ko course page
+
+- Short link to the course page: [Bayesian Model Selection](https://bit.ly/41I439X)
+
 ### Syllabus
 * Introduction: Reminding key definitions from Probability Theory and Statistics.
 * Multiple Hypotheses testing and prior election.

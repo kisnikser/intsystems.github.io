@@ -2,7 +2,7 @@
 title: courses.forecasting_methods
 type: bachelor
 lecturers: tikhonov_dm,panchenko_sk
-site:
+site: https://m1p.org/mf
 ---
 
 {% tf _course/forecasting_methods.md %}
