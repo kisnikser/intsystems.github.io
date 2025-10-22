@@ -1,18 +1,18 @@
 **Channels**
 
-* [The 2025 course seminar](https://t.me/+XyXmEXRlrXB9dZKD)
-* [The chat-link FDA group](https://t.me/+XyXmEXRlrXB9dZKD)
+- [The 2025 course seminar](https://t.me/+XyXmEXRlrXB9dZKD)
+- [The chat-link FDA group](https://t.me/+XyXmEXRlrXB9dZKD)
 
 **When**
 
-* September 4, 11, 18, 25 — **Thursdays** at 10:30 · [m1p.org/go\_zoom](https://m1p.org/go_zoom)
-* October (most likely) — **Saturdays** at 10:30
+- September 4, 11, 18, 25 — **Thursdays** at 10:30 · [m1p.org/go_zoom](https://m1p.org/go_zoom)
+- October (most likely) — **Saturdays** at 10:30
 
 ---
 
 ## Foundation models for spatial-time series
 
-Foundation AI models are universal models for a wide set of problems. This project investigates their theoretical properties on **spatial-time series**—data used across sciences to generalize knowledge and make forecasts. Core user-level tasks: *forecasting* and *generation* of time series; *analysis* and *classification*; *change-point detection*; *causal inference*. These models are trained on massive datasets. Our goal is to compare architectures to find an optimal one that solves the above for a broad range of spatial time series.
+Foundation AI models are universal models for a wide set of problems. This project investigates their theoretical properties on **spatial-time series**—data used across sciences to generalize knowledge and make forecasts. Core user-level tasks: _forecasting_ and _generation_ of time series; _analysis_ and _classification_; _change-point detection_; _causal inference_. These models are trained on massive datasets. Our goal is to compare architectures to find an optimal one that solves the above for a broad range of spatial time series.
 
 ## Functional data analysis
 
@@ -50,22 +50,22 @@ In December 2024, a NeurIPS workshop “Foundational models for science” refle
 
 ### March 2025 Physics Problem Simulations
 
-* The Well: a Large-Scale Collection of Diverse Physics Simulations for ML — [arXiv](https://arxiv.org/pdf/2412.00568) · [Code](https://polymathic-ai.org/the_well/data_format/)
-* Polymathic: Advancing Science through Multi-Disciplinary AI — [blog](https://polymathic-ai.org/)
-* Long Term Memory: The Foundation of AI Self-Evolution — [arXiv](https://arxiv.org/html/2410.15665v1)
-* Distilling Free-Form Natural Laws from Experimental Data (2009) — [Science](https://www.science.org/doi/abs/10.1126/science.1165893) · [comment](https://arxiv.org/pdf/1210.7273) · [medium](https://medium.com/@lotussavy/distilling-free-form-natural-laws-from-experimental-data-f55341ae0fa6)
-* Deep learning for universal linear embeddings of nonlinear dynamics — [Nature](https://www.nature.com/articles/s41467-018-07210-0)
-* A comparison of data-driven approaches to low-dimensional ocean models (2021) — [arXiv](https://arxiv.org/abs/2108.00818)
-* Applications of DL to Ocean Data Inference & Subgrid Parameterization (2018) — [preprint](https://eartharxiv.org/repository/view/1142/)
-* On energy-aware hybrid models (2024) — [doi](https://doi.org/10.1029/2024MS004306)
+- The Well: a Large-Scale Collection of Diverse Physics Simulations for ML — [arXiv](https://arxiv.org/pdf/2412.00568) · [Code](https://polymathic-ai.org/the_well/data_format/)
+- Polymathic: Advancing Science through Multi-Disciplinary AI — [blog](https://polymathic-ai.org/)
+- Long Term Memory: The Foundation of AI Self-Evolution — [arXiv](https://arxiv.org/html/2410.15665v1)
+- Distilling Free-Form Natural Laws from Experimental Data (2009) — [Science](https://www.science.org/doi/abs/10.1126/science.1165893) · [comment](https://arxiv.org/pdf/1210.7273) · [medium](https://medium.com/@lotussavy/distilling-free-form-natural-laws-from-experimental-data-f55341ae0fa6)
+- Deep learning for universal linear embeddings of nonlinear dynamics — [Nature](https://www.nature.com/articles/s41467-018-07210-0)
+- A comparison of data-driven approaches to low-dimensional ocean models (2021) — [arXiv](https://arxiv.org/abs/2108.00818)
+- Applications of DL to Ocean Data Inference & Subgrid Parameterization (2018) — [preprint](https://eartharxiv.org/repository/view/1142/)
+- On energy-aware hybrid models (2024) — [doi](https://doi.org/10.1029/2024MS004306)
 
 ### Spatial-Temporal Graph Modeling
 
-* Graph WaveNet — [arXiv](https://arxiv.org/abs/1906.00121)
-* Diffusion Convolutional Recurrent Neural Network (DCRNN) — [ICLR](https://arxiv.org/abs/1707.01926)
-* Time-SSM: Simplifying & Unifying State Space Models — [arXiv](https://arxiv.org/pdf/2405.16312)
-* State Space Reconstruction for Multivariate Time Series — [arXiv](https://arxiv.org/abs/0809.2220)
-* Longitudinal predictive modeling of tau progression — [NeuroImage 2021](https://www.sciencedirect.com/science/article/pii/S1053811921004031?via%3Dihub)
+- Graph WaveNet — [arXiv](https://arxiv.org/abs/1906.00121)
+- Diffusion Convolutional Recurrent Neural Network (DCRNN) — [ICLR](https://arxiv.org/abs/1707.01926)
+- Time-SSM: Simplifying & Unifying State Space Models — [arXiv](https://arxiv.org/pdf/2405.16312)
+- State Space Reconstruction for Multivariate Time Series — [arXiv](https://arxiv.org/abs/0809.2220)
+- Longitudinal predictive modeling of tau progression — [NeuroImage 2021](https://www.sciencedirect.com/science/article/pii/S1053811921004031?via%3Dihub)
 
 ---
 
@@ -86,9 +86,9 @@ In December 2024, a NeurIPS workshop “Foundational models for science” refle
 
 The semester lasts **12 weeks**; six alternate weeks are for homework.
 
-* **Odd week:** topic intro + homework theme handout.
-* **Every week:** essay discussion; collect improvement list.
-* **Odd week:** discuss improved essays; integrate into a joint structure.
+- **Odd week:** topic intro + homework theme handout.
+- **Every week:** essay discussion; collect improvement list.
+- **Odd week:** discuss improved essays; integrate into a joint structure.
 
 ### Scoring
 
@@ -104,13 +104,14 @@ Group activity: cross-ranking with **Kemeny median**. Personal talks contribute 
 4. Select an LLM-GPT.
 5. Run the code; verify it works.
 
-   * Store code in the group repository.
-   * Store slides/report as well.
+   - Store code in the group repository.
+   - Store slides/report as well.
+
 6. Make a 10-minute talk covering:
 
-   * Functionality and architecture of the model.
-   * Why you selected this model.
-   * Alternative models considered.
+   - Functionality and architecture of the model.
+   - Why you selected this model.
+   - Alternative models considered.
 
 ### Requirements for the text & discussion
 

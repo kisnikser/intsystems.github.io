@@ -2,12 +2,6 @@
 
 This course produces student research papers. It gathers research teams in a society. Each team combines a student, a consultant and an expert. The student is a project driver, who wants to plunge into scientific research activities. The consultant, a graduated student, conducts the research and helps the student. The expert, a professor, states the problem and enlightens the road to the goal.
 
-### Link ko course page
-
-- Course materials: [m1p.org](https://m1p.org/)
-- Current repository: [Project m1p](https://github.com/intsystems/m1p)
-- Repository 2022: [Project m1p_2022](https://github.com/Intelligent-Systems-Phystech/m1p_2022)
-
 ### Syllabus
 
 - Select your project and tell about it.

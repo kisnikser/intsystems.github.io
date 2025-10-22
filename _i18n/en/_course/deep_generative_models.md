@@ -1,11 +1,9 @@
 ### About
+
 The course is devoted to modern generative models (mostly in the application to computer vision). Special attention is paid to the properties of various classes of generative models, their interrelationships, theoretical prerequisites and methods of quality assessment. The aim of the course is to introduce the student to widely used advanced methods of deep learning.
 
-### Link ko course page
-
-- Repository: [DGM](https://github.com/r-isachenko/2025-DGM-MIPT-YSDA-course)
-
 ### Syllabus
+
 1. Generative models overview and motivation. Problem statement. Divergence minimization framework. Autoregressive models (PixelCNN).
 2. Normalizing Flow (NF) intuition and definition. Linear NF. Gaussian autoregressive NF. Coupling layer (RealNVP).
 3. Forward and reverse KL divergence for NF. Latent variable models (LVM). Variational lower bound (ELBO). EM-algorithm.
@@ -22,10 +20,13 @@ The course is devoted to modern generative models (mostly in the application to 
 14. Linear interpolation. Link with diffusion and score matching. Latent space models.
 
 ### Labworks
+
 6 homeworks: theory and practice.
 
 ### Grading
-Each homework gives 15 points + an exam for 30 points. Final score: min(floor(#points/10), 10).
+
+Each homework gives 15 points + an exam for 30 points. Final score: `min(floor(#points/10), 10)`.
 
 ### Prerequisites
+
 Probability theory, statistics, machine learning, basics of deep learning, python, pytorch, intro to bayesian inference.
