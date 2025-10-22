@@ -12,6 +12,10 @@ This is the extension of “Automation of Scientific Research” course. The wor
 3. The project should contain the manuscript of the article using a stylistic from arXiv - for unification.
 4. If the project implies non-synthetic data, then there should be an instruction for obtaining this data, as well as a script for obtaining them. If the data is specific, then they need to be posted on one of the file storages.
 
+### Link ko course page
+
+- Repository: [RnD](https://github.com/Intelligent-Systems-Phystech/CreationOfIntelligentSystems)
+
 ### Syllabus
 * Introductory lecture.
 * Projects discussion.

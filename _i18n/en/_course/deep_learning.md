@@ -1,6 +1,10 @@
 ### About
 An overview course on basic neural network models and their application to image, text, and sound processing tasks.
 
+### Link ko course page
+
+- Repository: [Deep Learning](https://github.com/intsystems/Deep-Learning-Course)
+
 ### Syllabus
 * Feedforward networks. Matrix-vector differentiation. Automatic differentiation.
 * Neural network optimization. DropOut. PyTorch.

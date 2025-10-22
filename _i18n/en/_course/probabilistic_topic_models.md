@@ -1,6 +1,10 @@
 ### About
 The special course studies probabilistic topic modeling of collections of text documents. The topic model determines which topics are contained in a large text collection, and which topics each document belongs to. Topic models allow you to search for texts by meaning, not by keywords, and create a new generation of information search engines based on the paradigm of semantic exploratory search (exploratory search). Topic models for classification, categorization, segmentation, summarization of natural language texts, as well as for recommendation systems, analysis of bank transactional data, analysis of biomedical signals are considered. The special course develops a multi-criteria approach to the construction of models with specified properties - additive regularization of topic models (ARTM). It is based on the regularization of incorrectly set stochastic matrix decomposition problems. Particular attention is paid to the methods of linguistic regularization for modeling the coherence of the text. Students are supposed to conduct numerical experiments on model and real data using the BigARTM topic modeling library.
 
+### Link ko course page
+
+- Materials: [PTM](http://bit.ly/2EGWcjA)
+
 ### Syllabus
 * The task of topic modeling.
 * Online EM algorithm and regularizers.

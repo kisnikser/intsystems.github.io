@@ -1,6 +1,11 @@
 ### About
 The course joins two parts of the problem statements in Machine Learning. The first part comes from the structure of the measured data. The data come from Physics, Chemistry and Biology and have intrinsic algebraic structure. This structure is part of the theory that stands behind the measurement. The second part comes from errors of the measurement. The stochastic nature errors request the statistical methods of analysis. So this course joins algebra and statistics. It is devoted to the problem of predictive model selection. 
 
+### Link ko course page
+
+- Website [with detailed schedule and materials](https://m1p.org/mf)
+- Repository: [MathematicalForecastingMethods](https://github.com/intsystems/MathematicalForecastingMethods)
+
 ### Syllabus
 * Autoregressive models.
 * Correlation and Convergence Analysis.
@@ -20,6 +25,3 @@ Questionnaires during lectures (3), two labworks (2+2), the final exam: topics a
 
 ### Prerequisites
 Algebra, analysis and physics at the graduate level.
-
-### Course page
-[with detailed schedule and materials](https://m1p.org/mf)

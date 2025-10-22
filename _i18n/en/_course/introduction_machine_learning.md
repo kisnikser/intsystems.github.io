@@ -1,6 +1,10 @@
 ### About
 The course covers the main tasks of teaching by use cases: classification, clustering, regression, dimension reduction. The methods of their solution, both classical and new, created over the past 10-15 years, are being studied. The emphasis is on a deep understanding of the mathematical foundations, relationships, advantages and limitations of the methods under consideration. Theorems are mostly given without proofs.
 
+### Link ko course page
+
+- Materials: [ML](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29)
+
 ### Syllabus
 * Linear classifier and stochastic gradient.
 * Metric methods of classification and regression.
