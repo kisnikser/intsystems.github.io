@@ -19,13 +19,11 @@
 - **September 2:** Deadline for scholarship applications
 - **September 6:** Start of classes at the department
 - **September 11-12:** Organizational meeting
-- **October 5:** Department presentation for 3rd year students
-- **November 2:** Interview for 3rd year students applying to the department
+- **October 23:** Department presentation for 3rd year students
+- **November 1:** Interview for 3rd year students applying to the department
 - **December 15-21:** Exam week for 3rd to 6th year students
 - **December 21:** ❗️ Credit on Research (be ready with paper/code/slides)
 - **January 17:** State exam for 6th year students
-
-<br>
 
 #### 4th year, 7th semester (Tuesday)
 

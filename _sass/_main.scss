@@ -40,14 +40,11 @@ body {
 }
 
 a {
-  // ссылки
-  color: inherit; // не менять цвет текста
-  text-decoration: underline; // подеркнутый текст
-  transition: color 0.2s ease; // плавный переход цвета
-
+  color: inherit;
+  text-decoration: underline;
+  transition: color 0.2s ease;
   &:hover,
   &:focus {
-    // при наведении и фокусе
     color: $href-color;
   }
 }
@@ -58,8 +55,7 @@ h3,
 h4,
 h5,
 h6 {
-  margin: auto;
-  margin-bottom: 1em;
+  margin: auto 0 1rem 0;
   font-family: $font-primary;
   line-height: 1.1;
   color: #111;
@@ -116,6 +112,11 @@ li {
   margin-bottom: 0.4rem; /* межстрочный интервал между пунктами */
 }
 
+p:has(+ ol),
+p:has(+ ul) {
+  margin-bottom: 0.4rem;
+}
+
 /* вложенные списки — чуть глубже */
 li > ul,
 li > ol {
@@ -132,13 +133,27 @@ li a {
 p + h1,
 p + h2,
 p + h3,
+p + h4,
+p + h5,
+p + h6,
 ul + h1,
 ul + h2,
 ul + h3,
+ul + h4,
+ul + h5,
+ul + h6,
 ol + h1,
 ol + h2,
-ol + h3 {
+ol + h3,
+ol + h4,
+ol + h5,
+ol + h6 {
   margin-top: 1.5rem;
+}
+
+ul + p,
+ol + p {
+  margin-top: 1rem;
 }
 
 hr {

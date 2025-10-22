@@ -127,7 +127,7 @@
         Мы предлагаем широкий спектр курсов по прикладной математике, анализу данных и машинному обучению как для студентов бакалавриата, так и для магистрантов. Наша учебная программа разработана для обеспечения прочной теоретической базы наряду с практическими навыками, необходимыми в индустрии.
     </p>
     {% for type in site.global.course.types %}
-        {% if type != 'deprecated' %}
+        {% if type == 'bachelor' or type == 'master' %}
             <div class="list-header">
                 <h3 id="{% t site.global.course.types.{{ type }} %}">{% t site.global.course.types.{{ type }} %}</h3>
             </div>

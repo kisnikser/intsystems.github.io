@@ -128,7 +128,7 @@
         We offer a range of courses in applied mathematics, data science, and machine learning for both bachelor's and master's students. Our curriculum is designed to provide a strong theoretical foundation along with practical skills needed in the industry.
     </p>
     {% for type in site.global.course.types %}
-        {% if type != 'deprecated' %}
+        {% if type == 'bachelor' or type == 'master' %}
             <div class="list-header">
                 <h3 id="{% t site.global.course.types.{{ type }} %}">{% t site.global.course.types.{{ type }} %}</h3>
             </div>
