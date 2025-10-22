@@ -35,9 +35,46 @@ Materials
 1. [Thesis works]({{ site.baseurl }}/materials/thesis), [Research reports]({{ site.baseurl }}/materials/nir),
 2. [Master's presentations](https://www.youtube.com/watch?v=f4C9U59krTE&t=39s), [Bachelor's presentations](https://www.youtube.com/watch?v=mmAacGSUvPQ)
 
-### Trial Tasks for Fall 2024 and Earlier
+### Trial Tasks Fall 2025 and Earlier
 
-[Link](http://www.machinelearning.ru/wiki/index.php?title=%D0%9F%D1%80%D0%BE%D0%B1%D0%BD%D1%8B%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8) – Fall 2024 tasks will be posted here
+#### Fall 2025
+
+**Task 64**
+Visualize the [Gerchberg–Saxton algorithm](https://en.wikipedia.org/wiki/Gerchberg%E2%80%93Saxton_algorithm) for two-dimensional images. Explain the two-dimensional Fourier transform, the source and target spaces, and the convergence within them.
+
+**Task 63**
+Explain methods for the numerical solution of ordinary differential equations with illustrations using real measurement data. It is desirable to include the Adjoint State Method.
+
+**Task 62**
+Explain the Galerkin method using an example with real data. Replace the linear model with a two-layer neural network. Show the difference in the solution. Visualize the data and the model.
+
+**Task 61**
+Explain the finite element method with an example using real data (elasticity equation, Poisson's equation, other partial differential equations of your choice). Visualize different approaches, for linear models and neural networks.
+
+**Task 60**
+Illustrate the dimensionality reduction algorithm in the Galerkin method for solving the Navier-Stokes equation with an illustration using real or synthetic data.
+
+**Task 59**
+Illustrate the dimensionality reduction algorithm on two-dimensional computed tomography data, using a linear model (and a neural network by choice).
+
+**Task 58**
+Explain forecasting a segment of a time series using the method of [Singular Spectrum Analysis](https://en.wikipedia.org/wiki/Singular_spectrum_analysis) ([Russian version](https://ru.wikipedia.org/wiki/SSA_(%D0%BC%D0%B5%D1%82%D0%BE%D0%B4))). Analyze the original dimension of the Hankel matrix and its reduced dimension.
+
+**Task 57**
+Explain how higher-order Fourier transforms (with tensor data representation) differ from the one-dimensional Fourier transform. Illustrate using a low-resolution animation (or similar data; with forward and inverse transforms including quality reduction).
+
+**Task 56**
+Compare classical methods for the numerical solution of partial differential equations (elliptic, parabolic, hyperbolic) and neural network approximations of solutions using real data.
+
+**Task 55**
+Given a smartphone IMU time series (accelerometer, gyroscope). The phone is placed on a person's chest. Propose an algorithm for decomposing almost-periodic oscillations (pulse, respiration, random movements).
+
+**Task 54**
+Given two time series, determine if they are causally linked (causal inference) using the [Convergent Cross Mapping](https://en.wikipedia.org/wiki/Convergent_cross_mapping) method. Analyze the dimensions of the spaces.
+
+#### Tasks from Previous Years
+
+[Tasks from previous years](http://www.machinelearning.ru/wiki/index.php?title=%D0%9F%D1%80%D0%BE%D0%B1%D0%BD%D1%8B%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8) can also be used for the presentation.
 
 ### Tips for Solving Tasks (these are suggestions, not requirements)
 
