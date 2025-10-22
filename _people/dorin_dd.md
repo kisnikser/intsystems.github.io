@@ -1,6 +1,5 @@
 ---
-title: peoples.title.dorin_dd
-name: peoples.name
+title: people.dorin_dd
 edit: true
 position: gs
 avatar: dorin_dd.jpeg

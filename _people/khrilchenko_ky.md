@@ -1,6 +1,5 @@
 ---
-title: peoples.title.khrilchenko_ky
-name: peoples.name
+title: people.khrilchenko_ky
 edit: true
 position: pgs
 avatar: khrilchenko_ky.jpg

@@ -1,6 +1,5 @@
 ---
-title: peoples.title.kasiuk_va
-name: peoples.name
+title: people.kasiuk_va
 edit: true
 position: gs
 avatar: kasiuk_va.jpeg

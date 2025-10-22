@@ -1,9 +1,6 @@
 ---
-edit: true
-title: courses.title.networks_text_analysis
-name: courses.name
+title: courses.networks_text_analysis
 type: deprecated
-avatar:
 lecturers: meysuradze_ai
 site:
 ---

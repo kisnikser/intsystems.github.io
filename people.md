@@ -23,7 +23,7 @@ meta_desc_ru: "Преподаватели Кафедры интеллектуа�
           {% else %}
             <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{ site.baseurl_root }}/images/people/default.jpg"></a>
           {% endif %}
-          <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{% t peoples.name.{{ profile.id | split: "/" | last }} %}</a>
+          <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{% t people.{{ profile.id | split: "/" | last }} %}</a>
         </p>
       </div>    
     {% endif %}

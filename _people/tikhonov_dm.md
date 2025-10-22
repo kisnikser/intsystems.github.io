@@ -1,6 +1,5 @@
 ---
-title: peoples.title.tikhonov_dm
-name: peoples.name
+title: people.tikhonov_dm
 edit: true
 position: pgs
 avatar:

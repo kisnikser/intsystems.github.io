@@ -1,6 +1,5 @@
 ---
-title: peoples.title.aduenko_aa
-name: peoples.name
+title: people.aduenko_aa
 edit: true
 position: phd
 avatar: aduenko_aa.jpg

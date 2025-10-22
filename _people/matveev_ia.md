@@ -1,6 +1,5 @@
 ---
-title: peoples.title.matveev_ia
-name: peoples.name
+title: people.matveev_ia
 edit: true
 position: dos
 avatar: matveev_ia.jpg

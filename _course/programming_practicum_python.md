@@ -1,9 +1,6 @@
 ---
-edit: true
-title: courses.title.programming_practicum_python
-name: courses.name
+title: courses.programming_practicum_python
 type: bachelor
-avatar:
 lecturers: apishev_ma
 site: https://github.com/MelLain/mipt-python
 ---

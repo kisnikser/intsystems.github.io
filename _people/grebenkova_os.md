@@ -1,6 +1,5 @@
 ---
-title: peoples.title.grebenkova_os
-name: peoples.name
+title: people.grebenkova_os
 edit: true
 position: pgs
 avatar: grebenkova_os.jpg

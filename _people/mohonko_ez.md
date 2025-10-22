@@ -1,6 +1,5 @@
 ---
-title: peoples.title.mohonko_ez
-name: peoples.name
+title: people.mohonko_ez
 edit: true
 position: dos
 avatar: mohonko_ez.jpg

@@ -1,9 +1,6 @@
 ---
-edit: true
-title: courses.title.signal_processing
-name: courses.name
+title: courses.signal_processing
 type: deprecated
-avatar:
 lecturers: strijov_vv
 site:
 ---

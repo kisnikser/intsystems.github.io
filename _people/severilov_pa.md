@@ -1,6 +1,5 @@
 ---
-title: peoples.title.severilov_pa
-name: peoples.name
+title: people.severilov_pa
 edit: true
 position: pgs
 avatar: severilov_pa.jpg

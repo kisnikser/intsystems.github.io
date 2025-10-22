@@ -1,7 +1,5 @@
 ---
-id: vorontsov_kv
-title: peoples.title.vorontsov_kv
-name: peoples.name
+title: people.vorontsov_kv
 edit: true
 position: hotd
 avatar: vorontsov_kv.jpg

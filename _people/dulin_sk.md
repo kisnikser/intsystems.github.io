@@ -1,6 +1,5 @@
 ---
-title: peoples.title.dulin_sk
-name: peoples.name
+title: people.dulin_sk
 edit: true
 position: dos
 avatar: dulin_sk.png

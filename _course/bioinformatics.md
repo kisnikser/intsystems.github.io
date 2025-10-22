@@ -1,11 +1,8 @@
 ---
-edit: true
-title: courses.title.bioinformatics
-name: courses.name
+title: courses.bioinformatics
 type: master
-avatar:
 lecturers: torshin_iy
-site: 
+site:
 ---
 
 {% tf _course/bioinformatics.md %}

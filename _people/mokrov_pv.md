@@ -1,6 +1,5 @@
 ---
-title: peoples.title.mokrov_pv
-name: peoples.name
+title: people.mokrov_pv
 edit: true
 position: pgs
 avatar: mokrov_pv.jpg

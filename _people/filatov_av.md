@@ -1,6 +1,5 @@
 ---
-title: peoples.title.filatov_av
-name: peoples.name
+title: people.filatov_av
 edit: true
 position: pgs
 avatar: filatov_av.jpg

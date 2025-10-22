@@ -1,6 +1,5 @@
 ---
-title: peoples.title.volodkevich_aa
-name: peoples.name
+title: people.volodkevich_aa
 edit: true
 position: pgs
 avatar: volodkevich_aa.jpg

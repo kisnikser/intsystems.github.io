@@ -1,6 +1,5 @@
 ---
-title: peoples.title.khoroshevsky_vf
-name: peoples.name
+title: people.khoroshevsky_vf
 edit: true
 position: dos
 avatar: khoroshevsky_vf.jpg

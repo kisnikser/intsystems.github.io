@@ -1,9 +1,6 @@
 ---
-edit: true
-title: courses.title.forecasting_methods
-name: courses.name
+title: courses.forecasting_methods
 type: bachelor
-avatar:
 lecturers: tikhonov_dm,panchenko_sk
 site:
 ---

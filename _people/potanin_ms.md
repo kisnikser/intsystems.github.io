@@ -1,6 +1,5 @@
 ---
-title: peoples.title.potanin_ms
-name: peoples.name
+title: people.potanin_ms
 edit: true
 position: pgs
 avatar: potanin_ms.jpg

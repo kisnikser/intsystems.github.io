@@ -1,6 +1,5 @@
 ---
-title: peoples.title.popov_as
-name: peoples.name
+title: people.popov_as
 edit: true
 position: pgs
 avatar: popov_as.png

@@ -1,9 +1,6 @@
 ---
-edit: true
-title: courses.title.rnd_in_ai
-name: courses.name
+title: courses.rnd_in_ai
 type: bachelor,master
-avatar:
 lecturers: grabovoy_av
 site: https://github.com/Intelligent-Systems-Phystech/CreationOfIntelligentSystems
 ---

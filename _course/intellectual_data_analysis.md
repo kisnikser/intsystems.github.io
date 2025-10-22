@@ -1,9 +1,6 @@
 ---
-edit: true
-title: courses.title.intellectual_data_analysis
-name: courses.name
+title: courses.intellectual_data_analysis
 type: master
-avatar:
 lecturers: strijov_vv
 site:
 ---

@@ -1,6 +1,5 @@
 ---
-title: peoples.title.grishanov_av
-name: peoples.name
+title: people.grishanov_av
 edit: true
 position: pgs
 avatar: grishanov_av.jpeg

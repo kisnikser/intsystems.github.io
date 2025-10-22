@@ -112,7 +112,7 @@
                     {% else %}
                         <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{ site.baseurl_root }}/images/people/default.jpg"></a>
                     {% endif %}
-                    <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{% t peoples.name.{{ profile_id }} %}</a>
+                    <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{% t people.{{ profile_id }} %}</a>
                     </p>
                 </div>
             {% endif %}
@@ -138,7 +138,7 @@
                     <a class="course-name" href="{{ site.baseurl }}{{ course.url }}">
                     <div class="list-item-course">
                         <p class="list-item-course-title">
-                        {% t courses.name.{{ course.id | split: "/" | last }} %}
+                        {% t courses.{{ course.id | split: "/" | last }} %}
                         </p>
                     </div>
                     </a>

@@ -1,6 +1,5 @@
 ---
-title: peoples.title.grabovoy_av
-name: peoples.name
+title: people.grabovoy_av
 edit: true
 position: phd
 avatar: grabovoy_av.jpg

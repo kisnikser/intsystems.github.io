@@ -17,7 +17,7 @@ meta_desc_ru: "Кафедра интеллектуальных систем, к�
       <a class="course-name" href="{{ site.baseurl }}{{ course.url }}">
         <div class="list-item-course">
           <p class="list-item-course-title">
-            {% t courses.name.{{ course.id | split: "/" | last }} %}
+            {% t courses.{{ course.id | split: "/" | last }} %}
           </p>
         </div>  
       </a>

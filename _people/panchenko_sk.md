@@ -1,6 +1,5 @@
 ---
-title: peoples.title.panchenko_sk
-name: peoples.name
+title: people.panchenko_sk
 edit: true
 position: pgs
 avatar:

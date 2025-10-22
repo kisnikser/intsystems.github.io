@@ -1,6 +1,5 @@
 ---
-title: peoples.title.chekhovich_yv
-name: peoples.name
+title: people.chekhovich_yv
 edit: true
 position: phd
 avatar: chekhovich_yv.jpg

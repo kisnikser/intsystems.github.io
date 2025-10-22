@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<meta name="description" content="{% t metatags.lecturer %}, {% t peoples.name.{{ page.id | split: '/' | last }} %}">
+<meta name="description" content="{% t metatags.lecturer %}, {% t people.{{ page.id | split: '/' | last }} %}">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 <div class="profile-header">
     <div class="profile-avatar">
@@ -13,7 +13,7 @@ layout: default
     </div>
     <div class="profile-info">
         <div class="no_toc_section" style="margin-top: 2rem;">
-            <h1 id="{% t peoples.name.{{ page.id | split: '/' | last }} %}" class="title" style="margin-bottom: 0.5rem;">{% t peoples.name.{{ page.id | split: '/' | last }} %}</h1>
+            <h1 id="{% t people.{{ page.id | split: '/' | last }} %}" class="title" style="margin-bottom: 0.5rem;">{% t people.{{ page.id | split: '/' | last }} %}</h1>
         </div>
         {% if page.site or page.mail or page.scholar or page.orcid or page.scopus or page.elib or page.mathnet %}
         <div class="profile-links">
@@ -90,7 +90,7 @@ layout: default
 		{% for lecturer in lecturers %}
 			{% if page.url contains lecturer %}
     <a href="{{ site.baseurl }}{{ course.url }}" class="profile-course-item">
-        {% t courses.name.{{ course.id | split: '/' | last }} %}
+        {% t courses.{{ course.id | split: '/' | last }} %}
     </a>
     {% endif %}			
 		{% endfor %}	

@@ -1,9 +1,6 @@
 ---
-edit: true
-title: courses.title.deep_learning_audio
-name: courses.name
+title: courses.deep_learning_audio
 type: master
-avatar: deep-learning-audio.jpg
 lecturers: severilov_pa
 site: https://github.com/severilov/DL-Audio-Course
 ---

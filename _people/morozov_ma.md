@@ -1,6 +1,5 @@
 ---
-title: peoples.title.morozov_ma
-name: peoples.name
+title: people.morozov_ma
 edit: true
 position: pgs
 avatar: morozov_ma.jpg

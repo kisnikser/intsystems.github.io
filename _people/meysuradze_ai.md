@@ -1,6 +1,5 @@
 ---
-title: peoples.title.meysuradze_ai
-name: peoples.name
+title: people.meysuradze_ai
 edit: true
 position: phd
 avatar: meysuradze_ai.jpg

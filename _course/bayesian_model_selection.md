@@ -1,9 +1,6 @@
 ---
-edit: true
-title: courses.title.bayesian_model_selection
-name: courses.name
+title: courses.bayesian_model_selection
 type: bachelor
-avatar:
 lecturers: aduenko_aa,yakovlev_kd
 site:
 ---

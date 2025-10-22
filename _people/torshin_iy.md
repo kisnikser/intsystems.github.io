@@ -1,6 +1,5 @@
 ---
-title: peoples.title.torshin_iy
-name: peoples.name
+title: people.torshin_iy
 edit: true
 position: phd
 avatar: torshin_iy.png

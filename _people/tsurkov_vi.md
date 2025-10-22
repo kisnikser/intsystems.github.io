@@ -1,6 +1,5 @@
 ---
-title: peoples.title.tsurkov_vi
-name: peoples.name
+title: people.tsurkov_vi
 edit: true
 position: dos
 avatar: tsurkov_vi.jpeg

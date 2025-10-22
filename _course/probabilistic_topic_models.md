@@ -1,9 +1,6 @@
 ---
-edit: true
-title: courses.title.probabilistic_topic_models
-name: courses.name
+title: courses.probabilistic_topic_models
 type: master
-avatar:
 lecturers: vorontsov_kv
 site:
 ---

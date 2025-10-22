@@ -1,6 +1,5 @@
 ---
-title: peoples.title.kreinin_mv
-name: peoples.name
+title: people.kreinin_mv
 edit: true
 position: gs
 avatar: kreinin_mv.jpeg

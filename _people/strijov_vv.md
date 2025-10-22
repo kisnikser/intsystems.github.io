@@ -1,6 +1,5 @@
 ---
-title: peoples.title.strijov_vv
-name: peoples.name
+title: people.strijov_vv
 edit: true
 position: dos
 avatar: strijov_vv.jpg

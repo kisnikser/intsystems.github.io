@@ -1,6 +1,5 @@
 ---
-title: peoples.title.samokhina_am
-name: peoples.name
+title: people.samokhina_am
 edit: true
 position: pgs
 avatar: samokhina_am.jpg

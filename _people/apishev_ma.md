@@ -1,6 +1,5 @@
 ---
-title: peoples.title.apishev_ma
-name: peoples.name
+title: people.apishev_ma
 edit: true
 position: phd
 avatar: apishev_ma.jpg

@@ -1,6 +1,5 @@
 ---
-title: peoples.title.kiselev_ns
-name: peoples.name
+title: people.kiselev_ns
 edit: true
 position: gs
 avatar: kiselev_ns.jpg

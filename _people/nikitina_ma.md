@@ -1,6 +1,5 @@
 ---
-title: peoples.title.nikitina_ma
-name: peoples.name
+title: people.nikitina_ma
 edit: true
 position: gs
 avatar: nikitina_ma.jpeg

@@ -1,6 +1,5 @@
 ---
-title: peoples.title.firsov_sa
-name: peoples.name
+title: people.firsov_sa
 edit: true
 position: gs
 avatar: firsov_sa.jpg

@@ -1,6 +1,5 @@
 ---
-title: peoples.title.vladimirov_ea
-name: peoples.name
+title: people.vladimirov_ea
 edit: true
 position: pgs
 avatar:

@@ -1,6 +1,5 @@
 ---
-title: peoples.title.khritankov_as
-name: peoples.name
+title: people.khritankov_as
 edit: true
 position: phd
 avatar: khritankov_as.jpg

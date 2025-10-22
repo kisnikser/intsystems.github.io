@@ -1,6 +1,5 @@
 ---
-title: peoples.title.isachenko_rv
-name: peoples.name
+title: people.isachenko_rv
 edit: true
 position: phd
 avatar: isachenko_rv.jpg

@@ -1,6 +1,5 @@
 ---
-title: peoples.title.yakovlev_kd
-name: peoples.name
+title: people.yakovlev_kd
 edit: true
 position: pgs
 avatar: yakovlev_kd.jpg

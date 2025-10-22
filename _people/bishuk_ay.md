@@ -1,6 +1,5 @@
 ---
-title: peoples.title.bishuk_ay
-name: peoples.name
+title: people.bishuk_ay
 edit: true
 position: pgs
 avatar: bishuk_ay.jpeg

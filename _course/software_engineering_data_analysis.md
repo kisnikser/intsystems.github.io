@@ -1,9 +1,6 @@
 ---
-edit: true
-title: courses.title.software_engineering_data_analysis
-name: courses.name
+title: courses.software_engineering_data_analysis
 type: bachelor,master
-avatar:
 lecturers: khritankov_as
 site:
 ---

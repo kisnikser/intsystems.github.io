@@ -1,6 +1,5 @@
 ---
-title: peoples.title.bakhteev_oy
-name: peoples.name
+title: people.bakhteev_oy
 edit: true
 position: phd
 avatar: bakhteev_oy.jpg
