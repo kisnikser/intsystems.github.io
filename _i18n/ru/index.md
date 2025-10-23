@@ -20,6 +20,10 @@
     <a href="{{site.youtube}}"  target="_blank" style="font-size: clamp(1.2rem, 5vw, 1.5rem); padding: 0.5rem; min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; text-decoration: none;"><i class="fa fa-youtube-play"></i></a>
     {% endif %}
     </div>
+    <div class="cta-buttons" style="margin-top: 2rem;">
+        <a href="{{ site.baseurl }}/admission" class="main-cta" style="background: #ff4d4d; color: white; padding: 1rem 2rem; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block; margin: 0.5rem;">Поступить на кафедру</a>
+        <a href="{{ site.baseurl }}/materials/nir" class="secondary-cta" style="background: transparent; border: 2px solid white; color: white; padding: 1rem 2rem; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block; margin: 0.5rem;">Научные проекты</a>
+    </div>
     </div>
 </div>
 
