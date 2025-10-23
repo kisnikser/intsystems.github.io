@@ -16,7 +16,7 @@
 
 #### Key Dates
 
-- **September 2:** Deadline for scholarship applications
+- **September 2:** Deadline for [scholarship]({{ site.baseurl }}/materials/scholarship) applications
 - **September 6:** Start of classes at the department
 - **September 11-12:** Organizational meeting
 - **October 23:** Department presentation for 3rd year students
@@ -27,7 +27,7 @@
 
 #### 4th year, 7th semester (Tuesday)
 
-|    Time     | Subject                                                                           | Instructors                                                                                                                                                                                                                                                                         |    Assessment Type    | Credits |
+|    Time     | Course                                                                            | Instructors                                                                                                                                                                                                                                                                         |    Assessment Type    | Credits |
 | :---------: | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------: | :-----: |
 | 10:30-12:00 | [Deep Learning: Lecture]({{ site.baseurl }}/course/deep_learning)                 | [Eduard Vladimirov]({{ site.baseurl }}/people/vladimirov_ea), [Daniil Dorin]({{ site.baseurl }}/people/dorin_dd), [Nikita Kiselev]({{ site.baseurl }}/people/kiselev_ns), [Sergey Firsov]({{ site.baseurl }}/people/firsov_sa), [Vadim Kasiuk]({{ site.baseurl }}/people/kasiuk_va) | Differentiated credit |    2    |
 | 12:10-13:40 | [Deep Learning: Seminar]({{ site.baseurl }}/course/deep_learning)                 | [Eduard Vladimirov]({{ site.baseurl }}/people/vladimirov_ea), [Daniil Dorin]({{ site.baseurl }}/people/dorin_dd), [Nikita Kiselev]({{ site.baseurl }}/people/kiselev_ns), [Sergey Firsov]({{ site.baseurl }}/people/firsov_sa), [Vadim Kasiuk]({{ site.baseurl }}/people/kasiuk_va) |                       |         |
@@ -36,7 +36,7 @@
 
 #### 5th year, 9th semester (Tuesday)
 
-|    Time     | Subject                                                                             | Instructors                                                                                                       |    Assessment Type    | Credits |
+|    Time     | Course                                                                              | Instructors                                                                                                       |    Assessment Type    | Credits |
 | :---------: | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | :-------------------: | :-----: |
 | 14:30-16:00 | [Bayesian Multimodeling]({{ site.baseurl }}/course/bayesian_multimodeling)          | [Oleg Bakhteev]({{ site.baseurl }}/people/bakhteev_oy)                                                            | Differentiated credit |    2    |
 | 16:10-17:40 | [Creation of Intelligent Systems]({{ site.baseurl }}/course/rnd_in_ai)              | [Andrey Grabovoy]({{ site.baseurl }}/people/grabovoy_av)                                                          | Differentiated credit |    2    |
@@ -45,7 +45,7 @@
 
 #### 6th year, 11th semester (Thursday)
 
-|    Time     | Subject                                                                            | Instructors                                                    |    Assessment Type    | Credits |
+|    Time     | Course                                                                             | Instructors                                                    |    Assessment Type    | Credits |
 | :---------: | ---------------------------------------------------------------------------------- | -------------------------------------------------------------- | :-------------------: | :-----: |
 | 10:30-12:00 | [Functional Data Analysis]({{ site.baseurl }}/course/functional_data_analysis)     | [Vadim Strijov]({{ site.baseurl }}/people/strijov_vv)          |         Exam          |    3    |
 | 12:10-13:40 | [Intellectual Data Analysis]({{ site.baseurl }}/course/intellectual_data_analysis) | [Vadim Strijov]({{ site.baseurl }}/people/strijov_vv)          |        Credit         |    2    |
@@ -74,7 +74,7 @@
 
 #### 3rd year, 6th semester – Thursday
 
-|    Time     | Subject                                                                   | Instructors                                                                                                       |    Assessment Type    | Credits |
+|    Time     | Course                                                                   | Instructors                                                                                                       |    Assessment Type    | Credits |
 | :---------: | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | :-------------------: | :-----: |
 | 12:10-13:40 | [Introduction to Machine Learning](/course/introduction_machine_learning) | [Andrey Grabovoy](/people/grabovoy_av), [Konstantin Vorontsov](/people/vorontsov_kv)                              | Differentiated credit |    1    |
 | 14:30-16:00 | [Programming Practicum in Python](https://github.com/MelLain/mipt-python) | [Murat Apishev](/people/apishev_ma)                                                                               |        Credit         |    1    |
@@ -83,7 +83,7 @@
 
 #### 4th year, 8th semester – Tuesday
 
-|    Time     | Subject                                                                                 | Instructors                                                                          |    Assessment Type    | Credits |
+|    Time     | Course                                                                                 | Instructors                                                                          |    Assessment Type    | Credits |
 | :---------: | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | :-------------------: | :-----: |
 | 10:30-12:00 | [Recommender Systems](/course/recommender_systems)                                      | [Alexey Grishanov](/people/grishanov_av), [Anna Volodkevich](/people/volodkevich_aa) | Differentiated credit |    2    |
 | 12:10-13:40 | [Mathematical Forecasting Methods](/course/forecasting_methods)                         | [Denis Tikhonov](/people/tikhonov_dm), [Sviatoslav Panchenko](/people/panchenko_sk)  | Differentiated credit |    3    |
@@ -92,7 +92,7 @@
 
 #### 5th year, 10th semester – Tuesday
 
-|    Time     | Subject                                                                                 | Instructors                               |    Assessment Type    | Credits |
+|    Time     | Course                                                                                 | Instructors                               |    Assessment Type    | Credits |
 | :---------: | --------------------------------------------------------------------------------------- | ----------------------------------------- | :-------------------: | :-----: |
 | 12:10-13:40 | [Bioinformatics](/course/bioinformatics)                                                | [Ivan Torshin](/people/torshin_iy)        | Differentiated credit |    1    |
 | 14:30-16:00 | [Creation of Intelligent Systems](/course/rnd_in_ai)                                    | [Andrey Grabovoy](/people/grabovoy_av)    |         Exam          |    2    |
