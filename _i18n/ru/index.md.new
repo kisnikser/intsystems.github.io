@@ -1,0 +1,163 @@
+<!-- Hero Section (оставляем как есть) -->
+{{ content }}
+
+<!-- Quick links -->
+<section style="max-width:1200px;margin:1.25rem auto;padding:0 1rem;">
+  <div class="quick-links" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:0.75rem;">
+    <a class="ql-card" href="{{ site.baseurl }}/admission">
+      <div>Поступление</div>
+      <div>Сроки, требования, документы</div>
+    </a>
+    <a class="ql-card" href="{{ site.baseurl }}/materials/scholarship">
+      <div>Стипендии</div>
+      <div>Кто и на каких условиях получает</div>
+    </a>
+    <a class="ql-card" href="{{ site.baseurl }}/education/">
+      <div>Календарь</div>
+      <div>Ближайшие семинары и дедлайны</div>
+    </a>
+    <a class="ql-card" href="{{ site.baseurl }}/contacts">
+      <div>Контакты</div>
+      <div>Кафедра, приёмная комиссия, соцсети</div>
+    </a>
+  </div>
+</section>
+
+<!-- Navigation Menu -->
+<nav class="section-nav">
+    <a href="#about">О кафедре</a>
+    <a href="#courses">Курсы</a>
+    <a href="#news">Новости</a>
+    <a href="#personalities">Личности</a>
+    <a href="#research">Научная работа</a>
+    <a href="#life">Наша жизнь</a>
+</nav>
+
+<!-- About Section -->
+<section id="about" class="section-alternate">
+    <div class="section-container fade-in-section">
+        <h2 class="section-title"><i class="fa fa-university"></i> О кафедре</h2>
+        <div style="margin-top: 1rem;">
+            <p>Кафедра интеллектуальных систем в Физтехе (МФТИ) является ведущим центром образования и исследований в области прикладной математики, науки о данных и искусственного интеллекта.</p>
+            <p>Кафедра была основана академиком Константином Владимировичем Рудаковым и развивалась в рамках научной школы академика Юрия Ивановича Журавлева. Она базируется в Вычислительном центре Российской академии наук.</p>
+            <p>Наша миссия — подготовка высококвалифицированных специалистов, способных решать сложные задачи в области искусственного интеллекта и анализа данных.</p>
+        </div>
+    </div>
+</section>
+
+<!-- Courses Section -->
+<section id="courses" class="section-container fade-in-section">
+    <h2 class="section-title"><i class="fa fa-graduation-cap"></i> Курсы</h2>
+    <div class="course-grid">
+        <div class="course-card">
+            <div class="course-type">Базовые курсы</div>
+            <h3>Введение в машинное обучение</h3>
+            <p>Фундаментальные концепции и методы машинного обучения</p>
+        </div>
+        <div class="course-card">
+            <div class="course-type">Продвинутые курсы</div>
+            <h3>Глубокое обучение</h3>
+            <p>Нейронные сети, компьютерное зрение, обработка текстов</p>
+        </div>
+        <div class="course-card">
+            <div class="course-type">Специальные курсы</div>
+            <h3>Байесовские методы</h3>
+            <p>Вероятностные модели и методы вывода</p>
+        </div>
+    </div>
+    <div style="text-align: center; margin-top: 2rem;">
+        <a href="{{ site.baseurl }}/course" class="button-primary">Все курсы кафедры</a>
+    </div>
+</section>
+
+<!-- News Section -->
+<section id="news" class="section-alternate">
+    <div class="section-container fade-in-section">
+        <h2 class="section-title"><i class="fa fa-newspaper"></i> Новости</h2>
+        <!-- Existing news content -->
+    </div>
+</section>
+
+<!-- Statistics Section -->
+<div class="section-container">
+    <h2 class="section-title"><i class="fa fa-chart-bar"></i> Кафедра в цифрах</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 2rem; text-align: center; padding: 1.5rem 0;">
+        <div class="fade-in-left">
+            <p style="font-size: 4rem; font-weight: 600; line-height: 0.9; margin-bottom: 0.5rem;">2003</p>
+            <p>год основания кафедры</p>
+        </div>
+        <div class="fade-in-right">
+            <p style="font-size: 4rem; font-weight: 600; line-height: 0.9; margin-bottom: 0.5rem;">>50%</p>
+            <p>выпускников защитили кандидатские</p>
+        </div>
+        <div class="fade-in-left">
+            <p style="font-size: 4rem; font-weight: 600; line-height: 0.9; margin-bottom: 0.5rem;"><35</p>
+            <p>средний возраст преподавателей</p>
+        </div>
+        <div class="fade-in-right">
+            <p style="font-size: 4rem; font-weight: 600; line-height: 0.9; margin-bottom: 0.5rem;">170+</p>
+            <p>open source проектов</p>
+        </div>
+    </div>
+</div>
+
+<!-- Personalities Section -->
+<section id="personalities" class="section-alternate">
+    <div class="section-container fade-in-section">
+        <h2 class="section-title"><i class="fa fa-users"></i> Личности кафедры</h2>
+        <p style="margin-bottom: 2rem;">
+            Мы гордимся нашими основателями и преподавателями, которые внесли значительный вклад в область машинного обучения.
+        </p>
+        {% assign featured_people = "zhuravlyov_yv,rudakov_kv,vorontsov_kv,strijov_vv" | split: "," %}
+        <div class="list people">
+        {% for person_id in featured_people %}
+            {% for profile in site.people %}
+                {% assign profile_id = profile.id | split: "/" | last %}
+                {% if profile_id == person_id %}
+                    <div class="list-item-people">
+                        <p class="list-post-title">
+                        {% if profile.avatar %}
+                            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{ site.baseurl_root }}/images/people/{{profile.avatar}}"></a>
+                        {% else %}
+                            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{ site.baseurl_root }}/images/people/default.jpg"></a>
+                        {% endif %}
+                        <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{% t people.{{ profile_id }} %}</a>
+                        </p>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+        </div>
+    </div>
+</section>
+
+<!-- Research Section -->
+<section id="research" class="section-container fade-in-section">
+    <h2 class="section-title"><i class="fa fa-flask"></i> Научная работа</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(360px, 100%), 1fr)); gap: 2.5rem; margin: 2.5rem 0;">
+        <div class="fade-in-left research-block">
+            <h3 style="color: #2c5282; margin-bottom: 1rem;">Научные исследования</h3>
+            <p>Наша кафедра проводит фундаментальные и прикладные исследования в области машинного обучения, анализа данных и искусственного интеллекта.</p>
+            <a href="{{ site.baseurl }}/materials/nir" class="button-primary" style="margin-top: 1rem;">Подробнее</a>
+        </div>
+        <div class="fade-in-right research-block">
+            <h3 style="color: #2c5282; margin-bottom: 1rem;">Дипломные работы</h3>
+            <p>Студенты участвуют в реальных исследованиях, готовят дипломные работы и публикуют свои результаты.</p>
+            <a href="{{ site.baseurl }}/materials/thesis" class="button-primary" style="margin-top: 1rem;">Смотреть работы</a>
+        </div>
+    </div>
+</section>
+
+<!-- Life Section -->
+<section id="life" class="section-alternate">
+    <div class="section-container fade-in-section">
+        <h2 class="section-title"><i class="fa fa-camera"></i> Наша жизнь</h2>
+        <!-- Existing life content -->
+    </div>
+</section>
+
+<!-- FAQ Section -->
+<section class="section-container faq-section">
+    <h2 class="section-title"><i class="fa fa-question-circle"></i> Частые вопросы</h2>
+    <!-- Existing FAQ content -->
+</section>
