@@ -26,6 +26,22 @@
 <!-- News Section -->
 <section style="margin: 2rem 0;">
     <h2>Новости</h2>
+    <style>
+      .news-scroll-container { overflow-x: auto; flex: 1; -webkit-overflow-scrolling: touch; }
+      .news-list { display: flex; gap: 1.5rem; min-width: 0; padding: 1rem 0.5rem; }
+      .news-block { display: block; min-width: 280px; max-width: 420px; padding: 1rem; background: #fff; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,.06); text-decoration: none; color: inherit; }
+      .news-important-badge { background: #ff4d4d; color: #fff; padding:0.2rem .5rem; border-radius:3px; font-size:0.75rem; }
+      .news-title { font-weight:600; margin: 0.5rem 0; }
+      .news-excerpt { color: #555; margin: 0.25rem 0 0; font-size: .95rem; }
+      /*Mobile: make news flow vertically with the page*/
+      @media (max-width: 768px) {
+        .news-scroll-container { overflow-x: visible; } /* disable horizontal scrolling */
+        .news-list { flex-direction: column; gap: 1rem; padding: 0; }
+        .news-block { min-width: auto; max-width: none; width: 100%; }
+        /* slightly increase spacing for readability on small screens */
+        section > h2 { margin-bottom: 0.75rem; }
+      }
+    </style>
     <div style="display: flex; align-items: center; position: relative;">
         <div class="news-scroll-container" style="overflow-x: auto; flex: 1;">
             <div style="display: flex; gap: 1.5rem; min-width: 0; padding: 1rem 0.5rem;">
