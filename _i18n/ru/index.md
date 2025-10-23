@@ -33,18 +33,19 @@
       .news-important-badge { background: #ff4d4d; color: #fff; padding:0.2rem .5rem; border-radius:3px; font-size:0.75rem; }
       .news-title { font-weight:600; margin: 0.5rem 0; }
       .news-excerpt { color: #555; margin: 0.25rem 0 0; font-size: .95rem; }
-      /*Mobile: make news flow vertically with the page*/
-      @media (max-width: 768px) {
-        .news-scroll-container { overflow-x: visible; } /* disable horizontal scrolling */
-        .news-list { flex-direction: column; gap: 1rem; padding: 0; }
-        .news-block { min-width: auto; max-width: none; width: 100%; }
-        /* slightly increase spacing for readability on small screens */
-        section > h2 { margin-bottom: 0.75rem; }
-      }
+            /* Mobile: keep horizontal scrolling but make it touch-friendly */
+            @media (max-width: 768px) {
+                .news-scroll-container { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+                .news-list { flex-direction: row; gap: 1rem; padding: 0 0.5rem; }
+                .news-list { flex-wrap: nowrap; }
+                .news-block { min-width: 80%; max-width: 80%; width: 80%; box-sizing: border-box; }
+                /* increase spacing for readability on small screens */
+                section > h2 { margin-bottom: 0.75rem; }
+            }
     </style>
     <div style="display: flex; align-items: center; position: relative;">
-        <div class="news-scroll-container" style="overflow-x: auto; flex: 1;">
-            <div style="display: flex; gap: 1.5rem; min-width: 0; padding: 1rem 0.5rem;">
+        <div class="news-scroll-container" style="overflow-x: auto; flex: 1;" role="region" aria-label="Новости кафедры">
+            <div class="news-list" style="display: flex; gap: 1.5rem; min-width: 0; padding: 1rem 0.5rem;">
             {% if site.posts and site.posts.size > 0 %}
                 {% assign news_sorted = site.posts | where: "lang", "ru" | sort: 'date' | reverse %}
                 {% for post in news_sorted limit:10 %}
@@ -267,7 +268,7 @@
         <p>С самого начала кафедра активно сотрудничает с базовыми организациями группы компаний Forecsys и участвует в совместных проектах с ведущими технологическими компаниями.Успешные студенты могут получать <a href="{{ site.baseurl }}/materials/scholarship">стипендии</a>.</p>
     </div>
     <div class="faq-item" style="margin: 1.5rem 0; border-bottom: 1px solid #eee; padding-bottom: 1rem;">
-        <h3>Я уже обучаюсь на кафедре. Где можно посмотреть материалы об учебе?</h3>
-        <p>Вся полезная информация для студентов и аспирантов находится в разделе обучения <a href="{{ site.baseurl }}/education/">стипендии</a>.</p>
+        <h3>Я уже обучаюсь на кафедре. Где можно посмотреть расписание кафедры?</h3>
+        <p>Вся полезная информация для студентов и аспирантов находится в разделе <a href="{{ site.baseurl }}/education/">"Обучение"</a>.</p>
     </div>
 </section>
