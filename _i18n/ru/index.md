@@ -193,10 +193,10 @@
         <p>Мы ценим открытость, инновации и постоянное совершенствование, поддерживая студентов стипендиями и личным наставничеством. Присоединяйтесь к нам, чтобы учиться, исследовать и внедрять инновации в области интеллектуальных систем!</p>
         </div>
     </div>
-<!-- Department Statistics -->
-    <div class="section-alternate">
-        <div class="section-container">
-            <h2 class="section-title"><i class="fa fa-chart-bar"></i> Кафедра в цифрах</h2>
+    <!-- Department Statistics -->
+    <div class="statistics" style="background: #f8f9fa; padding: 3rem 0; margin: 3rem 0;">
+        <div style="max-width: 1200px; margin: 0 auto;">
+            <h2 style="text-align: center; margin-bottom: 2rem;">Кафедра в цифрах</h2>
                 <div style="margin: 3rem auto 2.5rem auto; max-width: 1200px; width: 95%;">
                     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(240px, 100%), 1fr)); gap: clamp(1.5rem, 3vw, 2rem) clamp(2rem, 4vw, 4rem); text-align: center; padding: 1.5rem 0;">
                         <div class="fade-in-left" style="display: flex; flex-direction: column; align-items: center;">
@@ -214,6 +214,14 @@
                         <div class="fade-in-right" style="display: flex; flex-direction: column; align-items: center;">
                             <p style="font-size: 4rem; font-weight: 600; line-height: 0.9; margin-bottom: 0.5rem;">170+</p>
                             <p style="max-width: 220px; font-size: 1rem;">open source проектов на <a href="https://github.com/{{site.github}}" >GitHub</a></p>
+                        </div>
+                        <div class="fade-in-left" style="display: flex; flex-direction: column; align-items: center;">
+                            <p style="font-size: 2.8rem; font-weight: 600; line-height: 0.9; margin-bottom: 0.5rem;">каждый<br>семестр</p>
+                            <p style="max-width: 220px; font-size: 1rem;">студенты представляют <a href="{{ site.baseurl }}/materials/nir">научные отчеты</a>: paper-code-presentation</p>
+                        </div>
+                        <div class="fade-in-right" style="display: flex; flex-direction: column; align-items: center;">
+                            <p style="font-size: 2.2rem; font-weight: 600; line-height: 1.1; margin-bottom: 0.5rem;">NeurIPS,<br>ICML, ICLR<br>AISTATS</p>
+                            <p style="max-width: 220px; font-size: 1rem;">top-tier конференции публикуют наши исследования</p>
                         </div>
                     </div>
                 </div>
@@ -335,41 +343,6 @@
         </script>
     </div>
  </section>
-<!-- Department Statistics -->
-<div class="statistics" style="background: #f8f9fa; padding: 3rem 0; margin: 3rem 0;">
-    <div style="max-width: 1200px; margin: 0 auto;">
-        <h2 style="text-align: center; margin-bottom: 2rem;">Кафедра в цифрах</h2>
-            <div style="margin: 3rem auto 2.5rem auto; max-width: 1200px; width: 95%;">
-                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(240px, 100%), 1fr)); gap: clamp(1.5rem, 3vw, 2rem) clamp(2rem, 4vw, 4rem); text-align: center; padding: 1.5rem 0;">
-                    <div class="fade-in-left" style="display: flex; flex-direction: column; align-items: center;">
-                        <p style="font-size: 4rem; font-weight: 600; line-height: 0.9; margin-bottom: 0.5rem;">2003</p>
-                        <p style="max-width: 220px;font-size: 1rem;">год основания кафедры</p>
-                    </div>
-                    <div class="fade-in-right" style="display: flex; flex-direction: column; align-items: center;">
-                        <p style="font-size: 4rem; font-weight: 600; line-height: 0.9; margin-bottom: 0.5rem;">>50%</p>
-                        <p style="max-width: 220px;font-size: 1rem;">выпускников защитили кандидатские диссертации</p>
-                    </div>
-                    <div class="fade-in-left" style="display: flex; flex-direction: column; align-items: center;">
-                        <p style="font-size: 4rem; font-weight: 600; line-height: 0.9; margin-bottom: 0.5rem;"><35</p>
-                        <p style="max-width: 220px; font-size: 1rem;">средний возраст преподавателей курсов</p>
-                    </div>
-                    <div class="fade-in-right" style="display: flex; flex-direction: column; align-items: center;">
-                        <p style="font-size: 4rem; font-weight: 600; line-height: 0.9; margin-bottom: 0.5rem;">170+</p>
-                        <p style="max-width: 220px; font-size: 1rem;">open source проектов на <a href="https://github.com/{{site.github}}" >GitHub</a></p>
-                    </div>
-                    <div class="fade-in-left" style="display: flex; flex-direction: column; align-items: center;">
-                        <p style="font-size: 2.8rem; font-weight: 600; line-height: 0.9; margin-bottom: 0.5rem;">каждый<br>семестр</p>
-                        <p style="max-width: 220px; font-size: 1rem;">студенты представляют <a href="{{ site.baseurl }}/materials/nir">научные отчеты</a>: paper-code-presentation</p>
-                    </div>
-                    <div class="fade-in-right" style="display: flex; flex-direction: column; align-items: center;">
-                        <p style="font-size: 2.2rem; font-weight: 600; line-height: 1.1; margin-bottom: 0.5rem;">NeurIPS,<br>ICML, ICLR<br>AISTATS</p>
-                        <p style="max-width: 220px; font-size: 1rem;">top-tier конференции публикуют наши исследования</p>
-                    </div>
-                </div>
-            </div>
-    </div>
-</div>
-
 <!-- Courses Section -->
 <section id="courses" class="section-container fade-in-section">
     <h2 class="section-title"><i class="fa fa-graduation-cap"></i> Курсы</h2>
