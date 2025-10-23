@@ -1,9 +1,28 @@
 
-<div class="hero-viewport" style="position: relative; height: 95vh; display: flex; align-items: center; justify-content: center; text-align: center; width: 100vw; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; overflow: hidden;">
+<div class="hero-viewport" style="position: relative; min-height: 95vh; height: auto; display: flex; align-items: flex-start; justify-content: center; text-align: center; width: 100vw; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; overflow: hidden;">
   <div style="position: absolute; inset: 0; background: url('{{ site.baseurl_root }}/images/main/вц_ран.jpg') center/cover no-repeat; filter: blur(5px); transform: scale(1.1); z-index: 0;"></div>
   <div style="position: absolute; inset: 0; background-color: #000; z-index: 1; opacity: 0.6;"></div>
-    <div class="hero-content" style="position: relative; z-index: 2; color: #fff; width: 90%; max-width: 1200px; padding: 1.5rem; margin-bottom: 6vh;">
-    <h1 class="fade-in-left" style="color: #fff; margin-bottom: 1.5rem; font-size: clamp(1.8rem, 8vw, 2.5rem); font-weight: 600; line-height: 1.2;">Кафедра интеллектуальных систем</h1>
+    <div class="hero-content" style="position: relative; z-index: 2; color: #fff; width: 90%; max-width: 1200px; padding: clamp(4rem, 8vh, 8rem) 1.5rem 1.5rem; margin-bottom: 6vh;">
+    <style>
+        .department-title {
+            font-size: clamp(1rem, 3.5vw, 1.4rem);
+            margin-bottom: 0.2rem;
+            opacity: 0.9;
+        }
+        .department-name {
+            font-size: clamp(1.4rem, 5.5vw, 2.2rem);
+            font-weight: 600;
+            letter-spacing: -0.02em;
+        }
+        @media (max-width: 480px) {
+            .department-title { font-size: 1rem; }
+            .department-name { font-size: 1.4rem; }
+        }
+    </style>
+    <h1 class="fade-in-left" style="color: #fff; margin-bottom: 1.5rem; line-height: 1.1;">
+        <span class="department-title" style="display: block;">Кафедра</span>
+        <span class="department-name" style="display: block;">Интеллектуальных систем</span>
+    </h1>
     <p class="fade-in-right">
         Мы готовим специалистов в области прикладной математики и физики — от бакалавриата до аспирантуры. Наши исследования охватывают теорию машинного обучения, интеллектуальные системы и практические приложения. Основываясь на базе ВЦ РАН, мы объединяем академическое превосходство и сотрудничество с индустрией.
     </p>
@@ -69,10 +88,35 @@
     .quick-links-wrap { margin-bottom: 3rem; }
     .quick-links-card { display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:0.75rem; background:white; border-radius:12px; padding:1.5rem; box-shadow:0 4px 12px rgba(0,0,0,0.1); }
     /* make sure section navigation (mobile links) stays on top of quick-links card */
-    .section-nav { position: relative; z-index: 999; display: flex; gap: .75rem; flex-wrap: wrap; justify-content: center; margin-top: 0.75rem; background: rgba(255,255,255,0.98); padding: 0.35rem 0.6rem; border-radius: 8px; box-shadow: 0 6px 18px rgba(0,0,0,0.06); }
+    .section-nav { 
+        position: relative; 
+        z-index: 999; 
+        display: flex; 
+        gap: .75rem; 
+        flex-wrap: wrap; 
+        justify-content: center; 
+        margin-top: -1rem; 
+        margin-bottom: 1rem;
+        background: rgba(255,255,255,0.98); 
+        padding: 0.35rem 0.6rem; 
+        border-radius: 8px; 
+        box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+        width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+    }
     .section-nav a { display: inline-block; color: #222; }
     /* make the first content section clearly separated (white surface) from the hero */
-    .section-alternate:first-of-type { position: relative; z-index: 2; padding-top: 2.5rem; margin-top: 1rem; background: #ffffff; box-shadow: 0 -8px 24px rgba(0,0,0,0.06); border-top-left-radius: 8px; border-top-right-radius: 8px; }
+    .section-alternate:first-of-type { 
+        position: relative; 
+        z-index: 2; 
+        padding-top: 1.5rem; 
+        margin-top: 0; 
+        background: #ffffff; 
+        box-shadow: 0 -8px 24px rgba(0,0,0,0.06); 
+        border-top-left-radius: 8px; 
+        border-top-right-radius: 8px; 
+    }
     .section-alternate:first-of-type .section-container { padding-top: 0.5rem; }
     /* reduce the contrasting gray by ensuring a white band under quick-links */
     .quick-links-wrap::after { content: ""; display: block; height: 1rem; width: 100%; background: transparent; }
