@@ -84,8 +84,39 @@
             {% endif %}
         </div>
         {% include footer.html %}
+        
+        <!-- Кнопка "наверх" -->
+        <div class="back-to-top">
+            <button onclick="scrollToTop()" aria-label="Прокрутить страницу наверх">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline points="18 15 12 9 6 15"></polyline>
+                </svg>
+            </button>
+        </div>
+
         {% if page.toc %}
         <script type="module" src="{{ site.baseurl_root }}/javascript/toc.js"></script>
         {% endif %}
+
+        <script>
+            // Показать/скрыть кнопку "наверх" при прокрутке
+            const backToTopButton = document.querySelector('.back-to-top');
+            
+            window.addEventListener('scroll', () => {
+                if (window.pageYOffset > 300) {
+                    backToTopButton.classList.add('visible');
+                } else {
+                    backToTopButton.classList.remove('visible');
+                }
+            });
+
+            // Плавная прокрутка наверх
+            function scrollToTop() {
+                window.scrollTo({
+                    top: 0,
+                    behavior: 'smooth'
+                });
+            }
+        </script>
     </body>
 </html>
