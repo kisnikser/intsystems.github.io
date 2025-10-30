@@ -37,7 +37,7 @@ This page contains upcoming deadlines for top-tier machine learning conferences,
     
     {% if sorted_data.size == 0 %}
         <div style="grid-column: 1 / -1; text-align: center; padding: 2rem; background: #f9f9f9; border-radius: 1rem;">
-            <p style="font-size: 1.1rem; color: #666; margin: 0;">No upcoming conference deadlines at the moment. Check back later!</p>
+            <p style="margin: 0;">No upcoming conference deadlines at the moment. Check back later!</p>
         </div>
     {% endif %}
     

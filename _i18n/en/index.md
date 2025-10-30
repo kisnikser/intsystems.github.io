@@ -87,7 +87,7 @@
             <p style="max-width: 220px; font-size: 1rem;">students submit <a href="{{ site.baseurl }}/materials/nir">research reports</a>: paper-code-presentation</p>
         </div>
         <div class="fade-in-right" style="display: flex; flex-direction: column; align-items: center;">
-            <p style="font-size: 2.2rem; font-weight: 600; line-height: 1.1; margin-bottom: 0.5rem;">NeurIPS,<br>ICML, ICLR<br>AISTATS</p>
+            <p style="font-size: 2.2rem; font-weight: 600; line-height: 1.1; margin-bottom: 0.5rem;">NeurIPS,<br>ICML, ICLR,<br>AISTATS</p>
             <p style="max-width: 220px; font-size: 1rem;">top-tier conferences publish our research</p>
         </div>
     </div>

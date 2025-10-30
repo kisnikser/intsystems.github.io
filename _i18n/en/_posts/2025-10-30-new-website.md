@@ -1,7 +1,7 @@
 ---
 layout: news
 title: "New Website Design"
-date: 2025-10-21
+date: 2025-10-30
 excerpt: "We present our new website design, updated for better user experience and accessibility."
 lang: en
 important: false

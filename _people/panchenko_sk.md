@@ -2,7 +2,7 @@
 title: people.panchenko_sk
 edit: true
 position: pgs
-avatar:
+avatar: panchenko_sk.jpg
 mail:
 site:
 scholar:
