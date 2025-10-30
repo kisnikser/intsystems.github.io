@@ -2,7 +2,7 @@
 title: people.vladimirov_ea
 edit: true
 position: pgs
-avatar:
+avatar: vladimirov_ea.jpeg
 mail:
 site:
 scholar:

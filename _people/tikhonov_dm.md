@@ -2,7 +2,7 @@
 title: people.tikhonov_dm
 edit: true
 position: pgs
-avatar:
+avatar: tikhonov_dm.jpeg
 mail: tihonov.dm@phystech.edu
 site:
 scholar:

@@ -193,10 +193,10 @@
             <div class="fade-in-right research-block" >
                 <div class="research-block-title">Internships</div>
                 <p style="margin: 1rem 0;">
-                    Since the beginning, the department has been actively cooperating with the base companies of the Forexis Group of Companies and participates in joint projects with leading tech companies.
+                    Since the beginning, the department has been actively cooperating with the base companies of the Forecsys Group of Companies and participates in joint projects with leading tech companies.
                 </p>
                 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-                    <p style="background: #f0f0f0; padding: 0.3rem 0.8rem; border-radius: 1rem;">Forexis</p>
+                    <p style="background: #f0f0f0; padding: 0.3rem 0.8rem; border-radius: 1rem;">Forecsys</p>
                     <p style="background: #f0f0f0; padding: 0.3rem 0.8rem; border-radius: 1rem;">Antiplagiat</p>
                     <p style="background: #f0f0f0; padding: 0.3rem 0.8rem; border-radius: 1rem;">Yandex</p>
                     <p style="background: #f0f0f0; padding: 0.3rem 0.8rem; border-radius: 1rem;">SBER</p>
